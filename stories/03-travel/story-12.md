@@ -2,31 +2,42 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **At the Hotel**
 
 After arriving in Tokyo, Mark takes a taxi to his hotel. He has a reservation at the Grand Tokyo Hotel.
+อาฟเทอะ อะไรฟวิ่ง อิน โตเกียว มาร์ค เทคส์ อะ แท็กซี่ ทู ฮิส โฮเทล ฮี แฮส อะ รีเซอเวชั่น แอท เดอะ แกรนด์ โตเกียว โฮเทล
 
 When he arrives, the bellman helps him with his luggage. Mark walks to the front desk.
+เวน ฮี อะไรฟวส์ เดอะ เบลล์แมน เฮลพส์ ฮิม วิธ ฮิส ลักเกจ มาร์ค วอคส์ ทู เดอะ ฟรอนท เดสค
 
 "Good afternoon. I have a reservation under Mark Johnson," Mark says.
+"กู้ด อาฟเทอะนูน ไอ แฮฟว อะ รีเซอเวชั่น อันเดอร์ มาร์ค จอห์นสัน" มาร์ค เซย์ส
 
 The receptionist types on the computer. "Yes, Mr. Johnson. A deluxe room for 3 nights. May I see your passport, please?"
+เดอะ รีเซพชั่นนิสท ไทพส์ ออน เดอะ คอมพิวเทอะ "เยส มิสเตอร์ จอห์นสัน อะ ดีลักซ์ รูม ฟอ ธรี ไนทส์ เมย์ ไอ ซี ยัว พาสปอร์ต พลีส?"
 
 Mark gives her his passport. She checks him in and gives him a key card.
+มาร์ค กิฟวส์ เฮอร์ ฮิส พาสปอร์ต ชี เช็คส์ ฮิม อิน แอนด์ กิฟวส์ ฮิม อะ คีย์ คาร์ท
 
 "Your room is on the 15th floor, room 1508. The elevator is over there," she says.
+"ยัว รูม อิส ออน เดอะ ฟิฟทีนธ์ ฟลอร์ รูม วันไฟว์โอเอท ดิ เอลลิเวเทอะ อิส โอเวอะ แดร์" ชี เซย์ส
 
 "Thank you. What time is breakfast?" Mark asks.
+"แธงค ยู วอท ไทม์ อิส เบรคเฟิสท?" มาร์ค อาสคส์
 
 "Breakfast is served from 6 AM to 10 AM on the 2nd floor," she replies.
+"เบรคเฟิสท อิส เซิฟวด ฟรอม ซิกซ์ เอเอ็ม ทู เทน เอเอ็ม ออน เดอะ เซคเคินด ฟลอร์" ชี รีพลายส
 
 Mark takes the elevator to his room. The room is spacious with a king-size bed and a beautiful view of the city.
+มาร์ค เทคส์ ดิ เอลลิเวเทอะ ทู ฮิส รูม เดอะ รูม อิส สเปเชียส วิธ อะ คิงไซส์ เบด แอนด์ อะ บิวทิฟูล วิว ออฟ เดอะ ซิตี้
 
 He unpacks his bag and takes a shower. Then he goes down to the restaurant for dinner.
+ฮี อันแพคส์ ฮิส แบก แอนด์ เทคส์ อะ ชาวเวอะ เซน ฮี โกส ดาวน์ ทู เดอะ เรสทอรองท ฟอ ดินเนอะ
 
 The hotel staff is very friendly and helpful. Mark enjoys his stay at the Grand Tokyo Hotel.
+เดอะ โฮเทล สตาฟฟ์ อิส เวริ เฟรนด์ลิ แอนด์ เฮลฟูล มาร์ค เอนจอยส์ ฮิส สเตย์ แอท เดอะ แกรนด์ โตเกียว โฮเทล
 
 ---
 

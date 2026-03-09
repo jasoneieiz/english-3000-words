@@ -2,33 +2,45 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **At the Airport**
 
 Mark is flying to Tokyo for a business trip. He arrives at the airport 2 hours before his flight.
+มาร์ค อิส ไฟอิง ทู โตเกียว ฟอ อะ บิซเนส ทริป ฮี อะไรฟวส์ แอท ดิ แอร์พอร์ต ทู อาเวอส์ บิฟอร์ ฮิส ไฟลท
 
 First, he goes to the check-in counter. "Good morning. I'd like to check in for flight JL702 to Tokyo," Mark says.
+เฟิสท ฮี โกส ทู เดอะ เช็ค-อิน เคาทเทอะ "กู้ด มอร์นิง ไอ'd ไลค ทู เช็ค อิน ฟอ ไฟลท เจแอลเซเว่นโอทู ทู โตเกียว" มาร์ค เซย์ส
 
 The airline agent asks for his passport and ticket. "Do you have any bags to check?"
+ดิ แอร์ไลน์ เอเจนท์ อาสคส์ ฟอ ฮิส พาสปอร์ต แอนด์ ทิคเคท "ดู ยู แฮฟว เอนี แบ็กส์ ทู เช็ค?"
 
 "Yes, one suitcase," Mark replies.
+"เยส วัน ซุทเคส" มาร์ค รีพลายส
 
 The agent weighs the bag and gives Mark his boarding pass. "Your gate is A12. Boarding starts at 10:30 AM."
+ดิ เอเจนท์ เวทส์ เดอะ แบก แอนด์ กิฟวส์ มาร์ค ฮิส บอร์ดดิ้ง พาส "ยัว เกท อิส เอทเวลฟ์ บอร์ดดิ้ง สตาร์ทส์ แอท เทน เธอร์ตี้ เอเอ็ม"
 
 "Thank you," Mark says.
+"แธงค ยู" มาร์ค เซย์ส
 
 Next, Mark goes through security check. He takes off his shoes and puts his laptop in a tray. The security officer scans him with a metal detector.
+เนคซท มาร์ค โกส ธรู ซิคิวริทิ เช็ค ฮี เทคส์ ออฟฟ์ ฮิส ชูส์ แอนด์ พุทส์ ฮิส แล็ปท็อป อิน อะ เทรย์ เดอะ ซิคิวริทิ ออฟฟิเซอะ สแกนส์ ฮิม วิธ อะ เมทัล ดิเทคเทอะ
 
 After security, Mark walks to gate A12. He buys a coffee and waits.
+อาฟเทอะ ซิคิวริทิ มาร์ค วอคส์ ทู เกท เอทเวลฟ์ ฮี บายส์ อะ คอฟฟี่ แอนด์ เวทส์
 
 At 10:30 AM, the announcement says, "Flight JL702 to Tokyo is now boarding."
+แอท เทน เธอร์ตี้ เอเอ็ม ดิ อะเนานซ์เม้นท เซย์ส "ไฟลท เจแอลเซเว่นโอทู ทู โตเกียว อิส นาว บอร์ดดิ้ง"
 
 Mark shows his boarding pass and gets on the plane. He finds his seat, 24A, by the window.
+มาร์ค โชวส์ ฮิส บอร์ดดิ้ง พาส แอนด์ เกทส์ ออน เดอะ เพลน ฮี ไฟนดส์ ฮิส ซีท ทเวนตีโฟร์เอ บาย เดอะ วินโดว
 
 The flight attendant says, "Please fasten your seatbelt. We'll take off soon."
+เดอะ ไฟลท แอทเทนเดินท เซย์ส "พลีส ฟาสเซิน ยัว ซีทเบลท วีล์ เทค ออฟฟ์ ซูน"
 
 Mark is excited about his trip to Tokyo.
+มาร์ค อิส เอคไซทิด อะเบาท ฮิส ทริป ทู โตเกียว
 
 ---
 

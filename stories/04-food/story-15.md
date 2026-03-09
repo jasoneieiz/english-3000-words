@@ -2,43 +2,60 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Going Home**
 
 It's Mark's fourth and final day in Tokyo. He has to fly back to Bangkok tonight.
+อิทส์ มาร์คส์ โฟร์ธ แอนด์ ไฟนอล เดย์ อิน โตเกียว ฮี แฮส ทู ฟลาย แบค ทู แบงค็อก ทูไนท์
 
 In the morning, Mark checks out of the hotel. The concierge helps him call a taxi to Narita Airport.
+อิน เดอะ มอร์นิง มาร์ค เช็คส์ เอาท์ ออฟ เดอะ โฮเทล เดอะ คอนเซียจ เฮลพส์ ฮิม คอล อะ แท็กซี่ ทู นาริตะ แอร์พอร์ต
 
 "Thank you for staying with us. We hope to see you again," the concierge says.
+"แธงค์ ยู ฟอ สเตย์อิง วิธ อัส วี โฮพ ทู ซี ยู อะเกน" เดอะ คอนเซียจ เซย์ส
 
 Mark arrives at the airport 3 hours before his flight. He has a lot of time, so he walks around the duty-free shops.
+มาร์ค อะไรฟว์ส แอท ดิ แอร์พอร์ต ธรี อาเวอส์ บิฟอร์ ฮิส ไฟลท์ ฮี แฮส อะ ลอท ออฟ ไทม์ โซ ฮี วอคส์ อะราวนด์ เดอะ ดิวตี้ฟรี ช็อพส์
 
 He buys some Japanese whisky and cosmetics as gifts for his colleagues. The prices are cheaper than in Bangkok.
+ฮี บายส์ ซัม ญี่ปุ่นแนส วิสกี้ แอนด์ คอสเมทิคส์ แอส กิฟต์ส ฟอ ฮิส คอลลีกส์ เดอะ ไพรซ์เซส อาร์ ชีพเพอะ แดน อิน แบงค็อก
 
 At 2 PM, Mark goes to the check-in counter. He shows his passport and ticket.
+แอท ทู พีเอ็ม มาร์ค โกส ทู เดอะ เช็คอิน เคาน์เตอร์ ฮี โชวส์ ฮิส พาสปอร์ต แอนด์ ทิคเก็ต
 
 "Your flight is on time. Your gate is 42," the agent says.
+"ยัว ไฟลท์ อิส ออน ไทม์ ยัว เกท อิส โฟร์ตี้ทู" เดอะ เอเจนท์ เซย์ส
 
 Mark goes through security and immigration. Then he waits at the departure lounge.
+มาร์ค โกส ธรู ซิคิวริที แอนด์ อิมมิเกรชั่น เซน ฮี เวทส์ แอท เดอะ ดิพาร์ทเชอร์ เลานจ์
 
 At 3:30 PM, boarding starts. Mark shows his boarding pass and gets on the plane. He has a window seat again.
+แอท ธรี เธอร์ตี้ พีเอ็ม บอร์ดดิ้ง สตาร์ทส์ มาร์ค โชวส์ ฮิส บอร์ดดิ้ง พาส แอนด์ เกทส์ ออน เดอะ เพลน ฮี แฮส อะ วินโดว์ ซีท อะเกน
 
 The flight attendant serves dinner. Mark eats chicken rice and drinks green tea.
+เดอะ ไฟลท์ แอทเทนแดนท์ เซิฟว์ส ดินเนอร์ มาร์ค อีทส์ ชิคเคน ไรซ์ แอนด์ ดริงค์ส กรีน ที
 
 The flight takes 6 hours. Mark watches movies and tries to sleep.
+เดอะ ไฟลท์ เทคส์ ซิกซ์ อาเวอส์ มาร์ค วอทเชส มูฟวี่ส์ แอนด์ ไทรส์ ทู สลีพ
 
 At 8 PM Bangkok time, the plane lands at Suvarnabhumi Airport. Mark collects his luggage and goes through customs.
+แอท เอท พีเอ็ม แบงค็อก ไทม์ เดอะ เพลน แลนด์ส แอท สุวรรณภูมิ แอร์พอร์ต มาร์ค คอลเลคส์ ฮิส ลักเกจ แอนด์ โกส ธรู คัสตอมส์
 
 He takes the airport train home. When he arrives, his wife is waiting for him.
+ฮี เทคส์ ดิ แอร์พอร์ต เทรน โฮม เวน ฮี อะไรฟว์ส ฮิส ไวฟ์ อิส เวทติ้ง ฟอ ฮิม
 
 "Welcome home!" she says. They hug and kiss.
+"เวลคัม โฮม!" ชี เซย์ส เดย์ ฮัก แอนด์ คิส
 
 Mark is tired but happy. His trip to Tokyo was successful.
+มาร์ค อิส ไทเออด บัท แฮพปี ฮิส ทริป ทู โตเกียว วอส ซัคเซสฟูล
 
 "I brought you a pearl necklace," Mark says.
+"ไอ บรอท ยู อะ เพิร์ล เนคเลซ" มาร์ค เซย์ส
 
 His wife is very happy. "Thank you, darling!"
+ฮิส ไวฟ์ อิส เวริ แฮพปี "แธงค์ ยู ดาร์ลิง!"
 
 ---
 

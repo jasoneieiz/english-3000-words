@@ -2,43 +2,60 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **At the Food Market**
 
 Maria goes to the local food market every Saturday morning. She likes to buy fresh ingredients for the week.
+มาเรีย โกส ทู เดอะ โลคอล ฟูด มาร์เก็ต เอฟวรี แซทเทอร์เดย์ มอร์นิง ชี ไลค์ส ทู บาย เฟรช อินกรีเดียนทส์ ฟอ เดอะ วีค
 
 The market is busy and colorful. There are many stalls selling fruits, vegetables, meat, and seafood.
+เดอะ มาร์เก็ต อิส บิซซี แอนด์ คัลเลอร์ฟูล เดร์ อาร์ แมนนี่ สตอลส์ เซลลิง ฟรุตส์ เวจเทเบิลส์ มีท แอนด์ ซีฟูด
 
 First, Maria goes to the fruit stall. "Good morning! What's fresh today?" she asks.
+เฟิสท มาเรีย โกส ทู เดอะ ฟรุต สตอล "กู้ด มอร์นิง! วอทส์ เฟรช ทูเดย์?" ชี อาสค์ส
 
 "We have fresh mangoes, papayas, and dragon fruits," the vendor says.
+"วี แฮฟว เฟรช แมงโกส์ ปะปายาส แอนด์ ดราก้อน ฟรุตส์" เดอะ เวนเดอร์ เซย์ส
 
 Maria buys 2 kilos of mangoes and 3 papayas. "These mangoes look ripe and sweet," she says.
+มาเรีย บายส์ ทู คีโลส์ ออฟ แมงโกส์ แอนด์ ธรี ปะปายาส "ดีส แมงโกส์ ลุค ไรพ์ แอนด์ สวีท" ชี เซย์ส
 
 Next, she goes to the vegetable stall. She buys tomatoes, onions, garlic, and leafy greens.
+เนคซท ชี โกส ทู เดอะ เวจเทเบิล สตอล ชี บายส์ มะเขือเทศ ออนียนส์ การ์ลิค แอนด์ ลีफी กรีนส์
 
 "How much is this?" Maria asks.
+"ฮาว มัช อิส ดิส?" มาเรีย อาสค์ส
 
 "50 baht per kilo," the vendor replies.
+"ฟิฟตี้ บาท เพอ คีโล" เดอะ เวนเดอร์ รีพลายส์
 
 Maria buys 1 kilo of tomatoes and 500 grams of onions.
+มาเรีย บายส์ วัน คีโล ออฟ มะเขือเทศ แอนด์ ฟิฟฟ์ฮันเดรด แกรมส์ ออฟ ออนียนส์
 
 Then she goes to the meat section. She buys 500 grams of pork and 1 kilo of chicken.
+เซน ชี โกส ทู เดอะ มีท เซคชั่น ชี บายส์ ฟิฟฟ์ฮันเดรด แกรมส์ ออฟ พอร์ก แอนด์ วัน คีโล ออฟ ชิคเคน
 
 "The chicken is very fresh. It was slaughtered this morning," the butcher says.
+"เดอะ ชิคเคน อิส เวรี่ เฟรช อิท วอส สลอเทอร์ด ดิส มอร์นิง" เดอะ บัทเชอร์ เซย์ส
 
 Finally, Maria visits the seafood stall. She buys 1 kilo of shrimp and 2 fish.
+ไฟนอลลี่ มาเรีย วิซิทส์ เดอะ ซีฟูด สตอล ชี บายส์ วัน คีโล ออฟ ชริมพ์ส แอนด์ ทู ฟิช
 
 "I'll make tom yum goong tonight," Maria says.
+"อายล์ เมค ต้มยำกุ้ง ทูไนท์" มาเรีย เซย์ส
 
 At the snack section, Maria buys some fresh spring rolls and grilled squid. She eats them while walking.
+แอท เดอะ สแนค เซคชั่น มาเรีย บายส์ ซัม เฟรช สปริง โรลส์ แอนด์ กริลลด สควิด ชี อีทส์ เดม ไวล์ วอคคิง
 
 "This is delicious!" she says.
+"ดิส อิส ดิลิเชียส!" ชี เซย์ส
 
 Maria spends 800 baht at the market. She carries two heavy bags home.
+มาเรีย สเพนด์ส เอทฮันเดรด บาท แอท เดอะ มาร์เก็ต ชี แครี่ส์ ทู เฮฟวี่ แบ็กส์ โฮม
 
 Cooking with fresh market ingredients is Maria's passion. She loves feeding her family healthy meals.
+คุคคิง วิธ เฟรช มาร์เก็ต อินกรีเดียนทส์ อิส มาเรียส์ แพสชั่น ชี เลิฟส์ ฟีดดิ้ง เฮอร์ แฟมิลี่ เฮลธตี้ มีลส์
 
 ---
 

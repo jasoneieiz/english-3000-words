@@ -2,33 +2,45 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Shopping in Tokyo**
 
 On his third day, Mark wants to do some shopping. He needs to buy gifts for his family and friends.
+ออน ฮิส เธิร์ด เดย์ มาร์ค วอนทส์ ทู ดู ซัม ช็อปปิ้ง ฮี นีดส์ ทู บาย กิฟต์ส ฟอ ฮิส แฟมิลี แอนด์ เฟรนด์ส์
 
 His hotel concierge recommends Ginza, a famous shopping district. "Ginza has many department stores and luxury shops," the concierge says.
+ฮิส โฮเทล คอนเซียจ รีคอมเมนด์ส กินซ่า อะ เฟมัส ช็อปปิ้ง ดิสทริค "กินซ่า แฮส แมนนี่ ดิพาร์ทเมนท์ สโตร์ส แอนด์ ลักชัวรี ช็อพส์" เดอะ คอนเซียจ เซย์ส
 
 Mark takes the subway to Ginza Station. When he exits, he sees many high-end stores like Chanel, Louis Vuitton, and Gucci.
+มาร์ค เทคส์ เดอะ ซับเวย์ ทู กินซ่า สเตชั่น เวน ฮี เอกซิทส์ ฮี ซีส แมนนี่ ไฮเอนด์ สโตร์ส ไลค์ ชาเนล ลุยส์ วิตตอง แอนด์ กุชชี่
 
 First, Mark goes to Mitsukoshi Department Store. It's a 7-story building with everything from clothes to food.
+เฟิสท มาร์ค โกส ทู มิตสึโคชิ ดิพาร์ทเมนท์ สโตร์ อิทส์ อะ เซเว่น-สตอรี บิลดิง วิธ เอฟวรีธิง ฟรอม โคลทส์ ทู ฟูด
 
 On the 3rd floor, Mark buys a watch for his father. "This is a nice Seiko watch," he says. The price is 25,000 yen.
+ออน เดอะ เธิร์ด ฟลอร์ มาร์ค บายส์ อะ วอทช์ ฟอ ฮิส ฟาเธอร์ "ดิส อิส อะ ไนส์ ไซโค วอทช์" ฮี เซย์ส เดอะ ไพรซ์ อิส ทเวนตีไฟว์เธาซันด เยน
 
 On the 5th floor, Mark buys a handbag for his mother. She loves Coach bags. The bag costs 30,000 yen.
+ออน เดอะ ฟิฟธ์ ฟลอร์ มาร์ค บายส์ อะ แฮนด์แบ็ก ฟอ ฮิส มาเธอร์ ชี เลิฟส์ โค้ช แบ็กส์ เดอะ แบ็ก คอสต์ ธรีตีเธาซันด เยน
 
 For his wife, Mark buys a pearl necklace at Mikimoto. "Pearls are famous in Japan," the salesperson says. The necklace is 50,000 yen.
+ฟอ ฮิส ไวฟ์ มาร์ค บายส์ อะ เพิร์ล เนคเลซ แอท มิคิโมโตะ "เพิลส์ อาร์ เฟมัส อิน ญี่ปุ่น" เดอะ เซลส์เพอร์ซัน เซย์ส เดอะ เนคเลซ อิส ฟิฟตีเธาซันด เยน
 
 For his friends, Mark buys Japanese snacks and green tea at a supermarket. He buys Tokyo Banana, KitKat (Japanese flavors), and matcha powder.
+ฟอ ฮิส เฟรนด์ส์ มาร์ค บายส์ ญี่ปุ่นแนส สแน็กส์ แอนด์ กรีน ที แอท อะ ซูเปอร์มาร์เก็ต ฮี บายส์ โตเกียว บานาน่า คิทแคท (ญี่ปุ่นแนส เฟลเวอร์ส) แอนด์ มัทฉะ เพาเดอร์
 
 After shopping, Mark has lunch at the restaurant floor. He eats ramen for 1,200 yen.
+อาฟเทอะ ช็อปปิ้ง มาร์ค แฮส ลันช์ แอท เดอะ เรสทอรองท์ ฟลอร์ ฮี อีทส์ ราเมน ฟอ วันเธาซันด ทูฮันเดรด เยน
 
 Mark spends a total of 106,200 yen (about 25,000 baht) on shopping. He's happy with his purchases.
+มาร์ค สเพนด์ส อะ โททอล ออฟ วันฮันเดรดซิกซ์เธาซันด ทูฮันเดรด เยน (อะเบาท ทเวนตีไฟว์เธาซันด บาท) ออน ช็อปปิ้ง ฮีส แฮพปี วิธ ฮิส เพอร์เชสเซส
 
 "This was a successful shopping trip!" Mark says.
+"ดิส วอส อะ ซัคเซสฟูล ช็อปปิ้ง ทริป!" มาร์ค เซย์ส
 
 He takes all the bags back to his hotel. Tomorrow, he'll fly back to Bangkok.
+ฮี เทคส์ ออล เดอะ แบ็กส์ แบค ทู ฮิส โฮเทล ทูมอร์โรว ฮีล์ ฟลาย แบค ทู แบงค็อก
 
 ---
 
