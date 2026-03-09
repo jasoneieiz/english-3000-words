@@ -54,17 +54,33 @@ function filterStories(series) {
 }
 
 // เปิดเรื่องสั้นใน Modal - แสดงเนื้อหาจาก data โดยตรง
-function openStory(story) {
+async function openStory(story) {
     const modal = document.getElementById('story-modal');
     const modalBody = document.getElementById('modal-body');
     
-    modalBody.innerHTML = `
-        <div class="story-content">
-            <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
-            ${story.content || '<p>เนื้อหากำลังอัปเดตค่ะ</p>'}
-        </div>
-    `;
+    modalBody.innerHTML = '<div class="loading">กำลังโหลดเนื้อหา...</div>';
     modal.style.display = 'block';
+    
+    // ถ้ามี content ใน story แล้ว แสดงเลย
+    if (story.content && story.content.length > 100) {
+        modalBody.innerHTML = `<div class="story-content"><h2>${story.id}. ${story.title} (${story.titleTh})</h2>${story.content}</div>`;
+        return;
+    }
+    
+    // ถ้าไม่มี โหลดจากไฟล์ JSON
+    try {
+        const response = await fetch('stories-data.json');
+        const allStories = await response.json();
+        const fullStory = allStories.find(s => s.id === story.id);
+        
+        if (fullStory && fullStory.content) {
+            modalBody.innerHTML = `<div class="story-content"><h2>${story.id}. ${story.title} (${story.titleTh})</h2>${fullStory.content}</div>`;
+        } else {
+            modalBody.innerHTML = `<div class="story-content"><h2>${story.id}. ${story.title} (${story.titleTh})</h2><p>เนื้อหากำลังอัปเดตค่ะ</p></div>`;
+        }
+    } catch (e) {
+        modalBody.innerHTML = `<div class="story-content"><h2>${story.id}. ${story.title} (${story.titleTh})</h2><p>เนื้อหากำลังอัปเดตค่ะ</p></div>`;
+    }
 }
 
 function closeModal() {
