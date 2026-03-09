@@ -1,4 +1,4 @@
-// ข้อมูลเรื่องสั้น 50 เรื่อง (เนื้อหาโหลดจาก stories-data.json)
+// ข้อมูลเรื่องสั้น 50 เรื่อง
 const stories = [
   { id: 1, title: "Morning Routine", titleTh: "กิจวัตรตอนเช้า", series: "daily-life", seriesTh: "ชีวิตประจำวัน" },
   { id: 2, title: "At the Supermarket", titleTh: "ที่ซูเปอร์มาร์เก็ต", series: "daily-life", seriesTh: "ชีวิตประจำวัน" },
@@ -52,101 +52,10 @@ const stories = [
   { id: 50, title: "Success Story", titleTh: "เรื่องราวความสำเร็จ", series: "career", seriesTh: "อาชีพ" }
 ];
 
-// ข้อมูลคำศัพท์ (ตัวอย่าง 100 คำแรก)
-const vocabulary = [
-  { level: 1, word: "wake up", pronunciation: "เวค อัพ", meaning: "ตื่นนอน", example: "I wake up early." },
-  { level: 1, word: "brush", pronunciation: "บรัช", meaning: "แปรง", example: "Brush your teeth." },
-  { level: 1, word: "breakfast", pronunciation: "เบรคเฟิสท", meaning: "อาหารเช้า", example: "Eat breakfast." },
-  { level: 1, word: "supermarket", pronunciation: "ซูเพอะมาร์เคท", meaning: "ซูเปอร์มาร์เก็ต", example: "Go to supermarket." },
-  { level: 1, word: "fresh", pronunciation: "เฟรช", meaning: "สด", example: "Fresh vegetables." }
-];
+// ข้อมูลคำศัพท์
+const vocabulary = [];
 
 // ข้อมูลวลีและสำนวน
-const phrases = {
-  greetings: {
-    title: "ทักทาย (Greetings)",
-    items: [
-      { en: "Hello!", pronunciation: "เฮลโล", th: "สวัสดี" },
-      { en: "Hi!", pronunciation: "ไฮ", th: "หวัดดี" },
-      { en: "Good morning!", pronunciation: "กู้ด มอร์นิง", th: "สวัสดีตอนเช้า" },
-      { en: "How are you?", pronunciation: "ฮาว อาร์ ยู", th: "คุณสบายดีไหม" },
-      { en: "Nice to meet you.", pronunciation: "ไนส ทู มีท ยู", th: "ยินดีที่ได้รู้จัก" }
-    ]
-  },
-  thanks: {
-    title: "ขอบคุณและขอโทษ (Thanks & Sorry)",
-    items: [
-      { en: "Thank you!", pronunciation: "แธงค ยู", th: "ขอบคุณ" },
-      { en: "Thanks a lot!", pronunciation: "แธงคส อะ ลอท", th: "ขอบคุณมาก" },
-      { en: "You're welcome.", pronunciation: "ยัว เวลคัม", th: "ด้วยความยินดี" },
-      { en: "I'm sorry.", pronunciation: "ไอม ซอริ", th: "ฉันขอโทษ" },
-      { en: "Excuse me.", pronunciation: "เอคซคิ้วส มี", th: "ขอโทษค่ะ/ครับ" }
-    ]
-  },
-  common: {
-    title: "วลีที่ใช้บ่อย (Common Phrases)",
-    items: [
-      { en: "I don't understand.", pronunciation: "ไอ โดนท อันเดอสแตนด์", th: "ฉันไม่เข้าใจ" },
-      { en: "Can you help me?", pronunciation: "แคน ยู เฮลพ มี", th: "คุณช่วยฉันได้ไหม" },
-      { en: "I don't know.", pronunciation: "ไอ โดนท โน", th: "ฉันไม่รู้" },
-      { en: "Wait a moment.", pronunciation: "เวท อะ โมเมินท", th: "รอสักครู่นะ" },
-      { en: "See you later.", pronunciation: "ซี ยู เลเทอะ", th: "แล้วเจอกัน" }
-    ]
-  }
-};
+const phrases = {};
 
-    <h3>English Version</h3>
-    <p><strong>My Morning Routine</strong></p>
-    <p>I wake up at 6:00 AM every day. First, I brush my teeth and wash my face. Then I take a shower and get dressed.</p>
-    <p>For breakfast, I usually have toast with eggs and a cup of coffee. I check my phone and read the news while eating.</p>
-    <p>At 7:30 AM, I leave my house and go to work. I take the bus because it's cheaper than driving. The bus ride takes about 30 minutes.</p>
-    <p>I arrive at the office at 8:00 AM. I say hello to my colleagues and start working.</p>
-    
-    <h3>เวอร์ชันภาษาไทย</h3>
-    <p><strong>กิจวัตรตอนเช้าของฉัน</strong></p>
-    <p>ฉันตื่นนอนตอน 6 โมงเช้าทุกวัน อย่างแรก ฉันแปรงฟันและล้างหน้า จากนั้นฉันอาบน้ำและแต่งตัว</p>
-    <p>สำหรับอาหารเช้า ฉันมักจะกินขนมปังปิ้งกับไข่และกาแฟหนึ่งถ้วย ฉันดูโทรศัพท์และอ่านข่าวขณะกินข้าว</p>
-    <p>7 โมงครึ่ง ฉันออกจากบ้านไปทำงาน ฉันนั่งรถเมล์เพราะถูกกว่าขับรถ รถเมล์ใช้เวลาประมาณ 30 นาที</p>
-    <p>ฉันถึงออฟฟิศตอน 8 โมงเช้า ฉันสวัสดีเพื่อนร่วมงานและเริ่มทำงาน</p>
-    
-    <h3>คำศัพท์สำคัญ</h3>
-    <ul>
-      <li><strong>wake up</strong> (เวค อัพ) = ตื่นนอน</li>
-      <li><strong>brush</strong> (บรัช) = แปรง</li>
-      <li><strong>shower</strong> (ชาวเออะ) = อาบน้ำฝักบัว</li>
-      <li><strong>breakfast</strong> (เบรคเฟิสท) = อาหารเช้า</li>
-      <li><strong>usually</strong> (ยูชัวลี่) = โดยปกติ</li>
-      <li><strong>leave</strong> (ลีฟ) = ออกไป</li>
-      <li><strong>colleague</strong> (คอลลีก) = เพื่อนร่วมงาน</li>
-      <li><strong>arrive</strong> (อะไรฟว) = มาถึง</li>
-    </ul>
-  `},
-  { id: 2, title: "At the Supermarket", titleTh: "ที่ซูเปอร์มาร์เก็ต", series: "daily-life", seriesTh: "ชีวิตประจำวัน", content: `
-    <h3>English Version</h3>
-    <p><strong>Shopping for Groceries</strong></p>
-    <p>Today is Saturday, so I go to the supermarket. I need to buy food for the week.</p>
-    <p>I take a shopping cart and walk through the aisles. First, I go to the vegetable section. I buy tomatoes, lettuce, and carrots. They look fresh and colorful.</p>
-    <p>Next, I go to the meat section. I choose some chicken and beef. I check the price and the expiration date.</p>
-    <p>Then, I buy some fruits - apples, bananas, and oranges. I also get some bread, milk, and eggs.</p>
-    <p>At the checkout counter, I pay with my credit card. The total is 1,500 baht. I put all the items in my bag and go home.</p>
-    
-    <h3>เวอร์ชันภาษาไทย</h3>
-    <p><strong>ซื้อของชำ</strong></p>
-    <p>วันนี้เป็นวันเสาร์ ฉันเลยไปซูเปอร์มาร์เก็ต ฉันต้องซื้ออาหารสำหรับทั้งสัปดาห์</p>
-    <p>ฉันเข็นรถเข็นและเดินไปตามทางเดิน อย่างแรก ฉันไปแผนกผัก ฉันซื้อมะเขือเทศ ผักกาด และแครอท พวกมันดูสดและมีสีสัน</p>
-    <p>ถัดไป ฉันไปแผนกเนื้อสัตว์ ฉันเลือกไก่และเนื้อวัว ฉันตรวจสอบราคาและวันหมดอายุ</p>
-    <p>จากนั้น ฉันซื้อผลไม้ - แอปเปิ้ล กล้วย และส้ม ฉันยังซื้อขนมปัง นม และไข่</p>
-    <p>ที่เคาน์เตอร์ชำระเงิน ฉันจ่ายด้วยบัตรเครดิต ยอดรวมเป็น 1,500 บาท ฉันใส่ของทั้งหมดในถุงแล้วกลับบ้าน</p>
-    
-    <h3>คำศัพท์สำคัญ</h3>
-    <ul>
-      <li><strong>supermarket</strong> (ซูเพอะมาร์เคท) = ซูเปอร์มาร์เก็ต</li>
-      <li><strong>shopping cart</strong> (ช็อปปิ้ง คาร์ท) = รถเข็น</li>
-      <li><strong>vegetable</strong> (เวจทะเบิล) = ผัก</li>
-      <li><strong>fresh</strong> (เฟรช) = สด</li>
-      <li><strong>meat</strong> (มีท) = เนื้อสัตว์</li>
-      <li><strong>price</strong> (ไพรส) = ราคา</li>
-      <li><strong>credit card</strong> (เครดิต คาร์ท) = บัตรเครดิต</li>
-    </ul>
-  `},
-
+console.log('Data loaded:', stories.length, 'stories');
