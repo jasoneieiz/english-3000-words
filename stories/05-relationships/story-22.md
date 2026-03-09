@@ -2,51 +2,72 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Dating**
 
 Tom meets a girl named Anna at a party. They talk for hours and hit it off immediately.
+ทอม มีทส์ อะ เกิร์ล เนมด แอนนา แอท อะ ปาร์ตี้ เดย์ ทอค ฟอ อาเวอส์ แอนด์ ฮิท อิท ออฟฟ์ อิมมีเดียทลี
 
 "Can I have your number?" Tom asks.
+"แคน ไอ แฮฟว ยัว นัมเบอร์?" ทอม อาสค์ส
 
 "Sure," Anna says. She gives him her phone number.
+"ชัวร์" แอนนา เซย์ส ชี กิฟส์ ฮิม เฮอร์ โฟน นัมเบอร์
 
 The next day, Tom texts Anna. "Hi, it's Tom from the party. Would you like to go out for dinner?"
+เดอะ เนคซท์ เดย์ ทอม เทคส์ทส์ แอนนา "ไฮ อิทส์ ทอม ฟรอม เดอะ ปาร์ตี้ วูด ยู ไลค์ ทู โก เอาท์ ฟอ ดินเนอร์?"
 
 Anna replies, "Yes, I'd love to! How about Saturday night?"
+แอนนา รีพลายส์ "เยส ไอด เลิฟ ทู! ฮาว อะเบ้าท์ แซทเทอร์เดย์ ไนท์?"
 
 "Perfect! I'll pick you up at 7 PM," Tom says.
+"เพอร์เฟคท์! ไอล์ พิค ยู อัพ แอท เซเว่น พีเอ็ม" ทอม เซย์ส
 
 On Saturday, Tom wears his best shirt. He buys flowers for Anna.
+ออน แซทเทอร์เดย์ ทอม แวร์ส ฮิส เบสท์ เชิ้ท ฮี บายส์ ฟลาวเออร์ส ฟอ แอนนา
 
 When he arrives at Anna's apartment, she's wearing a beautiful red dress.
+เวน ฮี อะไรฟว์ส แอท แอนนาส์ อพาร์ทเมนท์ ชีส แวร์ริ่ง อะ บิวติฟูล เรด เดรส
 
 "You look stunning!" Tom says. He gives her the flowers.
+"ยู ลุค สตันนิ่ง!" ทอม เซย์ส ฮี กิฟส์ เฮอร์ เดอะ ฟลาวเออร์ส
 
 "Thank you! You look handsome too," Anna says.
+"แธงค์ ยู! ยู ลุค แฮนด์ซัม ทู" แอนนา เซย์ส
 
 They go to an Italian restaurant. They order pasta and wine. They talk about their families, hobbies, and dreams.
+เดย์ โก ทู แอน อิทาเลียน เรสทอรองท์ เดย์ ออร์เดอร์ พาสต้า แอนด์ ไวน์ เดย์ ทอค อะเบ้าท์ เดียร์ แฟมิลี่ส์ ฮ็อบบี้ส์ แอนด์ ดรีมส์
 
 "I love traveling. I've been to 20 countries," Anna says.
+"ไอ เลิฟ ทราเวลลิง ไอฟว บีน ทู ทเวนตี้ คันทรีส์" แอนนา เซย์ส
 
 "Wow! I love traveling too. My favorite place is Japan," Tom says.
+"ว้าว! ไอ เลิฟ ทราเวลลิง ทู มาย เฟฟเวอริท เพลส อิส ญี่ปุ่น" ทอม เซย์ส
 
 After dinner, they walk in the park. It's a romantic evening with stars in the sky.
+อาฟเทอร์ ดินเนอร์ เดย์ วอค อิน เดอะ พาร์ค อิทส์ อะ โรแมนติค อีฟนิ่ง วิธ สตารส์ อิน เดอะ สกาย
 
 "I had a wonderful time tonight," Anna says.
+"ไอ แฮด อะ วันเดอร์ฟูล ไทม์ ทูไนท์" แอนนา เซย์ส
 
 "Me too. Can I see you again?" Tom asks.
+"มี ทู แคน ไอ ซี ยู อะเกน?" ทอม อาสค์ส
 
 Anna smiles. "Yes, I'd like that."
+แอนนา สไมล์ส "เยส ไอด ไลค์ แดท"
 
 Tom walks Anna to her door. They say goodnight.
+ทอม วอคส์ แอนนา ทู เฮอร์ ดอร์ เดย์ เซย์ กู๊ดไนท์
 
 "Text me when you get home," Anna says.
+"เทคส์ท มี เวน ยู เกท โฮม" แอนนา เซย์ส
 
 "I will. Goodnight, Anna," Tom says.
+"ไอ วิล กู๊ดไนท์ แอนนา" ทอม เซย์ส
 
 Tom goes home happy. He thinks Anna is the one.
+ทอม โกส โฮม แฮปปี้ ฮี ธิงค์ส แอนนา อิส เดอะ วัน
 
 ---
 

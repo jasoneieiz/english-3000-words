@@ -2,43 +2,60 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Making New Friends**
 
 Lisa just moved to a new city. She doesn't know anyone here. She wants to make new friends.
+ลิซ่า จัสท์ มูฟวด์ ทู อะ นิว ซิตี้ ชี ดาสซึนท โนว์ เอนีวัน เฮียร์ ชี วอนทส์ ทู เมค นิว เฟรนด์ส์
 
 On her first weekend, Lisa goes to a local coffee shop. She sees a community board with flyers.
+ออน เฮอร์ เฟิสท์ วีคเอนด์ ลิซ่า โกส ทู อะ โลคอล คอฟฟี่ ช็อป ชี ซีส อะ คอมมิวนิตี้ บอร์ด วิธ ฟลายเออร์ส
 
 "Yoga class every Saturday morning," Lisa reads. "Maybe I should try it."
+"โยคะ คลาส เอฟวรี แซทเทอร์เดย์ มอร์นิง" ลิซ่า รีดส์ "เมย์บี ไอ ชูด ไทร อิท"
 
 On Saturday, Lisa goes to the yoga studio. There are about 15 people in the class.
+ออน แซทเทอร์เดย์ ลิซ่า โกส ทู เดอะ โยคะ สตูดิโอ เดร์ อาร์ อะเบ้าท์ ฟิฟทีน พีเพิล อิน เดอะ คลาส
 
 After the class, a woman approaches Lisa. "Hi, I'm Sarah. You're new here, right?"
+อาฟเทอร์ เดอะ คลาส อะ วูแมน อะโพรเชส ลิซ่า "ไฮ ไอม ซาร่าห์ ยัวร์ นิว เฮียร์ ไรท์?"
 
 "Yes, I just moved here. I'm Lisa," Lisa replies.
+"เยส ไอ จัสท์ มูฟวด์ เฮียร์ ไอม ลิซ่า" ลิซ่า รีพลายส์
 
 "Welcome to the neighborhood! Do you want to grab coffee after class?" Sarah asks.
+"เวลคัม ทู เดอะ เนเบอร์ฮูด! ดู ยู วอนทส์ ทู แกร็บ คอฟฟี่ อาฟเทอร์ คลาส?" ซาร่าห์ อาสค์ส
 
 Lisa smiles. "Yes, I'd love to!"
+ลิซ่า สไมล์ส "เยส ไอด เลิฟ ทู!"
 
 They go to a nearby cafe. Sarah introduces Lisa to other people from the yoga class.
+เดย์ โก ทู อะ เนียร์บาย คาเฟ่ ซาร่าห์ อินโทรดิวเซส ลิซ่า ทู อัทเธอร์ พีเพิล ฟรอม เดอะ โยคะ คลาส
 
 "This is Mike, Emma, and John," Sarah says.
+"ดิส อิส ไมค์ เอ็มม่า แอนด์ จอห์น" ซาร่าห์ เซย์ส
 
 They talk about their hobbies, jobs, and favorite restaurants. Lisa feels comfortable.
+เดย์ ทอค อะเบ้าท์ เดียร์ ฮ็อบบี้ส์ จ็อบส์ แอนด์ เฟฟเวอริท เรสทอรองส์ ลิซ่า ฟีลส์ คัมเฟิร์ทเทเบิล
 
 "I'm glad I came to yoga," Lisa thinks.
+"ไอม แกลด ไอ เคม ทู โยคะ" ลิซ่า ธิงค์ส
 
 Over the next few weeks, Lisa joins the yoga class regularly. She also joins a book club that Sarah recommended.
+โอเวอร์ เดอะ เนคซท์ ฟิว วีคส์ ลิซ่า จอยส์ เดอะ โยคะ คลาส เรกูลาร์ลี ชี ออลโซ จอยส์ อะ บุค คลับ แดท ซาร่าห์ รีคอมเมนด์ด
 
 At the book club, Lisa meets more people who love reading. They discuss books and share recommendations.
+แอท เดอะ บุค คลับ ลิซ่า มีทส์ มอร์ พีเพิล ฮู เลิฟว รีดดิ้ง เดย์ ดิสคัส บุคส์ แอนด์ แชร์ รีคอมเมนเดชั่นส์
 
 "I've made so many new friends," Lisa says. "Moving to a new city wasn't so scary after all."
+"ไอฟว เมด โซ แมนี นิว เฟรนด์ส์" ลิซ่า เซย์ส "มูฟวิ่ง ทู อะ นิว ซิตี้ วอสซึนท โซ สแครี่ อาฟเทอร์ ออล"
 
 Three months later, Lisa has a group of close friends. They have dinner together every week.
+ธรี มันธส์ เลเทอร์ ลิซ่า แฮส อะ กรุพ ออฟ โคลส เฟรนด์ส์ เดย์ แฮฟว ดินเนอร์ ทูเกทเธอร์ เอฟวรี วีค
 
 "I'm so happy here now," Lisa says. "Making friends takes time, but it's worth it."
+"ไอม โซ แฮปปี้ เฮียร์ นาว" ลิซ่า เซย์ส "เมคกิ้ง เฟรนด์ส เทคส์ ไทม์ บัท อิทส์ เวิร์ธ อิท"
 
 ---
 

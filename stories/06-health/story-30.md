@@ -2,36 +2,54 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Healthy Sleep**
 
 Emma has trouble sleeping. She stays up late every night. She watches TV and uses her phone in bed.
+เอ็มม่า แฮส ทรับเบิล สลีปปิ้ง ชี สเตย์ส อัพ เลท เอฟวรี ไนท์ ชี วอทเชส ทีวี แอนด์ ยูเซส เฮอร์ โฟน อิน เบด
 
 "I only sleep 4-5 hours a night," Emma says.
+"ไอ โอนลี สลีพ โฟร์-ไฟว์ อาเวอส์ อะ ไนท์" เอ็มม่า เซย์ส
 
 She feels tired during the day. She can't concentrate at work.
+ชี ฟีลส์ ไทเออด ดูริง เดอะ เดย์ ชี ค้านท์ คอนเซนเทรท แอท เวิค
 
 Her doctor says, "You need better sleep habits. Sleep is important for health."
+เฮอร์ ดอคเตอร์ เซย์ส "ยู นีด เบทเทอร์ สลีพ แฮบบิทส์ สลีพ อิส อิมพอร์แทนท์ ฟอ เฮลธ์"
 
 Emma decides to change. She creates a bedtime routine.
+เอ็มม่า ดีไซด์ส์ ทู เชนจ์ ชี ครีเอทส์ อะ เบดไทม์ รูทีน
 
 9 PM: No more screens. She turns off her phone and TV.
+ไนน์ พีเอ็ม: โน มอร์ สกรีนส์ ชี เทิร์นส์ ออฟ เฮอร์ โฟน แอนด์ ทีวี
+
 9:30 PM: She takes a warm bath.
+ไนน์ เธอร์ตี้ พีเอ็ม: ชี เทคส์ อะ วอร์ม บาธ
+
 10 PM: She reads a book.
+เท็น พีเอ็ม: ชี รีดส์ อะ บุค
+
 10:30 PM: She goes to bed.
+เท็น เธอร์ตี้ พีเอ็ม: ชี โกส ทู เบด
 
 "It's hard at first. I want to check my phone," Emma says.
+"อิทส์ ฮาร์ด แอท เฟิสท์ ไอ วอนทส์ ทู เช็ค มาย โฟน" เอ็มม่า เซย์ส
 
 But she sticks to her routine. After 1 week, she sleeps better.
+บัท ชี สติคส์ ทู เฮอร์ รูทีน อาฟเทอร์ วัน วีค ชี สลีพส์ เบทเทอร์
 
 After 2 weeks, Emma wakes up refreshed. She has more energy.
+อาฟเทอร์ ทู วีคส์ เอ็มม่า เวคส์ อัพ รีเฟรสด ชี แฮส มอร์ เอเนอร์จี้
 
 "I sleep 7-8 hours now. I feel so much better!" Emma says.
+"ไอ สลีพ เซเว่น-เอท อาเวอส์ นาว ไอ ฟีล โซ มัช เบทเทอร์!" เอ็มม่า เซย์ส
 
 Her work improves. She's more productive. She's happier.
+เฮอร์ เวิค อิมพรูฟส์ ชีส มอร์ โพรดักทีฟ ชีส แฮปปี้เออร์
 
 "Sleep is the foundation of health. Don't sacrifice it," Emma says.
+"สลีพ อิส เดอะ เฟาน์เดชั่น ออฟ เฮลธ์ ดอนท์ แซคริฟายซ์ อิท" เอ็มม่า เซย์ส
 
 She shares her tips with friends:
 1. No screens before bed
