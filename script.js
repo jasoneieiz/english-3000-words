@@ -69,11 +69,13 @@ async function openStory(story) {
             </div>
         `;
     } catch (error) {
-        console.error('Error loading story:', error);
+        console.error('Error loading story:', error, 'URL:', url);
         modalBody.innerHTML = `
             <div class="story-content">
                 <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
-                <p>กำลังอัปเดตเนื้อหา...</p>
+                <p style="color: red;">Error: File not found</p>
+                <p>URL: ${url}</p>
+                <p>Error: ${error.message}</p>
             </div>
         `;
     }
