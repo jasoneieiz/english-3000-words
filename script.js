@@ -107,18 +107,57 @@ function parseMarkdown(markdown) {
     // Bold
     html = html.replace(/\*\*(.*)\*\*/gim, '<b>$1</b>');
     
-    // Paragraphs - split by double line breaks
-    const paragraphs = html.split(/\n\n+/);
-    html = paragraphs.map(p => {
-        // If paragraph starts with English letter, wrap in English paragraph
-        if (/^[A-Z]/.test(p.trim())) {
-            return '<p class="english-text">' + p.replace(/\n/g, '<br>') + '</p>';
-        }
-        // If paragraph is Thai, wrap in Thai paragraph
-        return '<p class="thai-text">' + p.replace(/\n/g, '<br>') + '</p>';
-    }).join('');
+    // Process line by line to pair English with Thai pronunciation
+    const lines = html.split(/\n/);
+    let result = [];
+    let i = 0;
     
-    return html;
+    while (i < lines.length) {
+        const line = lines[i].trim();
+        
+        // Skip empty lines and headers
+        if (!line || line.startsWith('#')) {
+            result.push(line);
+            i++;
+            continue;
+        }
+        
+        // If line starts with English letter, it's English text
+        if (/^[A-Z"]/.test(line)) {
+            let englishText = line;
+            let thaiText = '';
+            
+            // Check if next line is Thai pronunciation (starts with Thai character)
+            if (i + 1 < lines.length && /^[\u0E00-\u0E7F]/.test(lines[i + 1].trim())) {
+                thaiText = lines[i + 1].trim();
+                i++; // Skip the Thai line as we've processed it
+            }
+            
+            // Create paired display
+            if (thaiText) {
+                result.push('<div class="sentence-pair">');
+                result.push('<p class="english-text">' + englishText + '</p>');
+                result.push('<p class="thai-text">' + thaiText + '</p>');
+                result.push('</div>');
+            } else {
+                result.push('<p class="english-text">' + englishText + '</p>');
+            }
+        }
+        // If line starts with Thai character but no English before it, skip it
+        else if (/^[\u0E00-\u0E7F]/.test(line)) {
+            // Skip standalone Thai text (it's already paired)
+            i++;
+            continue;
+        }
+        // Other text (headers, etc.)
+        else {
+            result.push(line);
+        }
+        
+        i++;
+    }
+    
+    return result.join('\n');
 }
 
 // Close modal
