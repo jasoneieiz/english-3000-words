@@ -1,46 +1,46 @@
 # เรื่องที่ 40: Starting a Business (เริ่มต้นธุรกิจ)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Starting a Business**
 
-พิม แฮส แอน ไอเดีย ชี วอนทส์ ทู สตาร์ท แอน ออนไลน์ ช็อพ
+Pim has an idea. She wants to start an online shop.
 
-"ไอ เลิฟ แฟชั่น ไอลล์ เซลล์ โคลทส์ ออนไลน์" พิม เซย์ส
+"I love fashion. I'll sell clothes online," Pim says.
 
-พิม รีเซิชเชส เดอะ มาร์เคท ชี สตัดดีส์ คอมเพททิเทอส์
+Pim researches the market. She studies competitors.
 
-ชี นีดส์ แคพพิทอล ชี ยูซิส เฮอร์ เซฟวิ่งส์: วันฮันเดรดเธาซันด บาท
+She needs capital. She uses her savings: 100,000 baht.
 
-"อายล์ สตาร์ท สมอล เทสท เดอะ มาร์เคท เฟิสท" พิม เซย์ส
+"I'll start small. Test the market first," Pim says.
 
-พิม ครีเอทส์ อะ Facebook เพจ ชี โพสต์ส์ โฟโทส์ ออฟ โคลทส์
+Pim creates a Facebook page. She posts photos of clothes.
 
-ชี ซอร์สเซส พร็อดดัคส์ ฟรอม แบงค็อกส์ จตุจักร มาร์เคท
+She sources products from Bangkok's Chatuchak market.
 
-เฮอร์ เฟิสท มันธ: ชี เซลล์ส ทเวนตี พีซส์ เรฟเวอนิว อิส เธอร์ตีเธาซันด บาท
+Her first month: She sells 20 pieces. Revenue is 30,000 baht.
 
-"อิทส์ เวิคคิง! พีเพิล ไลค มาย สไตล์" พิม เซย์ส
+"It's working! People like my style," Pim says.
 
-พิม รีอินเวสทส์ เดอะ พร็อฟฟิท ชี บายส์ มอร์ อินเวนทอรี
+Pim reinvests the profit. She buys more inventory.
 
-ชี อิมพรูฟวส์ เฮอร์ แพคคิจิง ชี แอดส์ แธงค-ยู คาร์ดส์
+She improves her packaging. She adds thank-you cards.
 
-คัสโทเมอร์ส์ ลีฟว พ็อซซิทิฟว รีวิวส์ "เกรท ควอลลิทิ! ฟาสท ชิพพิง!" เดย์ เซย์
+Customers leave positive reviews. "Great quality! Fast shipping!" they say.
 
-อาฟเทอะ ซิกซ์ มันธส์ พิม ควิทส์ เฮอร์ จ็อบ ชี โฟคัสเซส ออน เฮอร์ บิซซิเนส ฟูลไทม์
+After 6 months, Pim quits her job. She focuses on her business full-time.
 
-"ไอ เอิร์น มอร์ แดน มาย โอลด์ ซาลารี่ ไอม มาย โอว์น บอส" พิม เซย์ส
+"I earn more than my old salary. I'm my own boss," Pim says.
 
-อาฟเทอะ วัน เยียร์ พิม ไฮเออส์ ทู เอ็มพลอยอีส ชี เอ็กสแพนด์ส เฮอร์ พร็อดดัค ไลน์
+After 1 year, Pim hires 2 employees. She expands her product line.
 
-"มาย ดรีม เคม ทรู ไอ โอน อะ บิซซิเนส" พิม เซย์ส
+"My dream came true. I own a business," Pim says.
 
-ชี แอดไวเซส อาเทอส์: "สตาร์ท สมอล เลิน ฟรอม มิซเทคส์ เนเวอะ กิฟว อัพ"
+She advises others: "Start small. Learn from mistakes. Never give up."
 
-"เอนเทอพรีเนอร์ชิพ อิส ฮาร์ด บัท อิทส์ ริวอร์ดดิ้ง" พิม เซย์ส
+"Entrepreneurship is hard, but it's rewarding," Pim says.
 
 ---
 

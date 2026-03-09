@@ -1,37 +1,28 @@
 # เรื่องที่ 6: At the Restaurant (ที่ร้านอาหาร)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **At the Restaurant**
 
 John and his wife, Mary, go to a Thai restaurant for dinner. It's their anniversary, so they want a special meal.
-จอห์น แอนด์ ฮิส ไวฟฟ์ แมรี โก ทู อะ ไทย เรสทอรองท ฟอ ดินเนอะ อิทส์ เดย์ แอนนิเวอเซอรี โซ เดย์ วอนท อะ สเปเชียล มีล
 
 The waiter greets them and shows them to a table by the window. "Here's the menu," he says. "Today's special is pad thai and green curry."
-เดอะ เวเทอะ กรีทส เดม แอนด์ โชวส์ เดม ทู อะ เทเบิล บาย เดอะ วินโดว "เฮียรส์ เดอะ เมนู" ฮี เซย์ส "ทูเดย์ส สเปเชียล อิส ผัดไทย แอนด์ กรีน เคอรี"
 
 John looks at the menu. "I'll have the green curry with chicken, please. And a glass of water."
-จอห์น ลุคส์ แอท เดอะ เมนู "อายล์ แฮฟว เดอะ กรีน เคอรี วิธ ชิคคิน พลีส แอนด์ อะ กลาส ออฟ วอเทอะ"
 
 Mary says, "I'd like the pad thai with shrimp, and a Thai iced tea."
-แมรี เซย์ส "อายด ไลค เดอะ ผัดไทย วิธ ชริมพส์ แอนด์ อะ ไทย ไอซ์ด ที"
 
 The waiter writes down their order and goes to the kitchen.
-เดอะ เวเทอะ ไรทส์ ดาวน์ เดย์ ออเดอะ แอนด์ โกส ทู เดอะ คิทเชิน
 
 After 15 minutes, the food arrives. The green curry smells delicious! John tastes it and says, "This is amazing! The best green curry I've ever had."
-อาฟเทอะ ฟิฟทีน มินนิตส์ เดอะ ฟูด อะไรฟวส์ เดอะ กรีน เคอรี สเมลลส์ ดิลิเชียส! จอห์น เทสทส์ อิท แอนด์ เซย์ส "ดิส อิส อะเมซิ่ง! เดอะ เบสท กรีน เคอรี ไอฟว เอฟเวอะ แฮด"
 
 Mary agrees. Her pad thai is also very good. They enjoy their meal together.
-แมรี อะกรีส์ เฮอร์ ผัดไทย อิส ออลโซ เวริ กูด เดย์ เอนจอย เดย์ มีล ทูเกทเธอะ
 
 After eating, the waiter brings the bill. "That's 850 baht, please."
-อาฟเทอะ อีทติง เดอะ เวเทอะ บริงส์ เดอะ บิล "แดทส์ เอทฮันเดรด ฟิฟตี บาท พลีส"
 
 John pays with his credit card and leaves a 50-baht tip. They leave the restaurant, feeling happy and full.
-จอห์น เพย์ส วิธ ฮิส เครดิต คาร์ท แอนด์ ลีฟวส์ อะ ฟิฟตี-บาท ทิป เดย์ ลีฟว เดอะ เรสทอรองท ฟีลลิง แฮพพิ แอนด์ ฟูล
 
 ---
 

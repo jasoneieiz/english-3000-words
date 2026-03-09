@@ -1,6 +1,6 @@
 # เรื่องที่ 44: Dealing with Difficult Boss (จัดการกับเจ้านายที่ยาก)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
 **Dealing with Difficult Boss**
 

@@ -1,40 +1,30 @@
 # เรื่องที่ 4: Job Interview (สัมภาษณ์งาน)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **The Job Interview**
 
 Last week, I applied for a job at a marketing company. Yesterday, they called me for an interview.
-ลาสท์ วีค ไอ อะพลายด์ ฟอ อะ จ็อบ แอท อะ มาร์เก็ตติง คัมพะนี เยสเตอร์เดย์ เดย์ คอลด์ มี ฟอ แอน อินเทอวิว
 
 I was very nervous. I prepared all night. I researched the company and practiced common interview questions.
-ไอ วอส เวริ เนอวัส ไอ พรีแพรด ออล ไนท ไอ รีเซิชด ดิ คัมพะนี แอนด์ แพรคติสด คอมมอน อินเทอวิว เควสชั่นส์
 
 On the day of the interview, I wore my best clothes and arrived 15 minutes early. The interviewer was a nice woman in her forties.
-ออน เดอะ เดย์ ออฟ ดิ อินเทอวิว ไอ วอร์ มาย เบสท โคลทส์ แอนด์ อะไรฟvd์ ฟิฟทีน มินนิตส์ เออริ ดิ อินเทอวิวเวอะ วอส อะ ไนซ วูมัน อิน เฮอร์ ฟอร์ตี้ส์
 
 "Tell me about yourself," she said.
-"เทล มี อะเบาท ยัวเซลฟ" ชี เซด
 
 I took a deep breath and answered, "I graduated from university last year with a degree in Marketing. I did an internship at a digital agency. I'm creative and I work well in a team."
-ไอ ทูค อะ ดีพ เบรธ แอนด์ แอนเซอด "ไอ แกรดดูเอท ฟรอม ยูนิเวอซิติ ลาสท เยียร์ วิธ อะ ดีกรี อิน มาร์เก็ตติง ไอ ดิด แอน อินเทิร์นชิพ แอท อะ ดิจิทอล เอเจนซี ไอม ครีเอทิฟ แอนด์ ไอ เวิค เวล อิน อะ ทีม"
 
 She asked me more questions about my strengths and weaknesses. I answered honestly.
-ชี อาสคด มี โม เควสชั่นส์ อะเบาท มาย สเตร็งธส์ แอนด์ วีคเนสเซส ไอ แอนเซอด ฮอนเนสลี่
 
 "Why should we hire you?" she asked.
-"วาย ชูด วี ไฮเออะ ยู?" ชี อาสคด
 
 "Because I'm passionate about marketing and I'm willing to learn," I said.
-"บิคอส ไอม แพสชันเนท อะเบาท มาร์เก็ตติง แอนด์ ไอม วิลลิง ทู เลิน" ไอ เซด
 
 She smiled. "Thank you. We'll call you next week."
-ชี สไมลด "แธงค ยู วีล์ คอล ยู เนคซท วีค"
 
 Today, they called. I got the job!
-ทูเดย์ เดย์ คอลด์ ไอ ก็อท เดอะ จ็อบ!
 
 ---
 

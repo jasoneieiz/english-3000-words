@@ -1,36 +1,36 @@
 # เรื่องที่ 10: At the Post Office (ที่ไปรษณีย์)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **At the Post Office**
 
-เอ็มม่า นีดส์ ทู เซนด์ อะ แพคเคจ ทู เฮอร์ เฟรนด์ อิน เชียงใหม่ ชี โกส ทู เดอะ โพสต์ ออฟฟิศ เนียร์ เฮอร์ เฮาส์
+Emma needs to send a package to her friend in Chiang Mai. She goes to the post office near her house.
 
-เวน ชี เอ็นเทอส์ ชี ซีส แมนนี่ เคาทเทอส์ ชีส น็อท ชัว วิช วัน ทู โก ทู อะ สตาฟฟ์ เมมเบอะ โนทิซิส เฮอร์ คอนฟิวชั่น
+When she enters, she sees many counters. She's not sure which one to go to. A staff member notices her confusion.
 
-"แคน ไอ เฮลพ ยู?" เดอะ สตาฟฟ์ เมมเบอะ อาสคส์
+"Can I help you?" the staff member asks.
 
-"เยส ไอ'd ไลค ทู เซนด์ ดิส แพคเคจ ทู เชียงใหม่" เอ็มม่า เซย์ส
+"Yes, I'd like to send this package to Chiang Mai," Emma says.
 
-"พลีส โก ทู เคาทเทอะ ไฟฟว ฟอ ดอเมสติก แพคเคจส์" เดอะ สตาฟฟ์ เมมเบอะ ไดเรคส์
+"Please go to counter 5 for domestic packages," the staff member directs.
 
-เอ็มม่า โกส ทู เคาทเทอะ ไฟฟว แอนด์ เวทส์ อิน ไลน์ เว็น อิทส์ เฮอร์ เทิร์น ชี พุทส์ เดอะ แพคเคจ ออน เดอะ เคาทเทอะ
+Emma goes to counter 5 and waits in line. When it's her turn, she puts the package on the counter.
 
-"อายด ไลค ทู เซนด์ ดิส ทู เชียงใหม่ ฮาว มัช วิล อิท คอสท?" เอ็มม่า อาสคส์
+"I'd like to send this to Chiang Mai. How much will it cost?" Emma asks.
 
-เดอะ โพสต์ทอล เวิคเคอะ เวทส์ เดอะ แพคเคจ "อิทส์ ทู กิโลกรัมส์ เดอะ เรกกิวลาร์ ชิพพิง อิส วันฮันเดรด ฟิฟตี บาท อิท วิล เทค ธรี-โฟร์ เดย์ส เอ็กซเพรส ชิพพิง อิส ทูฮันเดรด ฟิฟตี บาท แอนด์ วิล อะไรฟว ทูมอร์โรว"
+The postal worker weighs the package. "It's 2 kilograms. The regular shipping is 150 baht. It will take 3-4 days. Express shipping is 250 baht and will arrive tomorrow."
 
-"อายล์ เทค เดอะ เรกกิวลาร์ ชิพพิง พลีส" เอ็มม่า เซย์ส
+"I'll take the regular shipping, please," Emma says.
 
-"พลีส ฟิล เอาท์ ดิส ฟอร์ม วิธ เดอะ รีซิเพียนทส์ เนม แอนด์ แอดเดรส" เดอะ เวิคเคอะ เซย์ส
+"Please fill out this form with the recipient's name and address," the worker says.
 
-เอ็มม่า ฟิลส์ เอาท์ เดอะ ฟอร์ม แคร์ฟูลลี่ เดอะ เวิคเคอะ สติคส์ อะ เลเบิล ออน เดอะ แพคเคจ แอนด์ กิฟวส์ เอ็มม่า อะ แทรคคิง นัมเบอะ
+Emma fills out the form carefully. The worker sticks a label on the package and gives Emma a tracking number.
 
-"เฮียรส์ ยัว รีซีพท ยู แคน แทรค ยัว แพคเคจ ออนไลน์ วิธ ดิส นัมเบอะ" เดอะ เวิคเคอะ เซย์ส
+"Here's your receipt. You can track your package online with this number," the worker says.
 
-เอ็มม่า เพย์ส วันฮันเดรด ฟิฟตี บาท เทคส์ เดอะ รีซีพท แอนด์ ลีฟวส์ เดอะ โพสต์ ออฟฟิศ
+Emma pays 150 baht, takes the receipt, and leaves the post office.
 
 ---
 

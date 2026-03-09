@@ -1,46 +1,46 @@
 # เรื่องที่ 34: Online Learning (การเรียนออนไลน์)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Online Learning**
 
-ดูริง เดอะ แพนเดมิค สคูลส์ โคลส สทิวเดินทส์ มัสท เลิน ฟรอม โฮม
+During the pandemic, schools close. Students must learn from home.
 
-"ไอ มิสซฺ มาย เฟรนด์ส์ แอนด์ ทีชเชอส์" น้อง เซย์ส
+"I miss my friends and teachers," Nong says.
 
-น้องส์ สคูล สตาร์ทส์ ออนไลน์ คลาสเซส เดย์ ยูส Zoom แอนด์ Google Classroom
+Nong's school starts online classes. They use Zoom and Google Classroom.
 
-"ออนไลน์ เลินนิง อิส ดิฟเฟอเรนท์ ไอ แฮฟว ทู บี มอร์ ดิสซิพลินด" น้อง เซย์ส
+"Online learning is different. I have to be more disciplined," Nong says.
 
-เอฟวรี มอร์นิง น้อง เวคส์ อัพ แอท เซเว่น เอเอ็ม ชี แวร์ส เฮอร์ สคูล ยูนิฟอร์ม
+Every morning, Nong wakes up at 7 AM. She wears her school uniform.
 
-ชี จอยส์ เดอะ Zoom มีทติง แอท เอท เอเอ็ม เฮอร์ ทีชเชอะ ทีชเชส แมธ
+She joins the Zoom meeting at 8 AM. Her teacher teaches math.
 
-"แคน เอฟวรีวัน เฮีย มี?" เดอะ ทีชเชอะ อาสคส์
+"Can everyone hear me?" the teacher asks.
 
-"เยส!" เดอะ สทิวเดินทส์ รีพลาย
+"Yes!" the students reply.
 
-อาฟเทอะ คลาส น้อง ดูส์ อะไซน์เม้นทส์ ชี ซับมิทส์ เดม ออน Google Classroom
+After class, Nong does assignments. She submits them on Google Classroom.
 
-"ซัมไทมส์ ดิ อินเตอร์เนท อิส สโล อิทส์ ฟรัสเทรทติง" น้อง เซย์ส
+"Sometimes the internet is slow. It's frustrating," Nong says.
 
-บัท ชี อะแดพทส์ ชี ฟอร์มส์ อะ สตัดดิ กรุพ วิธ เฟรนด์ส์
+But she adapts. She forms a study group with friends.
 
-"วี สตัดดิ ทูเกทเธอะ ออน วิดีโอ คอล วี เฮลพ อีช อาเทอะ" น้อง เซย์ส
+"We study together on video call. We help each other," Nong says.
 
-อาฟเทอะ ซิกซ์ มันธส์ น้อง เกทส์ ยูสด ทู ออนไลน์ เลินนิง
+After 6 months, Nong gets used to online learning.
 
-"ไอ แคน เลิน แอท มาย โอว์น เพซ ไอ แคน รีวอทช เลคเชอส์" น้อง เซย์ส
+"I can learn at my own pace. I can rewatch lectures," Nong says.
 
-เฮอร์ เกรดส์ อิมพรูฟว ชีส พราว ออฟ เฮอร์เซลฟ
+Her grades improve. She's proud of herself.
 
-"เวน สคูลส์ รีโอเพิน ไอล มิสซฺ ซัม ธิงส์ อะเบาท ออนไลน์ เลินนิง" น้อง เซย์ส
+"When schools reopen, I'll miss some things about online learning," Nong says.
 
-ออนไลน์ เลินนิง ทอท เฮอร์ อินดิเพนเดนซ แอนด์ เซลฟ-ดิสซิพลิน
+Online learning taught her independence and self-discipline.
 
-"เทคโนโลยี่ แคน บี อะ พาวเวอร์ฟูล ทูล ฟอ เอดูเคชั่น" น้อง เซย์ส
+"Technology can be a powerful tool for education," Nong says.
 
 ---
 

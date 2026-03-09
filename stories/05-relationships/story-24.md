@@ -1,48 +1,48 @@
 # เรื่องที่ 24: Family Reunion (รวมญาติ)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Family Reunion**
 
-เอฟวรี เยียร์ ทอมส์ แฟมิลิ แฮส อะ รียูเนี่ยน ดิส เยียร์ อิทส์ แอท ฮิส แพเร็นทส์ เฮาส์ อิน เชียงใหม่
+Every year, Tom's family has a reunion. This year, it's at his parents' house in Chiang Mai.
 
-ทอม แฮสซึนท ซีน ฮิส เรลละทิฟส์ ฟอ ทู เยียร์ส ฮีส เอคไซทิด ทู ซี เอฟวรีวัน
+Tom hasn't seen his relatives for 2 years. He's excited to see everyone.
 
-ออน แซทเทอะเดย์ มอร์นิง ทอม ไดรฟวส์ ทู เชียงใหม่ วิธ ฮิส ไวฟ แอนด์ ชิลเดรน เดย์ อะไรฟว แอท นูน
+On Saturday morning, Tom drives to Chiang Mai with his wife and children. They arrive at noon.
 
-"เวลคัม!" ฮิส แพเร็นทส์ เซย์ เดย์ ฮัก แอนด์ คิส
+"Welcome!" his parents say. They hug and kiss.
 
-ฮิส อังเคิล อานท แอนด์ คัสซินส์ อาร์ ออลเรดดี้ เดร์ เดร์ อาร์ อะเบาท เธอร์ตี พีเพิล
+His uncle, aunt, and cousins are already there. There are about 30 people.
 
-"ทอม! ลอง ไทม โน ซี!" ฮิส คัสซิน จอห์น เซย์ส เดย์ เชค แฮนดส์
+"Tom! Long time no see!" his cousin John says. They shake hands.
 
-"ไฮ จอห์น! ฮาวส์ ยัว นิว จ็อบ?" ทอม อาสคส์
+"Hi John! How's your new job?" Tom asks.
 
-"อิทส์ เกรท! ไอม เวิคคิง แอท อะ เทค คัมพะนี อิน แบงค็อก" จอห์น รีพลายส
+"It's great! I'm working at a tech company in Bangkok," John replies.
 
-เดย์ ทอค ฟอ อาเวอส์ เดอะ วูมิน พรีแพ ฟูด อิน เดอะ คิทเชิน เดย์ เมค ส้มตำ กริลลด ชิคคิน แอนด์ สติกกี้ ไรซ์
+They talk for hours. The women prepare food in the kitchen. They make som tam, grilled chicken, and sticky rice.
 
-"ลันช อิส เรดดี้!" ทอมส์ มาเทอะ อะเนานซส์
+"Lunch is ready!" Tom's mother announces.
 
-เอฟวรีวัน ซิทส์ แอท ลอง เทเบิลส์ เดอะ ชิลเดรน รัน อะราวนด แอนด์ เพล
+Everyone sits at long tables. The children run around and play.
 
-ทอมส์ แกรนด์ฟาเทอะ กิฟวส์ อะ สปีช "ไอม แฮพพิ ทู ซี เอฟวรีวัน แฟมิลิ อิส เดอะ โมสท อิมพอร์แทนท ธิง" ฮี เซย์ส
+Tom's grandfather gives a speech. "I'm happy to see everyone. Family is the most important thing," he says.
 
-เอฟวรีวัน แคลพส์ เดย์ อีท แอนด์ ดริงค ทูเกทเธอะ
+Everyone claps. They eat and drink together.
 
-อาฟเทอะ ลันช เดย์ เทค แฟมิลิ โฟโทส์ "เซย์ ชีส!" เดอะ โฟโทกราฟเฟอะ เซย์ส
+After lunch, they take family photos. "Say cheese!" the photographer says.
 
-อิน ดิ อาฟเทอะนูน เดย์ เพล เกมส์ เดอะ ชิลเดรน แฮฟว อะ แซค เรซ ดิ เออดัลทส์ เพล วอลเลย์บอล
+In the afternoon, they play games. The children have a sack race. The adults play volleyball.
 
-แอท ไฟฟว์ พีเอ็ม เอฟวรีวัน เซย์ส กูดบาย "ซี ยู เนคซท เยียร์!" เดย์ เซย์ส
+At 5 PM, everyone says goodbye. "See you next year!" they say.
 
-ทอม ไดรฟวส์ โฮม ฮี ฟีลส์ แฮพพิ แอนด์ เบลด
+Tom drives home. He feels happy and blessed.
 
-"แฟมิลิ อิส เอฟวรีธิง" ทอม เซย์ส ทู ฮิส ไวฟ
+"Family is everything," Tom says to his wife.
 
-ชี อะกรีส์ "เยส ไอม เกรทฟูล ฟอ ดิส แฟมิลิ"
+She agrees. "Yes, I'm grateful for this family."
 
 ---
 

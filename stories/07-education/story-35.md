@@ -1,48 +1,48 @@
 # เรื่องที่ 35: Library Study (เรียนที่ห้องสมุด)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Library Study**
 
-ไฟนอล เอ็กแซมส์ อาร์ คัมมิง พลอย นีดส์ ทู สตัดดิ ฮาร์ด
+Final exams are coming. Ploy needs to study hard.
 
-"ไอ แคนท สตัดดิ แอท โฮม ทู แมนนี่ ดิสแทรคชั่นส์" พลอย เซย์ส
+"I can't study at home. Too many distractions," Ploy says.
 
-พลอย โกส ทู เดอะ ยูนิเวอซิติ ไลบรารี อิทส์ ไควเอท แอนด์ พีซฟูล
+Ploy goes to the university library. It's quiet and peaceful.
 
-ชี ไฟนดส์ อะ สตัดดิ รูม ชี บุคส์ อิท ฟอ โฟ อาเวอส์
+She finds a study room. She books it for 4 hours.
 
-พลอย เทคส์ เอาท์ เฮอร์ บุคส์ แอนด์ โนทส์ ชี แฮฟว ไฟฟว ซับเจคส์ ทู รีวิว
+Ploy takes out her books and notes. She has 5 subjects to review.
 
-"อายล์ สตาร์ท วิธ แมธเธอะแมททิคส์" พลอย เซย์ส
+"I'll start with mathematics," Ploy says.
 
-ชี สตัดดีส์ ฟอ ทู อาเวอส์ เซน ชี เทคส์ อะ ฟิฟทีน-มินนิท เบรค
+She studies for 2 hours. Then she takes a 15-minute break.
 
-"เบรคส์ อาร์ อิมพอร์แทนท เดย์ เฮลพ มี โฟคัส" พลอย เซย์ส
+"Breaks are important. They help me focus," Ploy says.
 
-อาฟเทอะ เดอะ เบรค พลอย สตัดดีส์ ไซเอนซ ชี เมคส์ แฟลชคาร์ดส์
+After the break, Ploy studies science. She makes flashcards.
 
-"แฟลชคาร์ดส์ เฮลพ มี เมโมไรซ เบทเทอะ" ชี เซย์ส
+"Flashcards help me memorize better," she says.
 
-แอท ลันช พลอย อีทส์ แอท เดอะ ไลบรารี คาเฟ่ ชี รีดส์ ไวล์ อีทติง
+At lunch, Ploy eats at the library cafe. She reads while eating.
 
-อิน ดิ อาฟเทอะนูน ชี สตัดดีส์ อิงลิช แอนด์ ฮิสทอรี
+In the afternoon, she studies English and history.
 
-"มาย เฟรนด์ คัมส์ ทู สตัดดิ วิธ มี วี ควิซ อีช อาเทอะ" พลอย เซย์ส
+"My friend comes to study with me. We quiz each other," Ploy says.
 
-สตัดดิ้ง ทูเกทเธอะ เมคส์ อิท มอร์ ฟัน
+Studying together makes it more fun.
 
-แอท ซิกซ์ พีเอ็ม พลอย แพคส์ เฮอร์ แบ็กส์ ชี สตัดดิด ฟอ เอท อาเวอส์
+At 6 PM, Ploy packs her bags. She studied for 8 hours.
 
-"ไอม ไทเออด บัท ไอ คัฟเวอด อะ ลอท" พลอย เซย์ส
+"I'm tired but I covered a lot," Ploy says.
 
-ชี โกส ทู เดอะ ไลบรารี เอฟวรี เดย์ ฟอ ทู วีคส์ บิฟอร์ เอ็กแซมส์
+She goes to the library every day for 2 weeks before exams.
 
-เฮอร์ ฮาร์ด เวิค เพย์ส ออฟฟ ชี เกทส์ เอส์ อิน ออล ซับเจคส์
+Her hard work pays off. She gets A's in all subjects.
 
-"เดอะ ไลบรารี อิส มาย ซิคริท เวพพอน" พลอย เซย์ส
+"The library is my secret weapon," Ploy says.
 
 ---
 

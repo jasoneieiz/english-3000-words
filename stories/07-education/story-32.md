@@ -1,54 +1,54 @@
 # เรื่องที่ 32: University Life (ชีวิตมหาวิทยาลัย)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **University Life**
 
-นิดา อิส อะ เฟิสท-เยียร์ ยูนิเวอซิติ สทิวเดินท ชี สตัดดีส์ บิซซิเนส แอดมินิสเทรชั่น
+Nida is a first-year university student. She studies Business Administration.
 
-"ไอม เอคไซทิด แอนด์ เนอวัส" นิดา เซย์ส
+"I'm excited and nervous," Nida says.
 
-ออน เดอะ เฟิสท เดย์ นิดา โกส ทู ดิ โอเรียนเทชั่น ชี มีทส์ นิว เฟรนด์ส์
+On the first day, Nida goes to the orientation. She meets new friends.
 
-"ดิส อิส มาย รูมเมท พิม" นิดา เซย์ส
+"This is my roommate, Pim," Nida says.
 
-พิม สไมล์ส "ไนส ทู มีท ยู! เลทส์ บี เฟรนด์ส์" ชี เซย์ส
+Pim smiles. "Nice to meet you! Let's be friends," she says.
 
-นิดา แอทเทนดส์ เลคเชอส์ เดอะ โพรเฟสเซอส์ อาร์ สทริค บัท นอลเลจจาเบิล
+Nida attends lectures. The professors are strict but knowledgeable.
 
-"ไอ แฮฟว ทู สตัดดิ ฮาร์ด ดิ เอ็กแซมส์ อาร์ ดิฟฟิคัลท" นิดา เซย์ส
+"I have to study hard. The exams are difficult," Nida says.
 
-ชี จอยส์ เดอะ ยูนิเวอซิติ ไลบรารี ชี สตัดดีส์ เดร์ เอฟวรี อีฟนิง
+She joins the university library. She studies there every evening.
 
-นิดา ออลโซ จอยส์ คลับส์ ชีส อิน เดอะ ดีเบท คลับ แอนด์ เดอะ มิวสิค คลับ
+Nida also joins clubs. She's in the debate club and the music club.
 
-"ยูนิเวอซิติ อิส น็อท จัสท อะเบาท สตัดดิ้ง อิทส์ อะเบาท เอ็กสพีเรียนซีส" นิดา เซย์ส
+"University is not just about studying. It's about experiences," Nida says.
 
-อิน เฮอร์ เซคเคินด เยียร์ นิดา เกทส์ อะ พาร์ทไทม์ จ็อบ ชี เวิคส์ แอท อะ คาเฟ่
+In her second year, Nida gets a part-time job. She works at a cafe.
 
-"ไอ เอิร์น มันนี่ แอนด์ เกน เอ็กสพีเรียนซ" นิดา เซย์ส
+"I earn money and gain experience," Nida says.
 
-อิน เฮอร์ เธิร์ด เยียร์ นิดา ดูส์ แอน อินเทิร์นชิพ แอท อะ คัมพะนี ชี เลินส์ เรียล เวิค สกิลส์
+In her third year, Nida does an internship at a company. She learns real work skills.
 
-"ดิส อิส แวลลูอะเบิล เอ็กสพีเรียนซ อายล์ ยูส อิท เวน ไอ แกรดดูเอท" นิดา เซย์ส
+"This is valuable experience. I'll use it when I graduate," Nida says.
 
-อิน เฮอร์ โฟร์ธ เยียร์ นิดา ไรทส์ เฮอร์ ธีซิส อิทส์ อะ บิก พรอเจคท
+In her fourth year, Nida writes her thesis. It's a big project.
 
-"ไอ เวิค ออน อิท เอฟวรี เดย์ อิทส์ แชลเลนจิง บัท ริวอร์ดดิ้ง" นิดา เซย์ส
+"I work on it every day. It's challenging but rewarding," Nida says.
 
-ไฟนอลลี่ แกรดดูเอชั่น เดย์ อะไรฟวส์ นิดา รีซีฟวส์ เฮอร์ ดีกรี
+Finally, graduation day arrives. Nida receives her degree.
 
-"ไอ ดิด อิท! ไอ แกรดดูเอท วิธ ออนเนอส์!" นิดา เซย์ส
+"I did it! I graduated with honors!" Nida says.
 
-เฮอร์ แพเร็นทส์ อาร์ พราว เดย์ ไครส์ แฮพพี เทียส
+Her parents are proud. They cry happy tears.
 
-"ยูนิเวอซิติ วอส เดอะ เบสท โฟ เยียร์ส ออฟ มาย ไลฟ์" นิดา เซย์ส
+"University was the best 4 years of my life," Nida says.
 
-ชี เกทส์ อะ จ็อบ ออฟเฟอะ ฟรอม เดอะ คัมพะนี แวร ชี อินเทินด
+She gets a job offer from the company where she interned.
 
-"ไอม เรดดี้ ฟอ เดอะ เรียล เวิลด" นิดา เซย์ส
+"I'm ready for the real world," Nida says.
 
 ---
 

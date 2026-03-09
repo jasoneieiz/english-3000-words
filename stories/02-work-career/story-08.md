@@ -1,30 +1,30 @@
 # เรื่องที่ 8: At the Bank (ที่ธนาคาร)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **At the Bank**
 
-ลิซ่า นีดส์ ทู วิธดรอ มันนี่ ฟรอม เฮอร์ แบงค อะเคานท ชี โกส ทู เดอะ แบงค เนียร์ เฮอร์ ออฟฟิศ ดูริง เฮอร์ ลันช เบรค
+Lisa needs to withdraw money from her bank account. She goes to the bank near her office during her lunch break.
 
-เวน ชี อะไรฟวส์ ชี เทคส์ อะ นัมเบอะ ฟรอม เดอะ คิว แมชชีน นัมเบอะ โฟร์ตีไฟฟว์ ชี ซิทส์ ดาวน์ แอนด์ เวทส์
+When she arrives, she takes a number from the queue machine. Number 45. She sits down and waits.
 
-อาฟเทอะ เทน มินนิตส์ เดอะ สกรีน โชวส์ "นัมเบอะ โฟร์ตีไฟฟว์ เคาทเทอะ ธรี" ลิซ่า วอคส์ ทู เคาทเทอะ ธรี
+After 10 minutes, the screen shows "Number 45, Counter 3." Lisa walks to counter 3.
 
-"กู้ด อาฟเทอะนูน ฮาว แคน ไอ เฮลพ ยู?" เดอะ แบงค เทลเลอะ อาสคส์
+"Good afternoon. How can I help you?" the bank teller asks.
 
-"อายด ไลค ทู วิธดรอ ไฟฟว์เธาซันด บาท ฟรอม มาย เซฟวิ่งส์ อะเคานท พลีส" ลิซ่า เซย์ส ชี กิฟวส์ เดอะ เทลเลอะ เฮอร์ เอทีเอ็ม คาร์ท แอนด์ ไอดี คาร์ท
+"I'd like to withdraw 5,000 baht from my savings account, please," Lisa says. She gives the teller her ATM card and ID card.
 
-เดอะ เทลเลอะ ไทพส์ ออน เดอะ คอมพิวเทอะ "พลีส เอ็นเทอะ ยัว พิน ออน เดอะ คีแพด"
+The teller types on the computer. "Please enter your PIN on the keypad."
 
-ลิซ่า เอ็นเทอส์ เฮอร์ ซิกซ์-ดิจิท พิน เดอะ เทลเลอะ เคานทส์ เดอะ มันนี่ แอนด์ กิฟวส์ อิท ทู เฮอร์ "เฮียรส์ ไฟฟว์เธาซันด บาท ยัว รีเมนนิ่ง บาลานซ อิส ทเวนตีธรีเธาซันด โฟร์ฮันเดรด ฟิฟตี บาท"
+Lisa enters her 6-digit PIN. The teller counts the money and gives it to her. "Here's 5,000 baht. Your remaining balance is 23,450 baht."
 
-"แธงค ยู แคน ไอ ออลโซ เก็ท อะ สเตทเม้นท ฟอ ดิส มันธ?" ลิซ่า อาสคส์
+"Thank you. Can I also get a statement for this month?" Lisa asks.
 
-"เยส ออฟ คอรส อายล์ พริ้นท อิท ฟอ ยู" เดอะ เทลเลอะ รีพลายส
+"Yes, of course. I'll print it for you," the teller replies.
 
-ลิซ่า เทคส์ เดอะ มันนี่ แอนด์ เดอะ สเตทเม้นท ชี แธงคส์ เดอะ เทลเลอะ แอนด์ ลีฟวส์ เดอะ แบงค
+Lisa takes the money and the statement. She thanks the teller and leaves the bank.
 
 ---
 

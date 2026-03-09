@@ -1,42 +1,42 @@
 # เรื่องที่ 20: Healthy Eating (การกินเพื่อสุขภาพ)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Healthy Eating**
 
-เดวิด วอนทส์ ทู โลส เวท แอนด์ เก็ท เฮลเทียเออะ ฮี ดีไซด์ส์ ทู เชนจ ฮิส อีทติง แฮบบิทส์
+David wants to lose weight and get healthier. He decides to change his eating habits.
 
-เฟิสท เดวิด วิซิทส์ อะ นูทริชันนิสท "ไอ วอนท ทู อีท เฮลเทียเออะ วอท ดู ยู รีคอมเมนด์?" ฮี อาสคส์
+First, David visits a nutritionist. "I want to eat healthier. What do you recommend?" he asks.
 
-เดอะ นูทริชันนิสท กิฟวส์ ฮิม แอดไวซ "ยู นีด ทู อีท มอร์ เวจทะเบิลส์ ฟรุตส์ แอนด์ โฮล เกรนส์ รีดิวซ ชูเกอะ แอนด์ โพรเซสท ฟูดส์" ชี เซย์ส
+The nutritionist gives him advice. "You need to eat more vegetables, fruits, and whole grains. Reduce sugar and processed foods," she says.
 
-เดวิด สตาร์ทส์ ฮิส เฮลธี อีทติง เจอนี ฟอ เบรคเฟิสท ฮี อีทส์ โอทมีล วิธ เบอร์รีส์ อินสเตด ออฟ ชูการี ซีเรียล
+David starts his healthy eating journey. For breakfast, he eats oatmeal with berries instead of sugary cereal.
 
-"ดิส เทสทส์ กูด แอนด์ คีพส์ มี ฟูล" เดวิด เซย์ส
+"This tastes good and keeps me full," David says.
 
-ฟอ ลันช ฮี บริงส์ อะ สลัด วิธ กริลลด ชิคคิน ฮี อะวอยดส์ ฟาสต์ ฟูด แอนด์ เรสทอรองทส์
+For lunch, he brings a salad with grilled chicken. He avoids fast food and restaurants.
 
-"ไอ ยูสด ทู อีท เบอเกอส์ เอฟวรี เดย์ นาว ไอ อีท สลัดส์" เดวิด เซย์ส
+"I used to eat burgers every day. Now I eat salads," David says.
 
-ฟอ ดินเนอะ ฮี คุคส์ ฟิช วิธ สทีมด เวจทะเบิลส์ ฮี ยูซิส เลส ออยล์ แอนด์ ซอลท
+For dinner, he cooks fish with steamed vegetables. He uses less oil and salt.
 
-เดวิด ออลโซ ดริงคส์ มอร์ วอเทอะ ฮี ดริงคส์ เอท กลาสเซส อะ เดย์ อินสเตด ออฟ โซดา
+David also drinks more water. He drinks 8 glasses a day instead of soda.
 
-"ไอ ฟีล มอร์ เอนเนอเจทิค" เดวิด เซย์ส
+"I feel more energetic," David says.
 
-อาฟเทอะ วัน มันธ เดวิด โลสส์ ไฟฟว์ กิโลกรัมส์ ฮีส แฮพพิเออะ แอนด์ เฮลเทียเออะ
+After one month, David loses 5 kilograms. He's happier and healthier.
 
-"มาย โคลทส์ ฟิท เบทเทอะ ไอ แฮฟว มอร์ เอนเนอจี้ ไอ สลีพ เบทเทอะ" เดวิด เซย์ส
+"My clothes fit better. I have more energy. I sleep better," David says.
 
-ฮิส เฟรนด์ส์ โนทิซ เดอะ เชนจ "ยู ลุค เกรท! วอทส์ ยัว ซิคริท?" เดย์ อาสคส์
+His friends notice the change. "You look great! What's your secret?" they ask.
 
-"เฮลธี อีทติง แอนด์ เอ็กเซอไซซ อิทส์ น็อท อีซี่ บัท อิทส์ เวิรธ อิท" เดวิด รีพลายส
+"Healthy eating and exercise. It's not easy, but it's worth it," David replies.
 
-เดวิด คอนทินนิวส์ ฮิส เฮลธี ไลฟ์สไตล์ ฮี โนวส์ อิทส์ อะ ลองเทิม คอมมิทเม้นท
+David continues his healthy lifestyle. He knows it's a long-term commitment.
 
-"อีทติง เฮลธี อิส น็อท อะ ไดยท อิทส์ อะ ไลฟ์สไตล์" เดวิด เซย์ส
+"Eating healthy is not a diet. It's a lifestyle," David says.
 
 ---
 

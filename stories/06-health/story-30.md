@@ -1,37 +1,37 @@
 # เรื่องที่ 30: Healthy Sleep (การนอนหลับที่ดี)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Healthy Sleep**
 
-เอ็มม่า แฮส ทรับเบิล สลีพพิง ชี สเตย์ส อัพ เลท เอฟวรี ไนท ชี วอทเชส ทีวี แอนด์ ยูซิส เฮอร์ โฟน อิน เบด
+Emma has trouble sleeping. She stays up late every night. She watches TV and uses her phone in bed.
 
-"ไอ โอนลี สลีพ โฟ-ไฟฟว์ อาเวอส์ อะ ไนท" เอ็มม่า เซย์ส
+"I only sleep 4-5 hours a night," Emma says.
 
-ชี ฟีลส์ ไทเออด ดูริง เดอะ เดย์ ชี แคนท คอนเซนเทรท แอท เวิค
+She feels tired during the day. She can't concentrate at work.
 
-เฮอร์ ดอคเทอะ เซย์ส "ยู นีด เบทเทอะ สลีพ แฮบบิทส์ สลีพ อิส อิมพอร์แทนท ฟอ เฮลธ"
+Her doctor says, "You need better sleep habits. Sleep is important for health."
 
-เอ็มม่า ดีไซด์ส์ ทู เชนจ ชี ครีเอทส์ อะ เบดไทม์ รูทีน
+Emma decides to change. She creates a bedtime routine.
 
-ไนน์ พีเอ็ม: โน มอร์ สกรีนส์ ชี เทิร์นส์ ออฟฟ เฮอร์ โฟน แอนด์ ทีวี
-ไนน์ เธอร์ตี พีเอ็ม: ชี เทคส์ อะ วอร์ม บาธ
-เทน พีเอ็ม: ชี รีดส์ อะ บุค
-เทน เธอร์ตี พีเอ็ม: ชี โกส ทู เบด
+9 PM: No more screens. She turns off her phone and TV.
+9:30 PM: She takes a warm bath.
+10 PM: She reads a book.
+10:30 PM: She goes to bed.
 
-"อิทส์ ฮาร์ด แอท เฟิสท ไอ วอนทส์ ทู เช็ค มาย โฟน" เอ็มม่า เซย์ส
+"It's hard at first. I want to check my phone," Emma says.
 
-บัท ชี สติคส์ ทู เฮอร์ รูทีน อาฟเทอะ วัน วีค ชี สลีพส์ เบทเทอะ
+But she sticks to her routine. After 1 week, she sleeps better.
 
-อาฟเทอะ ทู วีคส์ เอ็มม่า เวคส์ อัพ รีเฟรสด ชี แฮส มอร์ เอนเนอจี้
+After 2 weeks, Emma wakes up refreshed. She has more energy.
 
-"ไอ สลีพ เซเว่น-เอท อาเวอส์ นาว ไอ ฟีล โซ มัช เบทเทอะ!" เอ็มม่า เซย์ส
+"I sleep 7-8 hours now. I feel so much better!" Emma says.
 
-เฮอร์ เวิค อิมพรูฟวส์ ชีส มอร์ โพรดักทิฟว ชีส แฮพพิเออะ
+Her work improves. She's more productive. She's happier.
 
-"สลีพ อิส เดอะ เฟานเดชั่น ออฟ เฮลธ ดอนท แซคคริฟาย อิท" เอ็มม่า เซย์ส
+"Sleep is the foundation of health. Don't sacrifice it," Emma says.
 
 She shares her tips with friends:
 1. No screens before bed

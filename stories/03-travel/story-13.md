@@ -1,32 +1,32 @@
 # เรื่องที่ 13: Sightseeing in Tokyo (เที่ยวชมโตเกียว)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Sightseeing in Tokyo**
 
-ออน ฮิส เซคเคินด เดย์ อิน โตเกียว มาร์ค ดีไซด์ส์ ทู โก ไซท์ซีอิง ฮี วอนทส์ ทู วิซิท เฟมัส แลนด์มาร์คส์
+On his second day in Tokyo, Mark decides to go sightseeing. He wants to visit famous landmarks.
 
-เฟิสท ฮี เทคส์ เดอะ ซับเวย์ ทู เซ็นโซจิ เทมเพิล อิน อะซะคุสะ อิทส์ ดิ โอลเดสท เทมเพิล อิน โตเกียว มาร์ค ซีส เดอะ ไจแอนท เรด แลนเทิร์น แอท ดิ เอ็นทรานซ
+First, he takes the subway to Senso-ji Temple in Asakusa. It's the oldest temple in Tokyo. Mark sees the giant red lantern at the entrance.
 
-"ดิส เทมเพิล อิส อะเมซิ่ง!" มาร์ค เซย์ส ทู ฮิมเซลฟ
+"This temple is amazing!" Mark says to himself.
 
-ฮี วอคส์ ธรู เดอะ นาคามิเซะ ช็อปปิ้ง สตรีท แอนด์ บายส์ ซัม ซูเวอนีเออส์ ฮี ไทรส์ ทราดิชันนอล ญี่ปุ่นแนส สแนคส์ ไลค์ เซมเบ (ไรซ์ แครคเคอส์)
+He walks through the Nakamise shopping street and buys some souvenirs. He tries traditional Japanese snacks like senbei (rice crackers).
 
-เนคซท มาร์ค โกส ทู ชิบูยะ ครอสซิง อิทส์ เดอะ บิซิเอสท เพเดสเทรียน ครอสซิง อิน เดอะ เวิลด์ เธาแซนดส์ ออฟ พีเพิล ครอสส์ แอท เดอะ เซม ไทม์
+Next, Mark goes to Shibuya Crossing. It's the busiest pedestrian crossing in the world. Thousands of people cross at the same time.
 
-"ว้าว ดิส อิส อินเครดิเบิล!" มาร์ค เทคส์ โฟโทส วิธ ฮิส แคมเมอะ
+"Wow, this is incredible!" Mark takes photos with his camera.
 
-ฟอ ลันช มาร์ค อีทส์ แอท อะ ซูชิ เรสทอรองท ฮี ออเดอร์ส โอมาคาเสะ วิช มีนส์ "เชฟส์ ชอยส์" เดอะ ซูชิ อิส เฟรช แอนด์ ดิลิเชียส
+For lunch, Mark eats at a sushi restaurant. He orders omakase, which means "chef's choice." The sushi is fresh and delicious.
 
-อิน ดิ อาฟเทอะนูน มาร์ค วิซิทส์ เดอะ เมจิ ชไรน์ อิทส์ อะ พีซฟูล เพลส อิน เดอะ มิดเดิล ออฟ เดอะ ซิตี้ ฮี ซีส ทราดิชันนอล ชินโต เว็ดดิ้งส์
+In the afternoon, Mark visits the Meiji Shrine. It's a peaceful place in the middle of the city. He sees traditional Shinto weddings.
 
-แอท ไนท มาร์ค โกส ทู โตเกียว สกายทรี ฮี เทคส์ ดิ เอลลิเวเทอะ ทู ดิ ออบเซอร์เวชั่น เดค เดอะ วิว ออฟ โตเกียว แอท ไนท อิส สเพคแทคคิวลาร์
+At night, Mark goes to Tokyo Skytree. He takes the elevator to the observation deck. The view of Tokyo at night is spectacular.
 
-"ไอ เลิฟ โตเกียว!" มาร์ค เซย์ส "อายล์ เดฟินิทลิ คัม แบค"
+"I love Tokyo!" Mark says. "I'll definitely come back."
 
-มาร์ค เทคส์ เดอะ ซับเวย์ แบค ทู ฮิส โฮเทล ฮีส ไทเออด บัท แฮพพิ อาฟเทอะ อะ เกรท เดย์ ออฟ ไซท์ซีอิง
+Mark takes the subway back to his hotel. He's tired but happy after a great day of sightseeing.
 
 ---
 

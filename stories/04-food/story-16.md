@@ -1,42 +1,42 @@
 # เรื่องที่ 16: Cooking at Home (ทำอาหารที่บ้าน)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Cooking at Home**
 
-ซาร่าห์ เลิฟส์ คุคคิง เอฟวรี วีคเอนด์ ชี ไทรส์ นิว เรซิพีส์
+Sarah loves cooking. Every weekend, she tries new recipes.
 
-ทูเดย์ ชี วอนทส์ ทู เมค สปาเก็ตตี้ คาร์โบนาร่า ชี โกส ทู เดอะ ซูเพอะมาร์เคท ทู บาย อินกรีเดียนทส์
+Today, she wants to make spaghetti carbonara. She goes to the supermarket to buy ingredients.
 
-แอท เดอะ ซูเพอะมาร์เคท ซาร่าห์ บายส์ สปาเก็ตตี้ เบคอน เอกส์ พาร์เมซาน ชีส แอนด์ แบลค เพพเพอะ ชี ออลโซ บายส์ ซัม เวจทะเบิลส์ ฟอ อะ สลัด
+At the supermarket, Sarah buys spaghetti, bacon, eggs, parmesan cheese, and black pepper. She also buys some vegetables for a salad.
 
-เวน ชี เกทส์ โฮม ชี สตาร์ทส์ คุคคิง เฟิสท ชี บอยล์ส วอเทอะ ฟอ เดอะ พาสต้า
+When she gets home, she starts cooking. First, she boils water for the pasta.
 
-"ไอ นีด ทู คุค เดอะ สปาเก็ตตี้ ฟอ เทน มินนิตส์" ซาร่าห์ เซย์ส
+"I need to cook the spaghetti for 10 minutes," Sarah says.
 
-ไวล์ เดอะ พาสต้า คุคส์ ชี ฟรายส์ เดอะ เบคอน อิน อะ แพน เดอะ เบคอน บิคัมส์ คริสปี
+While the pasta cooks, she fries the bacon in a pan. The bacon becomes crispy.
 
-เนคซท ชี บีทส์ ดิ เอกส์ อิน อะ โบวล์ แอนด์ แอดส์ เกรทิด พาร์เมซาน ชีส
+Next, she beats the eggs in a bowl and adds grated parmesan cheese.
 
-เวน เดอะ สปาเก็ตตี้ อิส เรดดี้ ชี เดรนส์ เดอะ วอเทอะ แอนด์ มิกซิส อิท วิธ เดอะ เบคอน
+When the spaghetti is ready, she drains the water and mixes it with the bacon.
 
-เซน ชี แอดส์ ดิ เอกส์ มิกซเชอะ ควิกคลี เดอะ ฮีท ฟรอม เดอะ พาสต้า คุคส์ ดิ เอกส์ แอนด์ เมคส์ อะ ครีมี ซอส
+Then she adds the egg mixture quickly. The heat from the pasta cooks the eggs and makes a creamy sauce.
 
-ชี แอดส์ แบลค เพพเพอะ ออน ท็อพ
+She adds black pepper on top.
 
-"ดิส ลุคส์ ดิลิเชียส!" ซาร่าห์ เซย์ส
+"This looks delicious!" Sarah says.
 
-ชี เซิฟวส์ เดอะ คาร์โบนาร่า วิธ อะ เฟรช สลัด แอนด์ อะ กลาส ออฟ ไวท์ ไวน์
+She serves the carbonara with a fresh salad and a glass of white wine.
 
-ซาร่าห์ ซิทส์ ดาวน์ ทู อีท ชี เทคส์ อะ ไบท์ แอนด์ สไมล์ส
+Sarah sits down to eat. She takes a bite and smiles.
 
-"ดิส อิส เดอะ เบสท คาร์โบนาร่า ไอฟว เอฟเวอะ เมด!" ชี เซย์ส
+"This is the best carbonara I've ever made!" she says.
 
-ชี เทคส์ อะ โฟโท แอนด์ โพสต์ส อิท ออน โซเชียล มีเดีย เฮอร์ เฟรนด์ส์ คอมเม้นท แอนด์ ไลค เดอะ โฟโท
+She takes a photo and posts it on social media. Her friends comment and like the photo.
 
-คุคคิง แอท โฮม อิส ซาร่าห์ส์ เฟฟเวอริท ฮ็อบบี้ อิทส์ รีแลกซิง แอนด์ ริวอร์ดดิ้ง
+Cooking at home is Sarah's favorite hobby. It's relaxing and rewarding.
 
 ---
 

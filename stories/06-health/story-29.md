@@ -1,56 +1,56 @@
 # เรื่องที่ 29: Running a Marathon (วิ่งมาราธอน)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Running a Marathon**
 
-ไมค์ วอนทส์ ทู แชลเลนจ ฮิมเซลฟ ฮี ดีไซด์ส์ ทู รัน อะ มาราธอน
+Mike wants to challenge himself. He decides to run a marathon.
 
-"ไอฟว เนเวอะ รัน มอร์ แดน ไฟฟว์ กิโลเมตร บัท ไอ วอนทส์ ทู ดู โฟร์ตีทู กิโลเมตร" ไมค์ เซย์ส
+"I've never run more than 5 kilometers. But I want to do 42 kilometers," Mike says.
 
-ไมค์ สตาร์ทส์ เทรนนิ่ง ซิกซ์ มันธส์ บิฟอร์ เดอะ มาราธอน ฮี รันส์ เอฟวรี มอร์นิง
+Mike starts training 6 months before the marathon. He runs every morning.
 
-วีค วัน: ฮี รันส์ ไฟฟว์ กิโลเมตร เอฟวรี เดย์
-วีค โฟ: ฮี รันส์ เทน กิโลเมตร เอฟวรี เดย์
-วีค เอท: ฮี รันส์ ทเวนตี กิโลเมตร ออน วีคเอนด์ส์
+Week 1: He runs 5 km every day.
+Week 4: He runs 10 km every day.
+Week 8: He runs 20 km on weekends.
 
-"อิทส์ เกทติง ฮาร์ดเดอร์" ไมค์ เซย์ส
+"It's getting harder," Mike says.
 
-ฮิส เล็กส์ เฮิท ฮิส นีส เฮิท บัท ฮี ดาสซึนท สต็อพ
+His legs hurt. His knees hurt. But he doesn't stop.
 
-เดอะ มาราธอน เดย์ อะไรฟวส์ ไมค์ อิส แอท เดอะ สตาร์ทติง ไลน์ วิธ เทนเธาซันด รันเนอส์
+The marathon day arrives. Mike is at the starting line with 10,000 runners.
 
-"ไอม เนอวัส" ไมค์ เซย์ส
+"I'm nervous," Mike says.
 
-เดอะ เรซ สตาร์ทส์ ไมค์ รันส์ สโลวลิ ฮี นีดส์ ทู เซฟว เอนเนอจี้
+The race starts. Mike runs slowly. He needs to save energy.
 
-แอท เทน กิโลเมตร ไมค์ ฟีลส์ กูด แอท ทเวนตี กิโลเมตร ฮีส ไทเออด
+At 10 km, Mike feels good. At 20 km, he's tired.
 
-แอท เธอร์ตี กิโลเมตร ไมค์ วอนทส์ ทู ควิท "ไอ แคนท ดู ดิส" ฮี ธิงคส์
+At 30 km, Mike wants to quit. "I can't do this," he thinks.
 
-บัท ฮี รีเมมเบอส์ ฮิส เทรนนิ่ง "ดอนท กิฟว อัพ!" ฮี เทลส์ ฮิมเซลฟ
+But he remembers his training. "Don't give up!" he tells himself.
 
-แอท ธรีตีไฟฟว์ กิโลเมตร ไมค์ ฮิทส์ "เดอะ วอล" ฮิส บอดี วอนทส์ ทู สต็อพ
+At 35 km, Mike hits "the wall." His body wants to stop.
 
-บัท ฮี คีพส์ โกอิง สเตพ บาย สเตพ
+But he keeps going. Step by step.
 
-แอท โฟร์ตี กิโลเมตร ไมค์ ซีส เดอะ ฟินิช ไลน์ ฮี รันส์ ฟาสเทอะ
+At 40 km, Mike sees the finish line. He runs faster.
 
-"ไอ แคน ดู อิท!" ไมค์ เซย์ส
+"I can do it!" Mike says.
 
-ไมค์ ครอสเซส เดอะ ฟินิช ไลน์ ฮิส ไทม์ อิส โฟ อาเวอส์ แอนด์ เธอร์ตี มินนิตส์
+Mike crosses the finish line. His time is 4 hours and 30 minutes.
 
-"ไอ ดิด อิท! ไอ แรน อะ มาราธอน!" ไมค์ เซย์ส ฮี ไครส์ แฮพพี เทียส
+"I did it! I ran a marathon!" Mike says. He cries happy tears.
 
-ฮิส แฟมิลิ อิส เวทติง แอท เดอะ ฟินิช ไลน์ เดย์ ฮัก ฮิม
+His family is waiting at the finish line. They hug him.
 
-"วีร์ โซ พราว ออฟ ยู!" เดย์ เซย์
+"We're so proud of you!" they say.
 
-ไมค์ เกทส์ อะ เมดัล อิทส์ เดอะ พราวเดสท โมเม้นท ออฟ ฮิส ไลฟ์
+Mike gets a medal. It's the proudest moment of his life.
 
-"รันนิ่ง อะ มาราธอน ทอท มี แดท ไอ แคน ดู เอนีธิง อิฟ ไอ ดอนท กิฟว อัพ" ไมค์ เซย์ส
+"Running a marathon taught me that I can do anything if I don't give up," Mike says.
 
 ---
 

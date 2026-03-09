@@ -1,48 +1,48 @@
 # เรื่องที่ 18: Baking a Cake (อบเค้ก)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Baking a Cake**
 
-ทูเดย์ อิส เอ็มม่าส์ ดอเทอส์ เบิรธเดย์ ชี วอนทส์ ทู เบค อะ ช็อคโกแลต เคค
+Today is Emma's daughter's birthday. She wants to bake a chocolate cake.
 
-เอ็มม่า แฮส เนเวอะ เบคด อะ เคค บิฟอร์ โซ ชี วอทเชส อะ ทิวโทเรียล ออน YouTube
+Emma has never baked a cake before, so she watches a tutorial on YouTube.
 
-"เฟิสท ไอ นีด ทู พรีฮีท ดิ โอเวิน ทู วันเอทที ดิกรีส์" เอ็มม่า เซย์ส
+"First, I need to preheat the oven to 180 degrees," Emma says.
 
-ชี แกทเธอส์ ออล ดิ อินกรีเดียนทส์: ฟลาวเออะ ชูเกอะ โคโค เพาเวอะ เอกส์ บัทเทอะ มิลค แอนด์ เบคคิง เพาเวอะ
+She gathers all the ingredients: flour, sugar, cocoa powder, eggs, butter, milk, and baking powder.
 
-เอ็มม่า มิกซิส เดอะ ดราย อินกรีเดียนทส์ อิน อะ ลาร์จ โบวล์ เซน ชี แอดส์ เดอะ เวท อินกรีเดียนทส์ สโลวลิ
+Emma mixes the dry ingredients in a large bowl. Then she adds the wet ingredients slowly.
 
-"ไอ นีด ทู มิกซ์ อันทิล อิทส์ สมูธ" ชี เซย์ส
+"I need to mix until it's smooth," she says.
 
-ชี พัวส์ เดอะ แบทเทอะ อินทู อะ ราวนด เคค แพน แอนด์ พุทส์ อิท อิน ดิ โอเวิน
+She pours the batter into a round cake pan and puts it in the oven.
 
-"เซท เดอะ ไทมเมอะ ฟอ เธอร์ตี มินนิตส์" เอ็มม่า เซย์ส
+"Set the timer for 30 minutes," Emma says.
 
-ไวล์ เวทติง ชี เมคส์ ช็อคโกแลต ฟรอสติง ชี เมลทส์ ช็อคโกแลต แอนด์ มิกซิส อิท วิธ บัทเทอะ แอนด์ เพาเดอด ชูเกอะ
+While waiting, she makes chocolate frosting. She melts chocolate and mixes it with butter and powdered sugar.
 
-อาฟเทอะ เธอร์ตี มินนิตส์ เอ็มม่า เช็คส์ เดอะ เคค วิธ อะ ทูธพิค อิท คัมส์ เอาท์ คลีน
+After 30 minutes, Emma checks the cake with a toothpick. It comes out clean.
 
-"เดอะ เคค อิส เรดดี้!" ชี เซย์ส
+"The cake is ready!" she says.
 
-ชี เทคส์ เดอะ เคค เอาท์ ออฟ ดิ โอเวิน แอนด์ เลทส์ อิท คูล เซน ชี สเปรดส์ เดอะ ฟรอสติง ออน ท็อพ
+She takes the cake out of the oven and lets it cool. Then she spreads the frosting on top.
 
-เอ็มม่า เดคคอเรทส์ เดอะ เคค วิธ คัลเลอร์ฟูล สปรินเคิลส์ แอนด์ ไรทส์ "แฮปปี้ เบิรธเดย์" ออน ท็อพ
+Emma decorates the cake with colorful sprinkles and writes "Happy Birthday" on top.
 
-เฮอร์ ดอเทอะ คัมส์ โฮม ฟรอม สคูล "เซอร์ไพรส์!" เอ็มม่า เซย์ส
+Her daughter comes home from school. "Surprise!" Emma says.
 
-"ว้าว! ยู เมด ดิส มัม?" เฮอร์ ดอเทอะ อาสคส์
+"Wow! You made this, Mom?" her daughter asks.
 
-"เยส อิทส์ ยัว เฟฟเวอริท ช็อคโกแลต เคค" เอ็มม่า เซย์ส
+"Yes, it's your favorite chocolate cake," Emma says.
 
-เดย์ ซิง แฮปปี้ เบิรธเดย์ แอนด์ คัท เดอะ เคค เอฟวรีวัน เซย์ส อิทส์ ดิลิเชียส
+They sing happy birthday and cut the cake. Everyone says it's delicious.
 
-"ไอม พราว ออฟ ยู มัม!" เฮอร์ ดอเทอะ เซย์ส
+"I'm proud of you, Mom!" her daughter says.
 
-เอ็มม่า อิส แฮพพิ เฮอร์ เฟิสท เคค วอส อะ ซัคเซส!
+Emma is happy. Her first cake was a success!
 
 ---
 

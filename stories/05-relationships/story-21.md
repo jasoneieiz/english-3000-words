@@ -1,44 +1,44 @@
 # เรื่องที่ 21: Making New Friends (结交新朋友)
 
-## 📖 เรื่องสั้น (3 ภาษา)
+## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version (พร้อมคำอ่าน)
+### English Version
 
 **Making New Friends**
 
-ลิซ่า จัสท มูฟวด ทู อะ นิว ซิตี้ ชี ดาสซึนท โน เอนีวัน เฮีย ชี วอนทส์ ทู เมค นิว เฟรนด์ส์
+Lisa just moved to a new city. She doesn't know anyone here. She wants to make new friends.
 
-ออน เฮอร์ เฟิสท วีคเอนด์ ลิซ่า โกส ทู อะ โลคอล คอฟฟี่ ช็อพ ชี ซีส อะ คอมมิวนิทิ บอร์ด วิธ ฟลายเออส์
+On her first weekend, Lisa goes to a local coffee shop. She sees a community board with flyers.
 
-"โยคะ คลาส เอฟวรี แซทเทอะเดย์ มอร์นิง" ลิซ่า รีดส์ "เมย์บี ไอ ชูด ไทร อิท"
+"Yoga class every Saturday morning," Lisa reads. "Maybe I should try it."
 
-ออน แซทเทอะเดย์ ลิซ่า โกส ทู เดอะ โยคะ สตูดิโอ เดร์ อาร์ อะเบาท ฟิฟทีน พีเพิล อิน เดอะ คลาส
+On Saturday, Lisa goes to the yoga studio. There are about 15 people in the class.
 
-อาฟเทอะ เดอะ คลาส อะ วูมัน อะโพรชิส ลิซ่า "ไฮ ไอม ซาร่าห์ ยัว นิว เฮีย ไรท?"
+After the class, a woman approaches Lisa. "Hi, I'm Sarah. You're new here, right?"
 
-"เยส ไอ จัสท มูฟวด เฮีย ไอม ลิซ่า" ลิซ่า รีพลายส
+"Yes, I just moved here. I'm Lisa," Lisa replies.
 
-"เวลคัม ทู เดอะ เนเบอร์ฮูด! ดู ยู วอนทส์ ทู แกร็บ คอฟฟี่ อาฟเทอะ คลาส?" ซาร่าห์ อาสคส์
+"Welcome to the neighborhood! Do you want to grab coffee after class?" Sarah asks.
 
-ลิซ่า สไมล์ส "เยส ไอ'd เลิฟ ทู!"
+Lisa smiles. "Yes, I'd love to!"
 
-เดย์ โก ทู อะ เนียร์บาย คาเฟ่ ซาร่าห์ อินโทรดิวซิส ลิซ่า ทู อาเทอะ พีเพิล ฟรอม เดอะ โยคะ คลาส
+They go to a nearby cafe. Sarah introduces Lisa to other people from the yoga class.
 
-"ดิส อิส ไมค์ เอ็มม่า แอนด์ จอห์น" ซาร่าห์ เซย์ส
+"This is Mike, Emma, and John," Sarah says.
 
-เดย์ ทอค อะเบาท เดย์ ฮ็อบบีส์ จ็อบส์ แอนด์ เฟฟเวอริท เรสทอรองทส์ ลิซ่า ฟีลส์ คัมเฟอเทเบิล
+They talk about their hobbies, jobs, and favorite restaurants. Lisa feels comfortable.
 
-"ไอม แกลด ไอ เคม ทู โยคะ" ลิซ่า ธิงคส์
+"I'm glad I came to yoga," Lisa thinks.
 
-โอเวอะ เดอะ เนคซท ฟิว วีคส์ ลิซ่า จอยส์ เดอะ โยคะ คลาส เรกกิวลาลี่ ชี ออลโซ จอยส์ อะ บุค คลับ แดท ซาร่าห์ รีคอมเมนด์ด
+Over the next few weeks, Lisa joins the yoga class regularly. She also joins a book club that Sarah recommended.
 
-แอท เดอะ บุค คลับ ลิซ่า มีทส์ มอร์ พีเพิล ฮู เลิฟว รีดดิ้ง เดย์ ดิสคัส บุคส์ แอนด์ แชร์ รีคอมเมนเดชั่นส์
+At the book club, Lisa meets more people who love reading. They discuss books and share recommendations.
 
-"ไอฟว เมด โซ แมนี นิว เฟรนด์ส์" ลิซ่า เซย์ส "มูฟวิ่ง ทู อะ นิว ซิตี้ วอสซึนท โซ สแครี อาฟเทอะ ออล"
+"I've made so many new friends," Lisa says. "Moving to a new city wasn't so scary after all."
 
-ธรี มันธส์ เลเทอะ ลิซ่า แฮส อะ กรุพ ออฟ โคลส เฟรนด์ส์ เดย์ แฮฟว ดินเนอะ ทูเกทเธอะ เอฟวรี วีค
+Three months later, Lisa has a group of close friends. They have dinner together every week.
 
-"ไอม โซ แฮพพิ เฮีย นาว" ลิซ่า เซย์ส "เมคคิง เฟรนด์ส์ เทคส์ ไทม์ บัท อิทส์ เวิรธ อิท"
+"I'm so happy here now," Lisa says. "Making friends takes time, but it's worth it."
 
 ---
 
