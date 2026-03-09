@@ -1,0 +1,117 @@
+# เรื่องที่ 8: At the Bank (ที่ธนาคาร)
+
+## 📖 เรื่องสั้น (2 ภาษา)
+
+### English Version
+
+**At the Bank**
+
+Lisa needs to withdraw money from her bank account. She goes to the bank near her office during her lunch break.
+
+When she arrives, she takes a number from the queue machine. Number 45. She sits down and waits.
+
+After 10 minutes, the screen shows "Number 45, Counter 3." Lisa walks to counter 3.
+
+"Good afternoon. How can I help you?" the bank teller asks.
+
+"I'd like to withdraw 5,000 baht from my savings account, please," Lisa says. She gives the teller her ATM card and ID card.
+
+The teller types on the computer. "Please enter your PIN on the keypad."
+
+Lisa enters her 6-digit PIN. The teller counts the money and gives it to her. "Here's 5,000 baht. Your remaining balance is 23,450 baht."
+
+"Thank you. Can I also get a statement for this month?" Lisa asks.
+
+"Yes, of course. I'll print it for you," the teller replies.
+
+Lisa takes the money and the statement. She thanks the teller and leaves the bank.
+
+---
+
+### เวอร์ชันภาษาไทย
+
+**ที่ธนาคาร**
+
+ลิซ่าต้องการถอนเงินจากบัญชีธนาคารของเธอ เธอไปธนาคารใกล้ที่ทำงานในช่วงพักเที่ยง
+
+เมื่อเธอมาถึง เธอหยิบคิวจากเครื่องคิว เลขที่ 45 เธอนั่งลงรอ
+
+หลังจาก 10 นาที จอแสดง "เลขที่ 45 เคาน์เตอร์ 3" ลิซ่าเดินไปที่เคาน์เตอร์ 3
+
+"สวัสดีค่ะ มีอะไรให้ช่วยคะ?" พนักงานธนาคารถาม
+
+"ฉันอยากถอนเงิน 5,000 บาทจากบัญชีออมทรัพย์ค่ะ" ลิซ่ากล่าว เธอยื่นบัตร ATM และบัตรประจำตัวประชาชนให้พนักงาน
+
+พนักงานพิมพ์บนคอมพิวเตอร์ "กรุณากรอกรหัส PIN บนแป้นพิมพ์ค่ะ"
+
+ลิซ่ากรอกรหัส PIN 6 หลัก พนักงานนับเงินแล้วส่งให้เธอ "นี่คือ 5,000 บาท ยอดเงินคงเหลือของคุณคือ 23,450 บาท"
+
+"ขอบคุณค่ะ ขอถาม statement เดือนนี้ได้ไหมคะ?" ลิซ่าถาม
+
+"ได้แน่นอนค่ะ เดี๋ยวพิมพ์ให้ค่ะ" พนักงานตอบ
+
+ลิซ่ารับเงินและ statement เธอขอบคุณพนักงานแล้วออกจากธนาคาร
+
+---
+
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| bank | แบงค | ธนาคาร | Go to the bank. |
+| withdraw | วิธดรอ | ถอนเงิน | Withdraw money. |
+| account | อะเคานท | บัญชี | Bank account. |
+| savings | เซวิ่งส | ออมทรัพย์ | Savings account. |
+| queue | คิว | คิว | Take a number. |
+| counter | เคาทเทอะ | เคาน์เตอร์ | Counter 3. |
+| teller | เทลเลอะ | พนักงานธนาคาร | Bank teller. |
+| ATM card | เอทีเอ็ม การ์ด | บัตรเอทีเอ็ม | ATM card. |
+| ID card | ไอดี การ์ด | บัตรประจำตัว | ID card. |
+| PIN | พิน | รหัสลับ | Enter PIN. |
+| keypad | คีแพด | แป้นพิมพ์ | Keypad. |
+| balance | บาลานส | ยอดเงินคงเหลือ | Check balance. |
+| statement | สเตทเม้นท | รายการเดินบัญชี | Bank statement. |
+| print | พริ้นท | พิมพ์ | Print a statement. |
+| remaining | รีเมนนิ่ง | คงเหลือ | Remaining balance. |
+
+---
+
+## 💬 วลีน่ารู้ (Useful Phrases)
+
+| Phrase | ความหมาย |
+|--------|----------|
+| withdraw money | ถอนเงิน |
+| during lunch break | ในช่วงพักเที่ยง |
+| take a number | หยิบคิว |
+| wait for your turn | รอคิวของคุณ |
+| how can I help you? | มีอะไรให้ช่วย? |
+| I'd like to withdraw... | ฉันอยากถอน... |
+| from my savings account | จากบัญชีออมทรัพย์ |
+| enter your PIN | กรอกรหัส PIN |
+| remaining balance | ยอดเงินคงเหลือ |
+| get a statement | ขอรายการเดินบัญชี |
+| I'll print it for you | เดี๋ยวพิมพ์ให้ |
+
+---
+
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- I'd like to withdraw 3,000 baht.
+- What's my remaining balance?
+- Can I get a statement?
+
+**2. Translate to English:**
+- ฉันมีบัญชีออมทรัพย์
+- กรุณากรอกรหัส PIN
+- ยอดเงินคงเหลือเท่าไหร่?
+
+**3. Write about your bank experience:**
+- Which bank do you use?
+- How often do you go to the bank?
+- Do you use online banking?
+
+---
+
+**เรื่องที่ 8 จบ**
+**ต่อไป:** เรื่องที่ 9 - Job Interview

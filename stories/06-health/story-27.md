@@ -1,0 +1,173 @@
+# เรื่องที่ 27: Mental Health (สุขภาพจิต)
+
+## 📖 เรื่องสั้น (2 ภาษา)
+
+### English Version
+
+**Mental Health**
+
+Sarah has been feeling stressed lately. Her job is demanding. She works 10 hours a day.
+
+"I'm always tired. I can't sleep well," Sarah says.
+
+Her friend notices. "You don't look well. Are you okay?" she asks.
+
+"I think I have burnout," Sarah says.
+
+"You should see a therapist. Mental health is important," her friend says.
+
+Sarah makes an appointment with a psychologist. She's nervous.
+
+"Tell me about your symptoms," the psychologist says.
+
+"I feel anxious all the time. I can't relax. I'm irritable," Sarah says.
+
+The psychologist listens. "You're experiencing work-related stress. Let's work on coping strategies," she says.
+
+The psychologist teaches Sarah meditation and breathing exercises.
+
+"Also, you need work-life balance. Take breaks. Have hobbies," she says.
+
+Sarah starts practicing meditation. 10 minutes every morning.
+
+She also starts yoga. It helps her relax.
+
+Sarah talks to her boss. "I need to reduce my workload," she says.
+
+Her boss agrees. They adjust her schedule.
+
+After 2 months, Sarah feels better. She sleeps well. She's less anxious.
+
+"Therapy really helped me," Sarah says.
+
+She continues meditation and yoga. It's part of her routine now.
+
+"Mental health is just as important as physical health," Sarah says.
+
+She encourages her friends to take care of their mental health.
+
+"Don't be afraid to ask for help. It's okay to not be okay," Sarah says.
+
+---
+
+### เวอร์ชันภาษาไทย
+
+**สุขภาพจิต**
+
+ซาร่าห์รู้สึกเครียด lately งานของเธอต้องการมาก เธอทำงาน 10 ชั่วโมงต่อวัน
+
+"ฉันเหนื่อยตลอดเวลา ฉันนอนไม่หลับ" ซาร่าห์กล่าว
+
+เพื่อนของเธอสังเกต "คุณดูไม่สบายดี คุณโอเคไหม?" เธอถาม
+
+"ฉันคิดว่าฉันมี burnout" ซาร่าห์กล่าว
+
+"คุณควรพบนักบำบัด สุขภาพจิตสำคัญ" เพื่อนของเธอกล่าว
+
+ซาร่าห์นัดหมายกับนักจิตวิทยา เธอตื่นเต้น
+
+"บอกฉันเกี่ยวกับอาการของคุณ" นักจิตวิทยากล่าว
+
+"ฉันรู้สึกกังวลตลอดเวลา ฉันไม่ผ่อนคลาย ฉันหงุดหงิดง่าย" ซาร่าห์กล่าว
+
+นักจิตวิทยาฟัง "คุณกำลังประสบความเครียดจากงาน มาทำงานบนกลยุทธ์การรับมือ" เธอกำล่าว
+
+นักจิตวิทยาสอนซาร่าห์การทำสมาธิและการหายใจ
+
+"นอกจากนี้ คุณต้องการสมดุลงาน-ชีวิต พักผ่อน มีงานอดิเรก" เธอกำล่าว
+
+ซาร่าห์เริ่มฝึกการทำสมาธิ 10 นาทีทุกเช้า
+
+เธอยังเริ่มโยคะ มันช่วยเธอผ่อนคลาย
+
+ซาร่าห์คุยกับหัวหน้าของเธอ "ฉันต้องลดงาน" เธอกำล่าว
+
+หัวหน้าของเธอเห็นด้วย พวกเขาปรับตารางเวลาของเธอ
+
+หลัง 2 เดือน ซาร่าห์รู้สึกดีขึ้น เธอนอนหลับดี เธอกังวลน้อยลง
+
+"การบำบัดช่วยฉันมาก" ซาร่าห์กล่าว
+
+เธอทำสมาธิและโยคะต่อ ตอนนี้มันเป็นส่วนของกิจวัตรเธอ
+
+"สุขภาพจิตสำคัญเท่ากับสุขภาพกาย" ซาร่าห์กล่าว
+
+เธอสนับสนุนเพื่อนให้ดูแลสุขภาพจิตของพวกเขา
+
+"อย่ากลัวที่จะขอความช่วยเหลือ ไม่โอเคก็ไม่เป็นไร" ซาร่าห์กล่าว
+
+---
+
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| mental health | เมนทัล เฮลธ | สุขภาพจิต | Mental health. |
+| stressed | สเตรสด | เครียด | Feel stressed. |
+| demanding | ดิแมนดิ้ง | ต้องการมาก | Demanding job. |
+| tired | ไทเออด | เหนื่อย | Always tired. |
+| sleep | สลีพ | นอน | Can't sleep. |
+| burnout | เบิร์นเอาท์ | หมดไฟ | Have burnout. |
+| therapist | เทอราพิสท | นักบำบัด | See a therapist. |
+| psychologist | ไซคอลอจิสท | นักจิตวิทยา | See psychologist. |
+| nervous | เนอวัส | ประหม่า | Feel nervous. |
+| symptom | ซิมพทอม | อาการ | My symptoms. |
+| anxious | แองซัส | กังวล | Feel anxious. |
+| relax | รีแลกซ | ผ่อนคลาย | Can't relax. |
+| irritable | อิรริทะเบิล | หงุดหงิดง่าย | Feel irritable. |
+| work-related | เวิค-ริเลทิด | จากงาน | Work-related stress. |
+| coping strategy | โคพพิง สตราเทจี | กลยุทธ์การรับมือ | Coping strategies. |
+| meditation | เมดิเทชั่น | การทำสมาธิ | Practice meditation. |
+| breathing | บรีทธิง | การหายใจ | Breathing exercises. |
+| work-life balance | เวิค-ไลฟ์ บาลานซ | สมดุลงาน-ชีวิต | Need work-life balance. |
+| break | เบรค | พัก | Take breaks. |
+| hobby | ฮ็อบบี้ | งานอดิเรก | Have hobbies. |
+| yoga | โยคะ | โยคะ | Practice yoga. |
+| boss | บอส | หัวหน้า | Talk to boss. |
+| workload | เวิคโหลด | ปริมาณงาน | Reduce workload. |
+| adjust | อะจัสท | ปรับ | Adjust schedule. |
+| routine | รูทีน | กิจวัตร | Daily routine. |
+| physical health | ฟิซิคอล เฮลธ | สุขภาพกาย | Physical health. |
+| encourage | เอนเคอริจ | สนับสนุน | Encourage friends. |
+| ask for help | อาสค ฟอ เฮลพ | ขอความช่วยเหลือ | Ask for help. |
+
+---
+
+## 💬 วลีน่ารู้ (Useful Phrases)
+
+| Phrase | ความหมาย |
+|--------|----------|
+| mental health | สุขภาพจิต |
+| I'm feeling stressed. | ฉันรู้สึกเครียด |
+| You should see a therapist. | คุณควรพบนักบำบัด |
+| Mental health is important. | สุขภาพจิตสำคัญ |
+| work-life balance | สมดุลงาน-ชีวิต |
+| Take breaks. | พักผ่อน |
+| Practice meditation. | ฝึกการทำสมาธิ |
+| It's okay to not be okay. | ไม่โอเคก็ไม่เป็นไร |
+| Don't be afraid to ask for help. | อย่ากลัวที่จะขอความช่วยเหลือ |
+| Mental health is just as important as physical health. | สุขภาพจิตสำคัญเท่ากับสุขภาพกาย |
+
+---
+
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- Mental health is important.
+- I need to reduce my workload.
+- It's okay to not be okay.
+
+**2. Translate to English:**
+- ฉันรู้สึกเครียด
+- คุณควรพักผ่อน
+- ฝึกการทำสมาธิทุกวัน
+
+**3. Write about mental health:**
+- How do you manage stress?
+- Do you practice meditation?
+- What do you do to relax?
+
+---
+
+**เรื่องที่ 27 จบ**
+**ต่อไป:** เรื่องที่ 28 - Quitting Smoking
