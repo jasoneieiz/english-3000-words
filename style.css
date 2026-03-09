@@ -390,43 +390,36 @@ main {
 .sentence-triple {
     margin: 15px 0;
     padding: 15px;
-    background: linear-gradient(to right, #f0f4ff, #f9f9f9, #f0fff4);
+    background: #f0f4ff;
     border-left: 4px solid #667eea;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .english-text {
     color: #333;
     font-weight: 600;
     font-size: 1.1rem;
-    margin: 0 0 5px 0;
+    margin: 0 0 8px 0;
     line-height: 1.6;
 }
 
 .thai-pronunciation {
     color: #667eea;
     font-size: 1rem;
-    margin: 0 0 5px 0;
+    margin: 0 0 8px 0;
     line-height: 1.6;
     font-style: italic;
-    padding-left: 15px;
-    border-left: 2px solid #667eea;
-}
-
-.thai-text {
-    color: #666;
-    font-size: 1rem;
-    margin: 0;
-    line-height: 1.6;
-    padding-left: 15px;
-    border-left: 2px solid #ccc;
 }
 
 .story-content p {
     margin: 10px 0;
     line-height: 1.8;
     font-size: 1.1rem;
+}
+
+.story-content h3 {
+    color: #667eea;
+    margin: 20px 0 10px 0;
 }
 
 .story-content .bilingual {
