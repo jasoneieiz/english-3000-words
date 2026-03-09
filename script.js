@@ -52,7 +52,6 @@ async function openStory(story) {
     modal.style.display = 'block';
     
     try {
-        // Load story content from file
         const folder = getStoryFolder(story.series);
         const filename = `story-${String(story.id).padStart(2, '0')}.md`;
         const url = `stories/${folder}/${filename}`;
@@ -95,76 +94,76 @@ function getStoryFolder(series) {
     return folders[series] || '01-daily-life';
 }
 
-// Simple Markdown parser
+// Markdown parser - shows English + Thai pronunciation
 function parseMarkdown(markdown) {
-    let html = markdown;
-    
-    // Headers
-    html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
-    html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
-    html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
-    
-    // Bold
-    html = html.replace(/\*\*(.*)\*\*/gim, '<b>$1</b>');
-    
-    // Process line by line to create triple display (English + Thai pronunciation + Thai)
-    const lines = html.split(/\n/);
+    const lines = markdown.split(/\n/);
     let result = [];
     let i = 0;
+    let skipUntilEmpty = false;
     
     while (i < lines.length) {
-        const line = lines[i].trim();
+        const line = lines[i];
+        const trimmed = line.trim();
         
-        // Skip empty lines and headers
-        if (!line || line.startsWith('#')) {
-            result.push(line);
+        // Skip "เวอร์ชันภาษาไทย" section
+        if (trimmed.includes('เวอร์ชันภาษาไทย')) {
+            skipUntilEmpty = true;
+            i++;
+            continue;
+        }
+        
+        // Skip until we hit an empty line (end of Thai section)
+        if (skipUntilEmpty) {
+            if (!trimmed) {
+                skipUntilEmpty = false;
+            }
+            i++;
+            continue;
+        }
+        
+        // Process headers
+        if (trimmed.startsWith('### ')) {
+            result.push('<h3>' + trimmed.replace('### ', '') + '</h3>');
+            i++;
+            continue;
+        }
+        
+        if (trimmed.startsWith('## ')) {
+            result.push('<h2>' + trimmed.replace('## ', '') + '</h2>');
+            i++;
+            continue;
+        }
+        
+        if (trimmed.startsWith('# ')) {
+            result.push('<h1>' + trimmed.replace('# ', '') + '</h1>');
+            i++;
+            continue;
+        }
+        
+        // Skip empty lines
+        if (!trimmed) {
             i++;
             continue;
         }
         
         // If line starts with English letter, it's English text
-        if (/^[A-Z"]/.test(line)) {
-            let englishText = line;
+        if (/^[A-Z"]/.test(trimmed)) {
+            let englishText = trimmed;
             let thaiPronunciation = '';
-            let thaiText = '';
             
-            // Check if next line is Thai pronunciation (starts with Thai character but not Thai sentence)
+            // Check if next line is Thai pronunciation
             if (i + 1 < lines.length && /^[\u0E00-\u0E7F]/.test(lines[i + 1].trim())) {
-                // Check if it's pronunciation (shorter) or translation (longer)
-                const nextLine = lines[i + 1].trim();
-                const followingLine = i + 2 < lines.length ? lines[i + 2].trim() : '';
-                
-                // If there's another Thai line after, the first is pronunciation
-                if (followingLine && /^[\u0E00-\u0E7F]/.test(followingLine)) {
-                    thaiPronunciation = nextLine;
-                    thaiText = followingLine;
-                    i += 2; // Skip both Thai lines
-                } else {
-                    // Only one Thai line, it's the translation
-                    thaiText = nextLine;
-                    i++;
-                }
+                thaiPronunciation = lines[i + 1].trim();
+                i++; // Skip the Thai line
             }
             
-            // Create triple display
-            result.push('<div class="sentence-triple">');
+            // Create display with English + pronunciation
+            result.push('<div class="sentence-pair">');
             result.push('<p class="english-text">' + englishText + '</p>');
             if (thaiPronunciation) {
                 result.push('<p class="thai-pronunciation">' + thaiPronunciation + '</p>');
             }
-            if (thaiText) {
-                result.push('<p class="thai-text">' + thaiText + '</p>');
-            }
             result.push('</div>');
-        }
-        // Skip standalone Thai text
-        else if (/^[\u0E00-\u0E7F]/.test(line)) {
-            i++;
-            continue;
-        }
-        // Other text
-        else {
-            result.push(line);
         }
         
         i++;
