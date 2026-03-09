@@ -94,48 +94,58 @@ function getStoryFolder(series) {
     return folders[series] || '01-daily-life';
 }
 
-// Markdown parser - shows English + Thai pronunciation
+// Markdown parser - shows English + Thai pronunciation + Thai translation + Vocabulary + Phrases + Exercise
 function parseMarkdown(markdown) {
     const lines = markdown.split(/\n/);
     let result = [];
     let i = 0;
-    let skipUntilEmpty = false;
+    let showThaiTranslation = false;
     
     while (i < lines.length) {
         const line = lines[i];
         const trimmed = line.trim();
         
-        // Skip "เวอร์ชันภาษาไทย" section
+        // Check if we're entering Thai version section
         if (trimmed.includes('เวอร์ชันภาษาไทย')) {
-            skipUntilEmpty = true;
+            showThaiTranslation = true;
+            result.push('<h3>เวอร์ชันภาษาไทย</h3>');
             i++;
             continue;
         }
         
-        // Skip until we hit an empty line (end of Thai section)
-        if (skipUntilEmpty) {
-            if (!trimmed) {
-                skipUntilEmpty = false;
-            }
+        // Check if we're entering Vocabulary section
+        if (trimmed.includes('คำศัพท์สำคัญ')) {
+            showThaiTranslation = false;
+            result.push('<h2>📚 คำศัพท์สำคัญ (Vocabulary)</h2>');
+            i++;
+            continue;
+        }
+        
+        // Check if we're entering Phrases section
+        if (trimmed.includes('วลีน่ารู้')) {
+            showThaiTranslation = false;
+            result.push('<h2>💬 วลีน่ารู้ (Useful Phrases)</h2>');
+            i++;
+            continue;
+        }
+        
+        // Check if we're entering Exercise section
+        if (trimmed.includes('แบบฝึกหัด')) {
+            showThaiTranslation = false;
+            result.push('<h2>✏️ แบบฝึกหัด (Exercise)</h2>');
             i++;
             continue;
         }
         
         // Process headers
-        if (trimmed.startsWith('### ')) {
+        if (trimmed.startsWith('### ') && !trimmed.includes('English Version')) {
             result.push('<h3>' + trimmed.replace('### ', '') + '</h3>');
             i++;
             continue;
         }
         
-        if (trimmed.startsWith('## ')) {
+        if (trimmed.startsWith('## ') && !trimmed.includes('เรื่องสั้น')) {
             result.push('<h2>' + trimmed.replace('## ', '') + '</h2>');
-            i++;
-            continue;
-        }
-        
-        if (trimmed.startsWith('# ')) {
-            result.push('<h1>' + trimmed.replace('# ', '') + '</h1>');
             i++;
             continue;
         }
@@ -154,7 +164,7 @@ function parseMarkdown(markdown) {
             // Check if next line is Thai pronunciation
             if (i + 1 < lines.length && /^[\u0E00-\u0E7F]/.test(lines[i + 1].trim())) {
                 thaiPronunciation = lines[i + 1].trim();
-                i++; // Skip the Thai line
+                i++; // Skip the Thai pronunciation line
             }
             
             // Create display with English + pronunciation
@@ -164,6 +174,19 @@ function parseMarkdown(markdown) {
                 result.push('<p class="thai-pronunciation">' + thaiPronunciation + '</p>');
             }
             result.push('</div>');
+        }
+        // If we're in Thai translation section and line starts with Thai character
+        else if (showThaiTranslation && /^[\u0E00-\u0E7F]/.test(trimmed)) {
+            result.push('<p class="thai-translation">' + trimmed + '</p>');
+        }
+        // Vocabulary, Phrases, Exercise content
+        else if (!showThaiTranslation && trimmed.startsWith('|')) {
+            // Keep table format
+            result.push(line);
+        }
+        // Other content (bold text, lists, etc.)
+        else {
+            result.push(line);
         }
         
         i++;
