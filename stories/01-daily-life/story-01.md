@@ -2,17 +2,21 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **My Morning Routine**
 
 I wake up at 6:00 AM every day. First, I brush my teeth and wash my face. Then I take a shower and get dressed.
+ไอ เวค อัพ แอท ซิกซ์ เอเอ็ม เอฟวรี เดย์ เฟิสท ไอ บรัช มาย ทีธ แอนด์ วอช มาย เฟส เซน ไอ เทค อะ ชาวเวอะ แอนด์ เก็ท เดรส
 
 For breakfast, I usually have toast with eggs and a cup of coffee. I check my phone and read the news while eating.
+ฟอร์ เบรคเฟิสท ไอ ยูชัวลี่ แฮฟว โทสท วิธ เอกส์ แอนด์ อะ คัพ ออฟ คอฟฟี่ ไอ เช็ค มาย โฟน แอนด์ รีด เดอะ นิวส์ ไวล์ อีทติง
 
 At 7:30 AM, I leave my house and go to work. I take the bus because it's cheaper than driving. The bus ride takes about 30 minutes.
+แอท เซเว่น เธอร์ที เอเอ็ม ไอ ลีฟว มาย เฮาส์ แอนด์ โก ทู เวิค ไอ เทค เดอะ บัส บิคอส อิทส ชีพเพอะ แดน ไดรฟวิ่ง เดอะ บัส ไรด เทคส์ อะเบ้าท์ เธอร์ที มินนิตส์
 
 I arrive at the office at 8:00 AM. I say hello to my colleagues and start working.
+ไอ อะไรฟว แอท ดิ ออฟฟิศ แอท เอท เอเอ็ม ไอ เซย์ เฮลโล ทู มาย คอลลีกส์ แอนด์ สตาร์ท เวิคคิง
 
 ---
 
