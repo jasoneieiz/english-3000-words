@@ -13,6 +13,184 @@ function showSection(sectionId) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+// Render stories
+function renderStories(storiesToRender) {
+    const grid = document.getElementById('stories-grid');
+    if (!grid) return;
+    
+    grid.innerHTML = '';
+    
+    storiesToRender.forEach(story => {
+        const card = document.createElement('div');
+        card.className = 'story-card';
+        card.innerHTML = `
+            <span class="series-tag">${story.seriesTh}</span>
+            <h3>${story.id}. ${story.title}</h3>
+            <p>${story.titleTh}</p>
+        `;
+        card.addEventListener('click', () => openStory(story));
+        grid.appendChild(card);
+    });
+}
+
+// Filter stories
+function filterStories(series) {
+    if (series === 'all') {
+        renderStories(stories);
+    } else {
+        const filtered = stories.filter(s => s.series === series);
+        renderStories(filtered);
+    }
+}
+
+// Open story modal
+async function openStory(story) {
+    const modal = document.getElementById('story-modal');
+    const modalBody = document.getElementById('modal-body');
+    
+    modalBody.innerHTML = '<div class="loading">กำลังโหลด...</div>';
+    modal.style.display = 'block';
+    
+    try {
+        // Load story content from file
+        const folder = getStoryFolder(story.series);
+        const filename = `story-${String(story.id).padStart(2, '0')}.md`;
+        const url = `stories/${folder}/${filename}`;
+        
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('File not found');
+        
+        const markdown = await response.text();
+        const html = parseMarkdown(markdown);
+        
+        modalBody.innerHTML = `
+            <div class="story-content">
+                <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
+                ${html}
+            </div>
+        `;
+    } catch (error) {
+        console.error('Error loading story:', error);
+        modalBody.innerHTML = `
+            <div class="story-content">
+                <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
+                <p>กำลังอัปเดตเนื้อหา...</p>
+            </div>
+        `;
+    }
+}
+
+// Get story folder by series
+function getStoryFolder(series) {
+    const folders = {
+        'daily-life': '01-daily-life',
+        'work': '02-work-career',
+        'travel': '03-travel',
+        'food': '04-food',
+        'relationships': '05-relationships',
+        'health': '06-health',
+        'education': '07-education',
+        'career': '08-career'
+    };
+    return folders[series] || '01-daily-life';
+}
+
+// Simple Markdown parser
+function parseMarkdown(markdown) {
+    let html = markdown;
+    
+    // Headers
+    html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
+    html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
+    html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
+    
+    // Bold
+    html = html.replace(/\*\*(.*)\*\*/gim, '<b>$1</b>');
+    
+    // Line breaks
+    html = html.replace(/\n/gim, '<br>');
+    
+    return html;
+}
+
+// Close modal
+function closeModal() {
+    document.getElementById('story-modal').style.display = 'none';
+}
+
+// Render vocabulary
+function renderVocabulary(vocabToRender) {
+    const list = document.getElementById('vocabulary-list');
+    if (!list) return;
+    
+    list.innerHTML = '';
+    
+    const displayVocab = vocabToRender.slice(0, 200);
+    
+    displayVocab.forEach(vocab => {
+        const item = document.createElement('div');
+        item.className = 'vocab-item';
+        item.innerHTML = `
+            <div class="word">${vocab.word} <span class="pronunciation">${vocab.pronunciation}</span></div>
+            <div class="meaning">${vocab.meaning}</div>
+            <div class="example">ตัวอย่าง: ${vocab.example}</div>
+        `;
+        list.appendChild(item);
+    });
+}
+
+// Filter vocabulary
+function filterVocabulary(level) {
+    if (level === 'all') {
+        renderVocabulary(vocabulary);
+    } else {
+        const filtered = vocabulary.filter(v => v.level === parseInt(level));
+        renderVocabulary(filtered);
+    }
+}
+
+// Render phrases
+function renderPhrases() {
+    const container = document.getElementById('phrases-content');
+    if (!container) return;
+    
+    container.innerHTML = '';
+    
+    for (const key in phrases) {
+        const category = phrases[key];
+        const section = document.createElement('div');
+        section.className = 'phrase-category';
+        
+        let tableHtml = `
+            <h3>${category.title}</h3>
+            <table class="phrase-table">
+                <thead>
+                    <tr>
+                        <th>English</th>
+                        <th>คำอ่าน</th>
+                        <th>ไทย</th>
+                    </tr>
+                </thead>
+                <tbody>
+        `;
+        
+        category.items.forEach(item => {
+            tableHtml += `
+                <tr>
+                    <td><strong>${item.en}</strong></td>
+                    <td>${item.pronunciation}</td>
+                    <td>${item.th}</td>
+                </tr>
+            `;
+        });
+        
+        tableHtml += '</tbody></table>';
+        section.innerHTML = tableHtml;
+        container.appendChild(section);
+    }
+}
+
+// Initialize
 document.addEventListener('DOMContentLoaded', function() {
     console.log('Page loaded, stories:', stories ? stories.length : 'not loaded');
     
@@ -48,128 +226,17 @@ document.addEventListener('DOMContentLoaded', function() {
         console.error('Stories not loaded!');
     }
     
+    // Render vocabulary and phrases
     renderVocabulary(vocabulary);
     renderPhrases();
 });
 
-function renderStories(storiesToRender) {
-    const grid = document.getElementById('stories-grid');
-    if (!grid) {
-        console.error('stories-grid not found');
-        return;
-    }
-    
-    grid.innerHTML = '';
-    console.log('Rendering', storiesToRender.length, 'stories');
-    
-    storiesToRender.forEach(function(story) {
-        const card = document.createElement('div');
-        card.className = 'story-card';
-        card.innerHTML = '<span class="series-tag">' + story.seriesTh + '</span><h3>' + story.id + '. ' + story.title + '</h3><p>' + story.titleTh + '</p>';
-        card.addEventListener('click', function() {
-            openStory(story);
-        });
-        grid.appendChild(card);
-    });
-}
-
-function filterStories(series) {
-    if (series === 'all') {
-        renderStories(stories);
-    } else {
-        const filtered = stories.filter(function(s) { return s.series === series; });
-        renderStories(filtered);
-    }
-}
-
-function openStory(story) {
-    const modal = document.getElementById('story-modal');
-    const modalBody = document.getElementById('modal-body');
-    
-    modalBody.innerHTML = '<div class="loading">กำลังโหลดเนื้อหา...</div>';
-    modal.style.display = 'block';
-    
-    // Try to load from stories-data.json
-    fetch('stories-data.json')
-        .then(function(response) {
-            if (!response.ok) throw new Error('Network response was not ok');
-            return response.json();
-        })
-        .then(function(allStories) {
-            const fullStory = allStories.find(function(s) { return s.id === story.id; });
-            if (fullStory && fullStory.content) {
-                modalBody.innerHTML = '<div class="story-content"><h2>' + story.id + '. ' + story.title + ' (' + story.titleTh + ')</h2>' + fullStory.content + '</div>';
-            } else {
-                modalBody.innerHTML = '<div class="story-content"><h2>' + story.id + '. ' + story.title + ' (' + story.titleTh + ')</h2><p>เนื้อหากำลังอัปเดตค่ะ</p></div>';
-            }
-        })
-        .catch(function(e) {
-            console.error('Error loading story:', e);
-            modalBody.innerHTML = '<div class="story-content"><h2>' + story.id + '. ' + story.title + ' (' + story.titleTh + ')</h2><p>เนื้อหากำลังอัปเดตค่ะ</p></div>';
-        });
-}
-
-function closeModal() {
-    document.getElementById('story-modal').style.display = 'none';
-}
-
+// Close modal when clicking outside
 window.addEventListener('click', function(e) {
-    if (e.target === document.getElementById('story-modal')) {
+    const modal = document.getElementById('story-modal');
+    if (e.target === modal) {
         closeModal();
     }
 });
 
-function renderVocabulary(vocabToRender) {
-    const list = document.getElementById('vocabulary-list');
-    if (!list) return;
-    
-    list.innerHTML = '';
-    const displayVocab = vocabToRender.slice(0, 200);
-    
-    displayVocab.forEach(function(vocab) {
-        const item = document.createElement('div');
-        item.className = 'vocab-item';
-        item.innerHTML = '<div class="word">' + vocab.word + ' <span class="pronunciation">' + vocab.pronunciation + '</span></div><div class="meaning">' + vocab.meaning + '</div><div class="example">ตัวอย่าง: ' + vocab.example + '</div>';
-        list.appendChild(item);
-    });
-}
-
-function filterVocabulary(level) {
-    if (level === 'all') {
-        renderVocabulary(vocabulary);
-    } else {
-        const filtered = vocabulary.filter(function(v) { return v.level === parseInt(level); });
-        renderVocabulary(filtered);
-    }
-}
-
-function renderPhrases() {
-    const container = document.getElementById('phrases-content');
-    if (!container) return;
-    
-    container.innerHTML = '';
-    
-    for (const key in phrases) {
-        const category = phrases[key];
-        const section = document.createElement('div');
-        section.className = 'phrase-category';
-        
-        let tableHtml = '<h3>' + category.title + '</h3><table class="phrase-table"><thead><tr><th>English</th><th>คำอ่าน</th><th>ไทย</th></tr></thead><tbody>';
-        
-        category.items.forEach(function(item) {
-            tableHtml += '<tr><td><strong>' + item.en + '</strong></td><td>' + item.pronunciation + '</td><td>' + item.th + '</td></tr>';
-        });
-        
-        tableHtml += '</tbody></table>';
-        section.innerHTML = tableHtml;
-        container.appendChild(section);
-    }
-}
-
-document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') {
-        closeModal();
-    }
-});
-
-console.log('📚 เก่งศัพท์ 3,000 คำ - Script loaded');
+console.log('Script loaded');
