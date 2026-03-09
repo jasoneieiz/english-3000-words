@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>เก่งศัพท์ 3,000 คำ - หนังสือเรียนภาษาอังกฤษ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>📚 เก่งศัพท์ 3,000 คำ</h1>
+            <p class="subtitle">หนังสือเรียนภาษาอังกฤษ 2 ภาษา (อังกฤษ-ไทย)</p>
+            <div class="stats">
+                <span>✅ 3,000 คำศัพท์</span>
+                <span>✅ 50 เรื่องสั้น</span>
+                <span>✅ 150+ วลี/สำนวน</span>
+            </div>
+        </div>
+    </header>
+
+    <nav class="main-nav">
+        <div class="container">
+            <button class="nav-btn active" data-section="home">🏠 หน้าแรก</button>
+            <button class="nav-btn" data-section="stories">📖 เรื่องสั้น</button>
+            <button class="nav-btn" data-section="vocabulary">📚 คำศัพท์</button>
+            <button class="nav-btn" data-section="phrases">💬 วลี/สำนวน</button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- หน้าแรก -->
+        <section id="home" class="section active">
+            <div class="welcome-card">
+                <h2>ยินดีต้อนรับสู่หนังสือ "เก่งศัพท์ 3,000 คำ"</h2>
+                <p>หนังสือเรียนภาษาอังกฤษที่รวบรวมศัพท์ Oxford 3,000 คำ พร้อมเรื่องสั้น 2 ภาษา</p>
+                
+                <div class="features">
+                    <div class="feature">
+                        <h3>📖 เรื่องสั้น 50 เรื่อง</h3>
+                        <p>เรื่องสั้น 2 ภาษา (อังกฤษ-ไทย) 8 ซีรีส์:</p>
+                        <ul>
+                            <li>ชีวิตประจำวัน (4 เรื่อง)</li>
+                            <li>การทำงาน (3 เรื่อง)</li>
+                            <li>ท่องเที่ยว (5 เรื่อง)</li>
+                            <li>อาหาร (5 เรื่อง)</li>
+                            <li>ความสัมพันธ์ (5 เรื่อง)</li>
+                            <li>สุขภาพ (5 เรื่อง)</li>
+                            <li>การศึกษา (7 เรื่อง)</li>
+                            <li>อาชีพและการงาน (13 เรื่อง)</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="feature">
+                        <h3>📚 คำศัพท์ 3,000 คำ</h3>
+                        <p>แบ่งตามระดับ CEFR:</p>
+                        <ul>
+                            <li>Level 1 (A1-A2): 500 คำ</li>
+                            <li>Level 2 (B1-B2): 1,000 คำ</li>
+                            <li>Level 3 (C1-C2): 1,500 คำ</li>
+                        </ul>
+                    </div>
+                    
+                    <div class="feature">
+                        <h3>💬 วลีและสำนวน 150+</h3>
+                        <p>วลีและสำนวนที่ใช้บ่อย:</p>
+                        <ul>
+                            <li>วลีทักทาย ขอบคุณ ขอโทษ</li>
+                            <li>สำนวนพื้นฐาน</li>
+                            <li>วลีตามสถานการณ์</li>
+                            <li>วลีการทำงาน</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="cta">
+                    <button class="btn-primary" onclick="showSection('stories')">เริ่มอ่านเรื่องสั้น</button>
+                    <button class="btn-secondary" onclick="showSection('vocabulary')">ดูคำศัพท์</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- เรื่องสั้น -->
+        <section id="stories" class="section">
+            <h2>📖 เรื่องสั้น 50 เรื่อง</h2>
+            
+            <div class="series-selector">
+                <button class="series-btn active" data-series="all">ทั้งหมด</button>
+                <button class="series-btn" data-series="daily-life">ชีวิตประจำวัน</button>
+                <button class="series-btn" data-series="work">การทำงาน</button>
+                <button class="series-btn" data-series="travel">ท่องเที่ยว</button>
+                <button class="series-btn" data-series="food">อาหาร</button>
+                <button class="series-btn" data-series="relationships">ความสัมพันธ์</button>
+                <button class="series-btn" data-series="health">สุขภาพ</button>
+                <button class="series-btn" data-series="education">การศึกษา</button>
+                <button class="series-btn" data-series="career">อาชีพ</button>
+            </div>
+
+            <div class="stories-grid" id="stories-grid">
+                <!-- จะถูกเติมด้วย JavaScript -->
+            </div>
+        </section>
+
+        <!-- คำศัพท์ -->
+        <section id="vocabulary" class="section">
+            <h2>📚 คำศัพท์ 3,000 คำ</h2>
+            
+            <div class="level-selector">
+                <button class="level-btn active" data-level="all">ทั้งหมด</button>
+                <button class="level-btn" data-level="1">Level 1 (A1-A2)</button>
+                <button class="level-btn" data-level="2">Level 2 (B1-B2)</button>
+                <button class="level-btn" data-level="3">Level 3 (C1-C2)</button>
+            </div>
+
+            <div class="vocabulary-list" id="vocabulary-list">
+                <!-- จะถูกเติมด้วย JavaScript -->
+            </div>
+        </section>
+
+        <!-- วลี/สำนวน -->
+        <section id="phrases" class="section">
+            <h2>💬 วลีและสำนวน 150+</h2>
+            
+            <div class="phrases-content" id="phrases-content">
+                <!-- จะถูกเติมด้วย JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal สำหรับอ่านเรื่อง -->
+    <div id="story-modal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>📚 เก่งศัพท์ 3,000 คำ | สร้างโดย Jinnie 🐷</p>
+            <p>เสร็จสมบูรณ์ 100% | 2026-03-09</p>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
