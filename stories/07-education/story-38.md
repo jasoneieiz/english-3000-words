@@ -2,47 +2,66 @@
 
 ## 📖 เรื่องสั้น (2 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **First Job**
 
 Krit just graduated. He's looking for his first job.
+กริท จัสท์ แกรดดูเอทเต็ด ฮีส ลุคคิง ฟอ ฮิส เฟิสท์ จ็อบ
 
 "I sent 50 resumes. Only 5 companies called back," Krit says.
+"ไอ เซนด์ ฟิฟตี้ เรซูเมส์ โอนลี ไฟฟ์ คัมปะนีส คอลด์ แบ็ค" กริท เซย์ส
 
 Krit goes to interviews. He's nervous.
+กริท โกส ทู อินเทอร์วิวส์ ฮีส เนอวัส
 
 At the 5th interview, the manager likes him.
+แอท เดอะ ฟิฟท์ อินเทอร์วิว เดอะ แมเนเจอร์ ไลค์ส์ ฮิม
 
 "We'll offer you the position. Starting next month," the manager says.
+"วีล์ ออฟเฟอร์ ยู เดอะ โพซิชัน สตาร์ทติ้ง เนคส์ท มันท์" เดอะ แมเนเจอร์ เซย์ส
 
 Krit is excited. "I got a job!" he tells his parents.
+กริท อิส เอคไซทิด "ไอ ก็อท อะ จ็อบ!" ฮี เทลส์ ฮิส แพเร้นท์ส
 
 On his first day, Krit wears his best suit. He arrives early.
+ออน ฮิส เฟิสท์ เดย์ กริท แวร์ส ฮิส เบสท์ สูท ฮี อะไรฟส์ เออร์ลี่
 
 "Welcome to the team!" his colleagues say.
+"เวลคัม ทู เดอะ ทีม!" ฮิส คอลลีกส์ เซย์
 
 Krit's job is marketing. He has many tasks to learn.
+กริทส์ จ็อบ อิส มาร์เก็ตติ้ง ฮี แฮส แมนี่ ทาสค์ส ทู เลิร์น
 
 "I feel like a beginner. Everyone knows more than me," Krit says.
+"ไอ ฟีล ไลค์ อะ บิกินเนอร์ เอฟวรีวัน โนวส์ มอร์ แดน มี" กริท เซย์ส
 
 His boss gives him guidance. "Don't worry. You'll learn," she says.
+ฮิส บอส กิฟส์ ฮิม ไกด์แดนซ์ "ดอนท์ วอรี่ ยูล์ เลิร์น" ชี เซย์ส
 
 Krit works hard. He stays late sometimes.
+กริท เวิร์คส์ ฮาร์ด ฮี สเตย์ส์ เลท ซัมไทมส์
 
 After 3 months, Krit understands his job better.
+อาฟเทอร์ ธรี มันธส์ กริท อันเดอสแตนด์ส์ ฮิส จ็อบ เบทเทอร์
 
 After 6 months, Krit gets his first bonus.
+อาฟเทอร์ ซิกซ์ มันธส์ กริท เกทส์ ฮิส เฟิสท์ โบนัส
 
 "I earned 10,000 baht bonus! I'm so happy," Krit says.
+"ไอ เอิร์นด เทนเธาซันด บาท โบนัส! ไอม โซ แฮปปี้" กริท เซย์ส
 
 After 1 year, Krit is confident. He's a valuable team member.
+อาฟเทอร์ วัน เยียร์ กริท อิส คอนฟิเดนท์ ฮีส อะ แวลลูเอเบิล ทีม เมมเบอร์
 
 "My first job taught me a lot. I grew professionally," Krit says.
+"มาย เฟิสท์ จ็อบ ทอท มี อะ ลอท ไอ กรู โปรเฟสชันนอลลี่" กริท เซย์ส
 
 He saves money from his salary. He wants to buy a car.
+ฮี เซฟส์ มันนี่ ฟรอม ฮิส ซาลารี่ ฮี วอนทส์ ทู บาย อะ คาร์
 
 "Work hard, save money, plan for the future," Krit says.
+"เวิร์ค ฮาร์ด เซฟว์ มันนี่ แพลน ฟอ เดอะ ฟิวเจอร์" กริท เซย์ส
 
 ---
 
