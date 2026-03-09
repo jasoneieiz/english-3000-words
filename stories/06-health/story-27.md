@@ -1,52 +1,52 @@
 # เรื่องที่ 27: Mental Health (สุขภาพจิต)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Mental Health**
 
-Sarah has been feeling stressed lately. Her job is demanding. She works 10 hours a day.
+ซาร่าห์ แฮส บีน ฟีลลิง สเตรสสด เลทลิ เฮอร์ จ็อบ อิส ดิแมนดิ้ง ชี เวิคส์ เทน อาเวอส์ อะ เดย์
 
-"I'm always tired. I can't sleep well," Sarah says.
+"ไอม ออลเวย์ส ไทเออด ไอ แคนท สลีพ เวล" ซาร่าห์ เซย์ส
 
-Her friend notices. "You don't look well. Are you okay?" she asks.
+เฮอร์ เฟรนด์ โนทิซิส "ยู ดอนท ลุค เวล อาร์ ยู โอเค?" ชี อาสคส์
 
-"I think I have burnout," Sarah says.
+"ไอ ธิงค ไอ แฮฟว เบิร์นเอาท์" ซาร่าห์ เซย์ส
 
-"You should see a therapist. Mental health is important," her friend says.
+"ยู ชูด ซี อะ เทอราพิสท เมนทัล เฮลธ อิส อิมพอร์แทนท" เฮอร์ เฟรนด์ เซย์ส
 
-Sarah makes an appointment with a psychologist. She's nervous.
+ซาร่าห์ เมคส์ แอน อะพอยทเม้นท วิธ อะ ไซคอลอจิสท ชีส เนอวัส
 
-"Tell me about your symptoms," the psychologist says.
+"เทล มี อะเบาท ยัว ซิมพทอมส์" เดอะ ไซคอลอจิสท เซย์ส
 
-"I feel anxious all the time. I can't relax. I'm irritable," Sarah says.
+"ไอ ฟีล แองซัส ออล เดอะ ไทม์ ไอ แคนท รีแลกซ์ ไอม อิรริทะเบิล" ซาร่าห์ เซย์ส
 
-The psychologist listens. "You're experiencing work-related stress. Let's work on coping strategies," she says.
+เดอะ ไซคอลอจิสท ลิสเซินส์ "ยัว เอ็กสพีเรียนซิง เวิค-ริเลทิด สเตรส เลทส์ เวิค ออน โคพพิง สตราเทจีส" ชี เซย์ส
 
-The psychologist teaches Sarah meditation and breathing exercises.
+เดอะ ไซคอลอจิสท ทีชเชส ซาร่าห์ เมดิเทชั่น แอนด์ บรีทธิง เอ็กเซอไซเซส
 
-"Also, you need work-life balance. Take breaks. Have hobbies," she says.
+"ออลโซ ยู นีด เวิค-ไลฟ์ บาลานซ เทค เบรคส์ แฮฟว ฮ็อบบีส์" ชี เซย์ส
 
-Sarah starts practicing meditation. 10 minutes every morning.
+ซาร่าห์ สตาร์ทส์ แพรคติซิง เมดิเทชั่น เทน มินนิตส์ เอฟวรี มอร์นิง
 
-She also starts yoga. It helps her relax.
+ชี ออลโซ สตาร์ทส์ โยคะ อิท เฮลพส์ เฮอร์ รีแลกซ์
 
-Sarah talks to her boss. "I need to reduce my workload," she says.
+ซาร่าห์ ทอคส์ ทู เฮอร์ บอส "ไอ นีด ทู รีดิวซ มาย เวิคโหลด" ชี เซย์ส
 
-Her boss agrees. They adjust her schedule.
+เฮอร์ บอส อะกรีส์ เดย์ อะจัสท เฮอร์ สเคจูล
 
-After 2 months, Sarah feels better. She sleeps well. She's less anxious.
+อาฟเทอะ ทู มันธส์ ซาร่าห์ ฟีลส์ เบทเทอะ ชี สลีพส์ เวล ชีส เลส แองซัส
 
-"Therapy really helped me," Sarah says.
+"เทอราพี เรียลลิ เฮลพด์ มี" ซาร่าห์ เซย์ส
 
-She continues meditation and yoga. It's part of her routine now.
+ชี คอนทินนิวส์ เมดิเทชั่น แอนด์ โยคะ อิทส์ พาร์ท ออฟ เฮอร์ รูทีน นาว
 
-"Mental health is just as important as physical health," Sarah says.
+"เมนทัล เฮลธ อิส จัสท แอส อิมพอร์แทนท แอส ฟิซิคอล เฮลธ" ซาร่าห์ เซย์ส
 
-She encourages her friends to take care of their mental health.
+ชี เอนเคอริจิส เฮอร์ เฟรนด์ส์ ทู เทค แคร์ ออฟ เดย์ เมนทัล เฮลธ
 
-"Don't be afraid to ask for help. It's okay to not be okay," Sarah says.
+"ดอนท บี อะเฟรด ทู อาสค ฟอ เฮลพ อิทส์ โอเค ทู น็อท บี โอเค" ซาร่าห์ เซย์ส
 
 ---
 

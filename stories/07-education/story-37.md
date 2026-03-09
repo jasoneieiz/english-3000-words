@@ -1,46 +1,46 @@
 # เรื่องที่ 37: Career Change (เปลี่ยนอาชีพ)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Career Change**
 
-Naree works as an accountant. She's been doing it for 10 years.
+นารี เวิคส์ แอส แอน อะเคานแทนท์ ชีส บีน ดูอิง อิท ฟอ เทน เยียร์ส
 
-"I'm bored. I want to do something different," Naree says.
+"ไอม บอร์ด ไอ วอนทส์ ทู ดู ซัมธิง ดิฟเฟอเรนท์" นารี เซย์ส
 
-Naree loves cooking. She dreams of opening a restaurant.
+นารี เลิฟส์ คุคคิง ชี ดรีมส์ ออฟ โอเพนนิ่ง อะ เรสทอรองท
 
-"But it's risky. I have a stable job," Naree says.
+"บัท อิทส์ ริสกี ไอ แฮฟว อะ สเตเบิล จ็อบ" นารี เซย์ส
 
-She thinks for months. Finally, she decides to take a cooking course.
+ชี ธิงคส์ ฟอ มันธส์ ไฟนอลลี ชี ดีไซด์ส์ ทู เทค อะ คุคคิง คอร์ส
 
-"I'll study on weekends. Let's see if I'm good at it," Naree says.
+"อายล์ สตัดดิ ออน วีคเอนด์ส์ เลทส์ ซี อิฟ ไอม กูด แอท อิท" นารี เซย์ส
 
-Naree studies Thai cooking every Saturday. She loves it.
+นารี สตัดดีส์ ไทย คุคคิง เอฟวรี แซทเทอะเดย์ ชี เลิฟวส์ อิท
 
-Her instructor says, "You have talent. You should pursue this."
+เฮอร์ อินสตรัคเทอะ เซย์ส "ยู แฮฟว ทาเลนท์ ยู ชูด เพอร์ซู ดิส"
 
-Naree saves money for a year. She quits her accounting job.
+นารี เซฟวส์ มันนี่ ฟอ อะ เยียร์ ชี ควิทส์ เฮอร์ อะเคานทิง จ็อบ
 
-"I'm opening a small restaurant," Naree says.
+"ไอม โอเพนนิ่ง อะ สมอล เรสทอรองท" นารี เซย์ส
 
-Her family is worried. "Are you sure?" they ask.
+เฮอร์ แฟมิลิ อิส วอร์ริด "อาร์ ยู ชัว?" เดย์ อาสคส์
 
-"I'm sure. This is my passion," Naree says.
+"ไอม ชัว ดิส อิส มาย แพสชั่น" นารี เซย์ส
 
-Naree opens "Naree's Thai Kitchen." The food is delicious.
+นารี โอเพนส์ "Naree's Thai Kitchen" เดอะ ฟูด อิส ดิลิเชียส
 
-Customers love it. The restaurant becomes popular.
+คัสโทเมอร์ส เลิฟว อิท เดอะ เรสทอรองท บิคัมส์ พ็อพพูลาร์
 
-After 1 year, Naree earns more than her accounting job.
+อาฟเทอะ วัน เยียร์ นารี เอิร์นส์ มอร์ แดน เฮอร์ อะเคานทิง จ็อบ
 
-"I took a risk, but it paid off," Naree says.
+"ไอ 투ค อะ ริสค บัท อิท เพด ออฟฟ" นารี เซย์ส
 
-She's happier now. She loves going to work every day.
+ชีส์ แฮพพิเออะ นาว ชี เลิฟส์ โกอิง ทู เวิค เอฟวรี เดย์
 
-"Follow your passion. Life is too short to do what you hate," Naree says.
+"ฟอลโลว ยัว แพสชั่น ไลฟ์ อิส ทู ชอร์ท ทู ดู วอท ยู เฮท" นารี เซย์ส
 
 ---
 

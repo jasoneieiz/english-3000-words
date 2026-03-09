@@ -1,44 +1,44 @@
 # เรื่องที่ 36: Scholarship Student (นักเรียนทุน)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Scholarship Student**
 
-Somkid comes from a poor family. His parents are farmers.
+สมคิด คัมส์ ฟรอม อะ พัว แฟมิลิ ฮิส แพเร็นทส์ อาร์ ฟาร์มเมอส์
 
-"I want to study, but my family can't afford it," Somkid says.
+"ไอ วอนทส์ ทู สตัดดิ บัท มาย แฟมิลิ แคนท แอฟฟอร์ด อิท" สมคิด เซย์ส
 
-Somkid is a good student. He gets straight A's.
+สมคิด อิส อะ กูด สทิวเดินท ฮี เกทส์ สเตรท เอส์
 
-His teacher tells him, "You should apply for a scholarship."
+ฮิส ทีชเชอะ เทลส์ ฮิม "ยู ชูด อะพลาย ฟอ อะ สคอลลาชิพ"
 
-Somkid applies for many scholarships. He writes essays and submits documents.
+สมคิด อะพลายส์ ฟอ แมนนี่ สคอลลาชิพส์ ฮี ไรทส์ เอสเซย์ส แอนด์ ซับมิทส์ ดอคคิวเม้นทส์
 
-Finally, he gets a full scholarship to a top university.
+ไฟนอลลี ฮี เกทส์ อะ ฟูล สคอลลาชิพ ทู อะ ท็อพ ยูนิเวอซิติ
 
-"I can't believe it! I'm going to university!" Somkid says.
+"ไอ แคนท บิลีฟว อิท! ไอม โกอิง ทู ยูนิเวอซิติ!" สมคิด เซย์ส
 
-His parents cry happy tears. "We're so proud of you," they say.
+ฮิส แพเร็นทส์ ไครส์ แฮพพี เทียส "วีร์ โซ พราว ออฟ ยู" เดย์ เซย์
 
-Somkid moves to Bangkok. He lives in a dormitory.
+สมคิด มูฟวส์ ทู แบงค็อก ฮี ลีฟวส์ อิน อะ ดอร์มิทอรี
 
-"Life is hard. I have to work part-time too," Somkid says.
+"ไลฟ์ อิส ฮาร์ด ไอ แฮฟว ทู เวิค พาร์ทไทม์ ทู" สมคิด เซย์ส
 
-He works at a restaurant after classes. He sends money home.
+ฮี เวิคส์ แอท อะ เรสทอรองท อาฟเทอะ คลาสเซส ฮี เซนด์ส์ มันนี่ โฮม
 
-But Somkid never gives up on his studies. He graduates with honors.
+บัท สมคิด เนเวอะ กิฟวส์ อัพ ออน ฮิส สตัดดีส์ ฮี แกรดดูเอทส์ วิธ ออนเนอส์
 
-"I got a job at a multinational company. My salary is 50,000 baht," Somkid says.
+"ไอ ก็อท อะ จ็อบ แอท อะ มัลติเนชันนอล คัมพะนี มาย ซาลารี่ อิส ฟิฟตีเธาซันด บาท" สมคิด เซย์ส
 
-He helps his family. He builds a new house for his parents.
+ฮี เฮลพส์ ฮิส แฟมิลิ ฮี บิลดส์ อะ นิว เฮาส์ ฟอ ฮิส แพเร็นทส์
 
-"Education changed my life. I escaped poverty," Somkid says.
+"เอดูเคชั่น เชนจด มาย ไลฟ์ ไอ เอสเคพด พอฟเวอที" สมคิด เซย์ส
 
-Somkid starts a scholarship fund for poor students.
+สมคิด สตาร์ทส์ อะ สคอลลาชิพ ฟันด ฟอ พัว สทิวเดินทส์
 
-"I want to help others like me. Education is the key," Somkid says.
+"ไอ วอนทส์ ทู เฮลพ อาเทอส์ ไลค มี เอดูเคชั่น อิส เดอะ คีย์" สมคิด เซย์ส
 
 ---
 

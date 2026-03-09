@@ -1,52 +1,52 @@
 # เรื่องที่ 23: Long Distance Relationship (ความสัมพันธ์ทางไกล)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Long Distance Relationship**
 
-Sarah and Mike have been dating for 2 years. Now Mike has to move to London for work.
+ซาร่าห์ แอนด์ ไมค์ แฮฟว บีน เดทติง ฟอ ทู เยียร์ส นาว ไมค์ แฮส ทู มูฟ ทู ลอนดอน ฟอ เวิค
 
-"I don't want to break up," Sarah says. "Can we try long distance?"
+"ไอ ดอนท วอนท ทู เบรค อัพ" ซาร่าห์ เซย์ส "แคน วี ไทร ลอง ดิสแทนซ?"
 
-"I don't want to break up either," Mike says. "We can video call every day."
+"ไอ ดอนท วอนท ทู เบรค อัพ ไอเทอะ" ไมค์ เซย์ส "วี แคน วิดีโอ คอล เอฟวรี เดย์"
 
-Sarah is sad but agrees. "Okay, let's try."
+ซาร่าห์ อิส แซด บัท อะกรีส์ "โอเค เลทส์ ไทร"
 
-Mike moves to London. The time difference is 7 hours. When it's morning in Bangkok, it's midnight in London.
+ไมค์ มูฟส์ ทู ลอนดอน เดอะ ไทม ดิฟเฟอเรนซ อิส เซเว่น อาเวอส์ เวน อิทส์ มอร์นิง อิน แบงค็อก อิทส์ มิดไนท อิน ลอนดอน
 
-They video call every evening. Sarah wakes up early to talk to Mike before his work.
+เดย์ วิดีโอ คอล เอฟวรี อีฟนิง ซาร่าห์ เวคส์ อัพ เออริ ทู ทอค ทู ไมค์ บิฟอร์ ฮิส เวิค
 
-"How was your day?" Sarah asks.
+"ฮาว วอส ยัว เดย์?" ซาร่าห์ อาสคส์
 
-"It was good. I miss you so much," Mike says.
+"อิท วอส กูด ไอ มิสซฺ ยู โซ มัช" ไมค์ เซย์ส
 
-They send messages throughout the day. "Good morning, love!" "Good night, sweetie!"
+เดย์ เซนด์ เมสเซเจส ธรูเอ้าท์ เดอะ เดย์ "กู้ด มอร์นิง เลิฟ!" "กู้ด ไนท สวีทตี้!"
 
-But it's hard. Sarah feels lonely sometimes. She sees other couples holding hands.
+บัท อิทส์ ฮาร์ด ซาร่าห์ ฟีลส์ โลนลี ซัมไทมส์ ชี ซีส อาเทอะ คัพเพิลส์ โฮลดิง แฮนดส์
 
-"I wish you were here," Sarah texts Mike.
+"ไอ วิช ยู เวอร์ เฮีย" ซาร่าห์ เทคส์ทส์ ไมค์
 
-"I wish I were there too. Only 6 more months," Mike replies.
+"ไอ วิช ไอ เวอร์ เดอร์ ทู โอนลี ซิกซ์ มอร์ มันธส์" ไมค์ รีพลายส
 
-They count down the days until Mike returns. They make plans for the future.
+เดย์ เคานท ดาวน์ เดอะ เดย์ส์ อันทิล ไมค์ รีเทินส์ เดย์ เมค แพลนส์ ฟอ เดอะ ฟิวเชอะ
 
-"When I come back, we'll get married," Mike says.
+"เวน ไอ คัม แบค วีล์ เก็ท แมริด" ไมค์ เซย์ส
 
-Sarah cries happy tears. "Really? You want to marry me?"
+ซาร่าห์ ไครส์ แฮพพี เทียส "เรียลลี? ยู วอนท ทู แมรี มี?"
 
-"Yes, I love you so much," Mike says.
+"เยส ไอ เลิฟ ยู โซ มัช" ไมค์ เซย์ส
 
-"I love you too," Sarah says.
+"ไอ เลิฟ ยู ทู" ซาร่าห์ เซย์ส
 
-After 6 months, Mike returns to Bangkok. He proposes to Sarah at the airport.
+อาฟเทอะ ซิกซ์ มันธส์ ไมค์ รีเทินส์ ทู แบงค็อก ฮี โพรโพสส์ ทู ซาร่าห์ แอท ดิ แอร์พอร์ต
 
-"Will you marry me?" Mike asks. He holds a ring.
+"วิล ยู แมรี มี?" ไมค์ อาสคส์ ฮี โฮลดส์ อะ ริง
 
-"Yes! Yes!" Sarah says. They hug and kiss.
+"เยส! เยส!" ซาร่าห์ เซย์ส เดย์ ฮัก แอนด์ คิส
 
-Their long distance relationship was hard, but it was worth it.
+เดย์ ลอง ดิสแทนซ์ รีเลชั่นชิพ วอส ฮาร์ด บัท อิท วอส เวิรธ อิท
 
 ---
 

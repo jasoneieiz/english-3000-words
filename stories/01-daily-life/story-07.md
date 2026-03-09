@@ -1,34 +1,46 @@
 # เรื่องที่ 7: Going to the Doctor (ไปหาหมอ)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Going to the Doctor**
 
 Tom doesn't feel well today. He has a headache and a fever. He decides to go to the doctor.
+ทอม ดาสซึนท ฟีล เวล ทูเดย์ ฮี แฮส อะ เฮดเดค แอนด์ อะ ฟีเวอะ ฮี ดีไซด์ส์ ทู โก ทู เดอะ ดอคเทอะ
 
 At the hospital, Tom goes to the reception desk. "I'd like to see a doctor, please," he says.
+แอท เดอะ ฮอสพิทอล ทอม โกส ทู เดอะ รีเซพชั่น เดสค "อายด ไลค ทู ซี อะ ดอคเทอะ พลีส" ฮี เซย์ส
 
 The receptionist asks, "Do you have an appointment?"
+เดอะ รีเซพชั่นนิสท อาสคส์ "ดู ยู แฮฟว แอน อะพอยทเม้นท?"
 
 "No, I don't. It's an emergency," Tom replies.
+"โน ไอ ดอนท อิทส์ แอน อิเมอเจนซี" ทอม รีพลายส
 
 "Okay, please fill out this form and wait in the waiting room. The doctor will call your name."
+"โอเค พลีส ฟิล เอาท์ ดิส ฟอร์ม แอนด์ เวท อิน เดอะ เวทติง รูม เดอะ ดอคเทอะ วิล คอล ยัว เนม"
 
 Tom fills out the form and sits down. After 30 minutes, the nurse calls, "Tom Smith?"
+ทอม ฟิลส์ เอาท์ เดอะ ฟอร์ม แอนด์ ซิทส์ ดาวน์ อาฟเทอะ เธอร์ที มินนิตส์ เดอะ เนิส คอลส์ "ทอม สมิธ?"
 
 Tom stands up and follows the nurse to the examination room. The doctor comes in and asks, "What's wrong?"
+ทอม สแตนดส์ อัพ แอนด์ ฟอลโลวส์ เดอะ เนิส ทู ดิ เอกแซมมิเนชั่น รูม เดอะ ดอคเทอะ คัมส์ อิน แอนด์ อาสคส์ "วอทส์ รอง?"
 
 "I have a headache and a fever. I also have a sore throat," Tom says.
+"ไอ แฮฟว อะ เฮดเดค แอนด์ อะ ฟีเวอะ ไอ ออลโซ แฮฟว อะ ซอ โธรท" ทอม เซย์ส
 
 The doctor checks Tom's temperature. "You have a high fever, 39 degrees. You have the flu. I'll give you some medicine. Take it three times a day after meals."
+เดอะ ดอคเทอะ เช็คส์ ทอมส์ เทมเพอเรเชอะ "ยู แฮฟว อะ ไฮ ฟีเวอะ เธอร์ทีไนน์ ดิกรีส์ ยู แฮฟว เดอะ ฟลู อายล์ กิฟว ยู ซัม เมดิซิน เทค อิท ธรี ไทมส์ อะ เดย์ อาฟเทอะ มีลส์"
 
 "Should I rest at home?" Tom asks.
+"ชูด ไอ เรสท แอท โฮม?" ทอม อาสคส์
 
 "Yes, stay home for 2-3 days. Drink plenty of water and get enough sleep," the doctor advises.
+"เยส สเตย์ โฮม ฟอ ทู-ธรี เดย์ส ดริงค เพลนที ออฟ วอเทอะ แอนด์ เก็ท อีนัฟ สลีพ" เดอะ ดอคเทอะ แอดไวซิส
 
 Tom thanks the doctor, pays at the pharmacy, and goes home to rest.
+ทอม แธงคส์ เดอะ ดอคเทอะ เพย์ส แอท เดอะ ฟาร์มาซี แอนด์ โกส โฮม ทู เรสท
 
 ---
 

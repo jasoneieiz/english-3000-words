@@ -1,50 +1,50 @@
 # เรื่องที่ 26: Going to the Gym (ไปยิม)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Going to the Gym**
 
-David wants to get fit. He decides to join a gym.
+เดวิด วอนทส์ ทู เก็ท ฟิท ฮี ดีไซด์ส์ ทู จอยน์ อะ ยิม
 
-On Monday, David goes to Fitness First near his office. He talks to a trainer.
+ออน มันเดย์ เดวิด โกส ทู ฟิตเนส เฟิสท เนียร์ ฮิส ออฟฟิศ ฮี ทอคส์ ทู อะ เทรนเนอะ
 
-"I want to lose weight and build muscle," David says.
+"ไอ วอนทส์ ทู โลส เวท แอนด์ บิลด มัสเซิล" เดวิด เซย์ส
 
-The trainer assesses David's fitness level. "You're overweight. But we can help you," he says.
+เดอะ เทรนเนอะ อะเซสเซส เดวิดส์ ฟิตเนส เลเวล "ยัว โอเวอะเวท บัท วี แคน เฮลพ ยู" ฮี เซย์ส
 
-The trainer creates a workout plan for David. 3 days a week: cardio, weights, and abs.
+เดอะ เทรนเนอะ ครีเอทส์ อะ เวิคเอาท์ แพลน ฟอ เดวิด ธรี เดย์ส์ อะ วีค: คาร์ดิโอ เวทส์ แอนด์ แอ็บส์
 
-"Also, you need to eat healthier. Less sugar and fat," the trainer says.
+"ออลโซ ยู นีด ทู อีท เฮลเทียเออะ เลส ชูเกอะ แอนด์ แฟท" เดอะ เทรนเนอะ เซย์ส
 
-David starts his fitness journey. First day is hard. He's sore all over.
+เดวิด สตาร์ทส์ ฮิส ฟิตเนส เจอนี เฟิสท เดย์ อิส ฮาร์ด ฮีส ซอ ออล โอเวอะ
 
-"I can't do this," David thinks.
+"ไอ แคนท ดู ดิส" เดวิด ธิงคส์
 
-But he doesn't give up. He goes back on Wednesday.
+บัท ฮี ดาสซึนท กิฟว อัพ ฮี โกส แบค ออน เวนสเดย์
 
-Week by week, David gets stronger. He can lift heavier weights.
+วีค บาย วีค เดวิด เกทส์ สตรองเกอะ ฮี แคน ลิฟท เฮฟเวียเออะ เวทส์
 
-After 1 month, David loses 3 kilograms. He's happier.
+อาฟเทอะ วัน มันธ เดวิด โลสส์ ธรี กิโลกรัมส์ ฮีส แฮพพิเออะ
 
-After 3 months, David loses 10 kilograms. His clothes fit better.
+อาฟเทอะ ธรี มันธส์ เดวิด โลสส์ เทน กิโลกรัมส์ ฮิส โคลทส์ ฟิท เบทเทอะ
 
-"I feel amazing!" David says.
+"ไอ ฟีล อะเมซิ่ง!" เดวิด เซย์ส
 
-His colleagues notice. "You look great! What's your secret?" they ask.
+ฮิส คอลลีกส์ โนทิซ "ยู ลุค เกรท! วอทส์ ยัว ซิคริท?" เดย์ อาสคส์
 
-"Gym and healthy eating. It takes time, but it's worth it," David says.
+"ยิม แอนด์ เฮลธี อีทติง อิท เทคส์ ไทม์ บัท อิทส์ เวิรธ อิท" เดวิด เซย์ส
 
-After 6 months, David is in the best shape of his life. He has six-pack abs.
+อาฟเทอะ ซิกซ์ มันธส์ เดวิด อิส อิน เดอะ เบสท เชพ ออฟ ฮิส ไลฟ์ ฮี แฮส ซิกซ์-แพค แอ็บส์
 
-"I never thought I could do this," David says.
+"ไอ เนเวอะ ธอท ไอ คูด ดู ดิส" เดวิด เซย์ส
 
-The trainer is proud. "You did it! You're an inspiration," he says.
+เดอะ เทรนเนอะ อิส พราว "ยู ดิด อิท! ยัว อะ อินสปิเรชั่น" ฮี เซย์ส
 
-David continues going to the gym. It's now part of his lifestyle.
+เดวิด คอนทินนิวส์ โกอิง ทู เดอะ ยิม อิทส์ นาว พาร์ท ออฟ ฮิส ไลฟ์สไตล์
 
-"Fitness is not a goal. It's a lifestyle," David says.
+"ฟิตเนส อิส น็อท อะ โกล อิทส์ อะ ไลฟ์สไตล์" เดวิด เซย์ส
 
 ---
 

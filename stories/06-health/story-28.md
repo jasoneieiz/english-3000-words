@@ -1,44 +1,44 @@
 # เรื่องที่ 28: Quitting Smoking (เลิกบุหรี่)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Quitting Smoking**
 
-John has been smoking for 15 years. He smokes 20 cigarettes a day.
+จอห์น แฮส บีน สโมคคิง ฟอ ฟิฟทีน เยียร์ส ฮี สโมคส์ ทเวนที ซิกาเรทส์ อะ เดย์
 
-His doctor tells him, "You need to quit smoking. It's bad for your health."
+ฮิส ดอคเทอะ เทลส์ ฮิม "ยู นีด ทู ควิท สโมคคิง อิทส์ แบด ฟอ ยัว เฮลธ"
 
-John knows it's true. He coughs every morning. He gets tired easily.
+จอห์น โนวส์ อิทส์ ทรู ฮี คอฟส์ เอฟวรี มอร์นิง ฮี เกทส์ ไทเออด อีซิลี
 
-"I'll try to quit," John says.
+"อายล์ ไทร ทู ควิท" จอห์น เซย์ส
 
-The first week is hard. John craves cigarettes. He's irritable and anxious.
+เดอะ เฟิสท วีค อิส ฮาร์ด จอห์น ครีฟวส์ ซิกาเรทส์ ฮีส อิรริทะเบิล แอนด์ แองซัส
 
-"I can't do this," John thinks.
+"ไอ แคนท ดู ดิส" จอห์น ธิงคส์
 
-But he doesn't give up. He uses nicotine patches. He chews gum when he craves.
+บัท ฮี ดาสซึนท กิฟว อัพ ฮี ยูซิส นิโคทิน แพทเชส ฮี ชูส์ กัม เวน ฮี ครีฟวส์
 
-His family supports him. "You can do it, Dad!" his children say.
+ฮิส แฟมิลิ ซัพพอร์ตส์ ฮิม "ยู แคน ดู อิท แดด!" ฮิส ชิลเดรน เซย์
 
-After 2 weeks, John feels better. He can breathe easier.
+อาฟเทอะ ทู วีคส์ จอห์น ฟีลส์ เบทเทอะ ฮี แคน บรีธ อีซิลิเออะ
 
-After 1 month, John doesn't crave anymore. He's proud of himself.
+อาฟเทอะ วัน มันธ จอห์น ดาสซึนท ครีฟว อะนีมอร์ ฮีส พราว ออฟ ฮิมเซลฟ
 
-"I haven't smoked for 30 days!" John says.
+"ไอ แฮฟเวนท สโมคด ฟอ เธอร์ตี เดย์ส!" จอห์น เซย์ส
 
-His wife is happy. "I'm so proud of you!" she says.
+ฮิส ไวฟ อิส แฮพพิ "ไอม โซ พราว ออฟ ยู!" ชี เซย์ส
 
-After 3 months, John saves money. He used to spend 3,000 baht per month on cigarettes.
+อาฟเทอะ ธรี มันธส์ จอห์น เซฟวส์ มันนี่ ฮี ยูสด ทู สเพนด์ ธรีเธาซันด บาท เพอ มันธ ออน ซิกาเรทส์
 
-"Now I can use that money for my family," John says.
+"นาว ไอ แคน ยูส แดท มันนี่ ฟอ มาย แฟมิลิ" จอห์น เซย์ส
 
-After 6 months, John's health improves. His cough is gone. He has more energy.
+อาฟเทอะ ซิกซ์ มันธส์ จอห์นส์ เฮลธ อิมพรูฟวส์ ฮิส คอฟฟ์ อิส กอน ฮี แฮส มอร์ เอนเนอจี้
 
-"Quitting smoking was the best decision I ever made," John says.
+"ควิทติง สโมคคิง วอส เดอะ เบสท ดีซิชัน ไอ เอฟเวอะ เมด" จอห์น เซย์ส
 
-He encourages other smokers to quit. "It's hard, but it's possible. Don't give up," John says.
+ฮี เอนเคอริจิส อาเทอะ สโมคเคอส์ ทู ควิท "อิทส์ ฮาร์ด บัท อิทส์ พ็อซซิเบิล ดอนท กิฟว อัพ" จอห์น เซย์ส
 
 After 1 year, John celebrates his smoke-free anniversary.
 

@@ -1,24 +1,31 @@
 # เรื่องที่ 3: At the Office (ที่ออฟฟิศ)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **My First Day at Work**
 
 Today is my first day at a new job. I wake up early and wear my best suit. I want to make a good impression.
+ทูเดย์ อิส มาย เฟิสท เดย์ แอท อะ นิว จ็อบ ไอ เวค อัพ เออริ แอนด์ แวร์ มาย เบสท สูท ไอ วอนท ทู เมค อะ กูด อิมเพรสชั่น
 
 I arrive at the office at 8:30 AM. The receptionist smiles and says, "Good morning! You must be the new employee."
+ไอ อะไรฟว แอท ดิ ออฟฟิศ แอท เอท เธอร์ที เอเอ็ม เดอะ รีเซพชั่นนิสท สไมล์ส แอนด์ เซย์ส "กู้ด มอร์นิง! ยู มัสท บี เดอะ นิว เอ็มพลอยอี"
 
 My boss, Mr. Smith, shows me around the office. He introduces me to my colleagues. Everyone is very friendly.
+มาย บอส มิสเทอะ สมิธ โชวส์ มี อะราวนด ดิ ออฟฟิศ ฮี อินโทรดิวซิส มี ทู มาย คอลลีกส์ เอฟวรีวัน อิส เวริ เฟรนด์ลิ
 
 "Your desk is over there," he says. "Your computer is already set up."
+"ยัว เดสค อิส โอเวอะ แดร์" ฮี เซย์ส "ยัว คอมพิวเทอะ อิส ออลเรดดี้ เซท อัพ"
 
 At lunch time, my colleagues invite me to eat with them. We go to a restaurant nearby. They tell me about the company and answer my questions.
+แอท ลันช ไทม์ มาย คอลลีกส์ อินไวท มี ทู อีท วิธ เดม วี โก ทู อะ เรสทอรองท เนียร์บาย เดย์ เทล มี อะเบาท เดอะ คัมพะนี แอนด์ แอนเซอะ มาย เควสชั่นส์
 
 In the afternoon, I start working on my first project. It's challenging but interesting.
+อิน ดิ อาฟเทอะนูน ไอ สตาร์ท เวิคคิง ออน มาย เฟิสท พรอเจคท อิทส์ แชลเลนจิง บัท อินเทรสติง
 
 At 5:00 PM, I finish work. I'm tired but happy. I think I'm going to like this job.
+แอท ไฟฟว์ พีเอ็ม ไอ ฟินิช เวิค ไอม ไทเออด บัท แฮพพิ ไอ ธิงค ไอม โกอิง ทู ไลค ดิส จ็อบ
 
 ---
 

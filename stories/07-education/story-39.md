@@ -1,48 +1,48 @@
 # เรื่องที่ 39: Work From Home (ทำงานจากบ้าน)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Work From Home**
 
-During the pandemic, companies ask employees to work from home.
+ดูริง เดอะ แพนเดมิค คัมพะนีส อาสค เอ็มพลอยอีส ทู เวิค ฟรอม โฮม
 
-"I've never worked from home before. Will I be productive?" Somchai asks.
+"ไอฟว เนเวอะ เวิคด ฟรอม โฮม บิฟอร์ วิล ไอ บี โพรดักทิฟว?" สมชาย อาสคส์
 
-Somchai sets up a home office. He buys a desk and chair.
+สมชาย เซทส์ อัพ อะ โฮม ออฟฟิศ ฮี บายส์ อะ เดสค แอนด์ แชร์
 
-He connects his laptop to the company system.
+ฮี คอนเนคส์ ฮิส แล็ปท็อป ทู เดอะ คัมพะนี ซิสเทม
 
-"Zoom meetings every day. It's different from office work," Somchai says.
+"Zoom มีทติงส์ เอฟวรี เดย์ อิทส์ ดิฟเฟอเรนท์ ฟรอม ออฟฟิศ เวิค" สมชาย เซย์ส
 
-At first, Somchai struggles. He gets distracted easily.
+แอท เฟิสท สมชาย สตรักเกิลส์ ฮี เกทส์ ดิสแทรคทิด อีซิลี
 
-"My family is home. The kids are noisy," Somchai says.
+"มาย แฟมิลิ อิส โฮม เดอะ คิดส์ อาร์ นอยซี" สมชาย เซย์ส
 
-He creates a schedule. 9 AM to 5 PM is work time.
+ฮี ครีเอทส์ อะ สเคจูล ไนน์ เอเอ็ม ทู ไฟฟว์ พีเอ็ม อิส เวิค ไทม์
 
-"I need a dedicated workspace. No interruptions," Somchai says.
+"ไอ นีด อะ ดิเคทิด เวิคสเปซ โน อินเทอรัพชั่นส์" สมชาย เซย์ส
 
-After 2 weeks, Somchai adapts. He's more productive.
+อาฟเทอะ ทู วีคส์ สมชาย อะแดพทส์ ฮีส มอร์ โพรดักทิฟว
 
-"I save 2 hours of commuting. I can sleep more," Somchai says.
+"ไอ เซฟว ทู อาเวอส์ ออฟ คอมมิวทิง ไอ แคน สลีพ มอร์" สมชาย เซย์ส
 
-He also saves money. No gas, no train fare, no eating out.
+ฮี ออลโซ เซฟวส์ มันนี่ โน แกส โน เทรน แฟร์ โน อีทติง เอาท์
 
-"I save 10,000 baht per month," Somchai says.
+"ไอ เซฟว เทนเธาซันด บาท เพอ มันธ" สมชาย เซย์ส
 
-But he misses his colleagues. "Video calls aren't the same," he says.
+บัท ฮี มิสเซส ฮิส คอลลีกส์ "วิดีโอ คอลส์ อารนท์ เดอะ เซม" ฮี เซย์ส
 
-After 1 year, the company asks employees to return to office.
+อาฟเทอะ วัน เยียร์ เดอะ คัมพะนี อาสคส์ เอ็มพลอยอีส ทู รีเทิร์น ทู ออฟฟิศ
 
-"Can we work hybrid? Some days at home, some days at office?" Somchai asks.
+"แคน วี เวิค ไฮบริด? ซัม เดย์ส แอท โฮม ซัม เดย์ส แอท ออฟฟิศ?" สมชาย อาสคส์
 
-The company agrees. Somchai is happy.
+เดอะ คัมพะนี อะกรีส์ สมชาย อิส แฮพพิ
 
-"Work from home has benefits. But I also miss human connection," Somchai says.
+"เวิค ฟรอม โฮม แฮส เบนนิฟิทส์ บัท ไอ ออลโซ มิสซฺ ฮิวแมน คอนเนคชั่น" สมชาย เซย์ส
 
-Hybrid work is the best of both worlds.
+ไฮบริด เวิค อิส เดอะ เบสท ออฟ โบธ เวิลดส์
 
 ---
 

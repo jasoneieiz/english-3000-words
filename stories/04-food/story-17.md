@@ -1,46 +1,46 @@
 # เรื่องที่ 17: At a Thai Restaurant (ที่ร้านอาหารไทย)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **At a Thai Restaurant**
 
-John is visiting Bangkok from Australia. His friend, Somchai, takes him to a famous Thai restaurant.
+จอห์น อิส วิซิทติง แบงค็อก ฟรอม ออสเตรเลีย ฮิส เฟรนด์ สมชาย เทคส์ ฮิม ทู อะ เฟมัส ไทย เรสทอรองท
 
-"This restaurant has the best pad thai in Bangkok," Somchai says.
+"ดิส เรสทอรองท แฮส เดอะ เบสท ผัดไทย อิน แบงค็อก" สมชาย เซย์ส
 
-When they arrive, the waiter greets them. "Welcome to Thai Delight. How many people?"
+เวน เดย์ อะไรฟว เดอะ เวเทอะ กรีทส์ เดม "เวลคัม ทู ไทย ดีไลท์ ฮาว แมนี พีเพิล?"
 
-"Two people, please," Somchai replies.
+"ทู พีเพิล พลีส" สมชาย รีพลายส
 
-The waiter shows them to a table. He gives them menus.
+เดอะ เวเทอะ โชวส์ เดม ทู อะ เทเบิล ฮี กิฟวส์ เดม เมนู
 
-"What do you recommend?" John asks.
+"วอท ดู ยู รีคอมเมนด์?" จอห์น อาสคส์
 
-"I recommend pad thai, green curry, and tom yum goong," Somchai says.
+"ไอ รีคอมเมนด์ ผัดไทย กรีน เคอรี แอนด์ ต้มยำกุ้ง" สมชาย เซย์ส
 
-John looks at the menu. "I'll try the pad thai. And I want to taste the green curry too."
+จอห์น ลุคส์ แอท เดอะ เมนู "อายล์ ไทร เดอะ ผัดไทย แอนด์ ไอ วอนท ทู เทสท เดอะ กรีน เคอรี ทู"
 
-They order pad thai, green curry with chicken, tom yum goong, and sticky rice for dessert.
+เดย์ ออเดอร์ ผัดไทย กรีน เคอรี วิธ ชิคคิน ต้มยำกุ้ง แอนด์ สติกกี้ ไรซ์ ฟอ ดีเซิท
 
-While waiting, John drinks Thai iced tea. "This is sweet and delicious," he says.
+ไวล์ เวทติง จอห์น ดริงคส์ ไทย ไอซ์ด ที "ดิส อิส สวีท แอนด์ ดิลิเชียส" ฮี เซย์ส
 
-The food arrives. The pad thai has shrimp, peanuts, and bean sprouts. John tastes it.
+เดอะ ฟูด อะไรฟวส์ เดอะ ผัดไทย แฮส ชริมพส์ พีนัทส์ แอนด์ บีน สเราทส์ จอห์น เทสทส์ อิท
 
-"This is amazing! The best pad thai I've ever had!" John says.
+"ดิส อิส อะเมซิ่ง! เดอะ เบสท ผัดไทย ไอฟว เอฟเวอะ แฮด!" จอห์น เซย์ส
 
-The green curry is spicy and creamy. The tom yum goong is sour and spicy.
+เดอะ กรีน เคอรี อิส สไปซี แอนด์ ครีมี เดอะ ต้มยำกุ้ง อิส เซาเออะ แอนด์ สไปซี
 
-"I love Thai food!" John says. "The flavors are so complex."
+"ไอ เลิฟ ไทย ฟูด!" จอห์น เซย์ส "เดอะ เฟลเวอส์ อาร์ โซ คอมเพลคส์"
 
-Somchai smiles. "I'm glad you like it. Thai food is famous worldwide."
+สมชาย สไมล์ส "ไอม แกลด ยู ไลค อิท ไทย ฟูด อิส เฟมัส เวิลดไวด์"
 
-They finish the meal and order mango sticky rice for dessert. The mango is sweet and ripe.
+เดย์ ฟินิช เดอะ มีล แอนด์ ออเดอร์ แมงโก สติกกี้ ไรซ์ ฟอ ดีเซิท เดอะ แมงโก อิส สวีท แอนด์ ไรพ
 
-"This trip to Thailand is perfect," John says. "Great food, great friend, great experience."
+"ดิส ทริป ทู ไทยแลนด์ อิส เพอเฟคท" จอห์น เซย์ส "เกรท ฟูด เกรท เฟรนด์ เกรท เอ็กสพีเรียนซ"
 
-They pay the bill and leave the restaurant. John can't wait to try more Thai food.
+เดย์ เพย์ เดอะ บิล แอนด์ ลีฟว เดอะ เรสทอรองท จอห์น แคนท เวท ทู ไทร มอร์ ไทย ฟูด
 
 ---
 

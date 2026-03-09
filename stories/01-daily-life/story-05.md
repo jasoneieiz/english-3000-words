@@ -1,26 +1,34 @@
 # เรื่องที่ 5: Shopping for Clothes (ซื้อเสื้อผ้า)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Shopping for Clothes**
 
 It's Saturday afternoon. Sarah goes to the shopping mall with her friend, Lisa. They want to buy new clothes for a party next week.
+อิทส์ แซทเทอะเดย์ อาฟเทอะนูน ซาร่าห์ โกส ทู เดอะ ช็อปปิ้ง มอล วิธ เฮอร์ เฟรนด์ ลิซ่า เดย์ วอนท ทู บาย นิว โคลทส์ ฟอ อะ พาทิ เนคซท วีค
 
 First, they go to a clothing store on the second floor. Sarah sees a beautiful red dress. She asks the salesperson, "Can I try this on?"
+เฟิสท เดย์ โก ทู อะ โคลธิง สโตร์ ออน เดอะ เซคเคินด ฟลอร์ ซาร่าห์ ซีส อะ บิวทิฟูล เรด เดรส ชี อาคส์ เดอะ เซลสเพอร์ซึน "แคน ไอ ไทร ดิส ออน?"
 
 The salesperson says, "Yes, of course. The fitting room is over there."
+เดอะ เซลสเพอร์ซึน เซย์ส "เยส ออฟ คอรส เดอะ ฟิตติง รูม อิส โอเวอะ แดร์"
 
 Sarah tries on the dress. It fits perfectly! She looks at herself in the mirror and smiles.
+ซาร่าห์ ไทรส์ ออน เดอะ เดรส อิท ฟิทส์ เพอเฟคทลิ! ชี ลุคส์ แอท เฮอร์เซลฟ อิน เดอะ มิเรอะ แอนด์ สไมล์ส
 
 "How much is it?" Sarah asks.
+"ฮาว มัช อิส อิท?" ซาร่าห์ อาคส์
 
 "It's 1,200 baht," the salesperson replies. "It's on sale today. 20% off!"
+"อิทส์ วันทูฮันเดรด บาท" เดอะ เซลสเพอร์ซึน รีพลายส "อิทส์ ออน เซล ทูเดย์ ทเวนที เพอเซนต์ ออฟ!"
 
 Sarah decides to buy it. She also buys a pair of black shoes. Lisa buys a blue shirt and some jeans.
+ซาร่าห์ ดีไซด์ส์ ทู บาย อิท ชี ออลโซ บายส์ อะ แพร์ ออฟ แบลค ชูส์ ลิซ่า บายส์ อะ บลู เชิท แอนด์ ซัม จีนส์
 
 They pay at the cashier and leave the store happily.
+เดย์ เพย์ แอท เดอะ แคชเชียร์ แอนด์ ลีฟว เดอะ สโตร์ แฮพพิลิ
 
 ---
 

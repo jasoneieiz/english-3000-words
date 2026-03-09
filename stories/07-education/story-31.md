@@ -1,38 +1,38 @@
 # เรื่องที่ 31: Learning English (เรียนภาษาอังกฤษ)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Learning English**
 
-Somchai wants to improve his English. He needs it for his job.
+สมชาย วอนทส์ ทู อิมพรูฟว ฮิส อิงลิช ฮี นีดส์ อิท ฟอ ฮิส จ็อบ
 
-"I can read English, but I can't speak well," Somchai says.
+"ไอ แคน รีด อิงลิช บัท ไอ แคนท สปีค เวล" สมชาย เซย์ส
 
-Somchai starts studying every day. He uses many methods:
+สมชาย สตาร์ทส์ สตัดดิ้ง เอฟวรี เดย์ ฮี ยูซิส แมนนี่ เมธอดส์:
 
-1. He watches English movies with subtitles.
-2. He listens to English podcasts.
-3. He practices speaking with a language partner.
-4. He uses language apps on his phone.
-5. He reads English news every morning.
+วัน: ฮี วอทเชส อิงลิช มูฟวี่ส์ วิธ ซับไทเทิล
+ทู: ฮี ลิสเซินส์ ทู อิงลิช พอดคาสท
+ธรี: ฮี แพรคติซีส สปีคคิง วิธ อะ แลงกวิจ พาร์ทเนอะ
+โฟ: ฮี ยูซิส แลงกวิจ แอพส์ ออน ฮิส โฟน
+ไฟฟว์: ฮี รีดส์ อิงลิช นิวส์ เอฟวรี มอร์นิง
 
-"It's hard, but I'm improving," Somchai says.
+"อิทส์ ฮาร์ด บัท ไอม อิมพรูฟวิ่ง" สมชาย เซย์ส
 
-After 1 month, Somchai can understand more. He watches movies without Thai subtitles.
+อาฟเทอะ วัน มันธ สมชาย แคน อันเดอสแตนด์ มอร์ ฮี วอทเชส มูฟวี่ส์ วิธเอาท์ ไทย ซับไทเทิล
 
-After 3 months, Somchai can speak basic English. He talks to foreigners at work.
+อาฟเทอะ ธรี มันธส์ สมชาย แคน สปีค เบซิค อิงลิช ฮี ทอคส์ ทู ฟอเรนเนอส์ แอท เวิค
 
-"My boss is impressed. She says my English is better," Somchai says.
+"มาย บอส อิส อิมเพรสสด ชี เซย์ส มาย อิงลิช อิส เบทเทอะ" สมชาย เซย์ส
 
-After 6 months, Somchai takes an English test. He gets a high score.
+อาฟเทอะ ซิกซ์ มันธส์ สมชาย เทคส์ แอน อิงลิช เทสท ฮี เกทส์ อะ ไฮ สคอร์
 
-"I passed the test! My English is good enough for promotion," Somchai says.
+"ไอ พาสสด เดอะ เทสท! มาย อิงลิช อิส กูด อีนัฟ ฟอ โพรโมชั่น" สมชาย เซย์ส
 
-His company promotes him to a higher position. His salary increases.
+ฮิส คัมพะนี โพรโมทส์ ฮิม ทู อะ ไฮเออะ โพซิชั่น ฮิส ซาลารี่ อินครีสซีส
 
-"Learning English changed my career. It opened many doors," Somchai says.
+"เลินนิง อิงลิช เชนจด มาย คะเรีย อิท โอเพนด์ แมนนี่ ดอส์" สมชาย เซย์ส
 
 He encourages his colleagues to learn English. "It takes time, but it's worth it," Somchai says.
 

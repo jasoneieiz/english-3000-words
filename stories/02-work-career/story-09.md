@@ -1,36 +1,36 @@
 # เรื่องที่ 9: Job Interview (สัมภาษณ์งาน)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Job Interview**
 
-David has a job interview today at a marketing company. He wakes up early, takes a shower, and wears his best suit. He wants to make a good first impression.
+เดวิด แฮส อะ จ็อบ อินเทอวิว ทูเดย์ แอท อะ มาร์เก็ตติง คัมพะนี ฮี เวคส์ อัพ เออริ เทคส์ อะ ชาวเวอะ แอนด์ แวร์ส ฮิส เบสท สูท ฮี วอนทส์ ทู เมค อะ กูด เฟิสท อิมเพรสชั่น
 
-He arrives at the office 15 minutes early. The receptionist greets him and asks him to wait in the lobby.
+ฮี อะไรฟวส์ แอท ดิ ออฟฟิศ ฟิฟทีน มินนิตส์ เออริ เดอะ รีเซพชั่นนิสท กรีทส์ ฮิม แอนด์ อาสคส์ ฮิม ทู เวท อิน เดอะ ล็อบบี้
 
-After 5 minutes, the HR manager comes out. "David Brown? I'm Sarah Johnson, the HR manager. Please follow me."
+อาฟเทอะ ไฟฟว์ มินนิตส์ เดอะ เอชอาร์ แมเนเจอะ คัมส์ เอาท์ "เดวิด บราวน์? ไอม ซาร่าห์ จอห์นสัน ดิ เอชอาร์ แมเนเจอะ พลีส ฟอลโลว มี"
 
-They go to a meeting room. Sarah sits down and says, "Thank you for coming today. Let's start with some questions. Can you tell me about yourself?"
+เดย์ โก ทู อะ มีทติง รูม ซาร่าห์ ซิทส์ ดาวน์ แอนด์ เซย์ส "แธงค ยู ฟอ คัมมิง ทูเดย์ เลทส์ สตาร์ท วิธ ซัม เควสชั่นส์ แคน ยู เทล มี อะเบาท ยัวเซลฟ?"
 
-David answers, "I graduated from Chulalongkorn University with a degree in Marketing. I have 3 years of experience at ABC Company. I'm good at social media marketing and content creation."
+เดวิด แอนเซอส์ "ไอ แกรดดูเอท ฟรอม จุฬาลงกรณ์ ยูนิเวอซิติ วิธ อะ ดีกรี อิน มาร์เก็ตติง ไอ แฮฟว ธรี เยียร์ส ออฟ เอ็กสพีเรียนซ แอท เอบีซี คัมพะนี ไอม กูด แอท โซเชียล มีเดีย มาร์เก็ตติง แอนด์ คอนเทนต์ ครีเอชั่น"
 
-Sarah nods. "That's impressive. Why do you want to work here?"
+ซาร่าห์ น็อดส์ "แดทส์ อิมเพรสซิฟว วาย ดู ยู วอนท ทู เวิค เฮีย?"
 
-"I've followed your company for a long time. I admire your creative campaigns. I believe I can contribute to your team," David replies.
+"ไอฟว ฟอลโลวด ยัว คัมพะนี ฟอ อะ ลอง ไทม์ ไอ แอดไมเออะ ยัว ครีเอทีฟ แคมเปญส์ ไอ บิลีฟว ไอ แคน คอนทริบิวท ทู ยัว ทีม" เดวิด รีพลายส
 
-Sarah smiles. "Great! Do you have any questions for me?"
+ซาร่าห์ สไมล์ส "เกรท! ดู ยู แฮฟว เอนี เควสชั่นส์ ฟอ มี?"
 
-"Yes. What are the working hours? And what's the salary range?" David asks.
+"เยส วอท อาร์ เดอะ เวิคคิง อาเวอส์? แอนด์ วอทส์ เดอะ ซาลารี่ เรนจ์?" เดวิด อาสคส์
 
-"The working hours are 9 AM to 6 PM, Monday to Friday. The salary is 35,000 to 45,000 baht, depending on experience," Sarah explains.
+"เดอะ เวิคคิง อาเวอส์ อาร์ ไนน์ เอเอ็ม ทู ซิกซ์ พีเอ็ม มันเดย์ ทู ฟรายเดย์ เดอะ ซาลารี่ อิส เธอร์ตีไฟฟว์เธาซันด ทู โฟร์ตีไฟฟว์เธาซันด บาท ดีเพนดิง ออน เอ็กสพีเรียนซ" ซาร่าห์ เอ็กซเพลนส์
 
-"Thank you. I'm very interested in this position," David says.
+"แธงค ยู ไอม เวริ อินเทรสทิด อิน ดิส โพซิชั่น" เดวิด เซย์ส
 
-"We'll call you next week with our decision. Thank you for your time," Sarah says.
+"วีล์ คอล ยู เนคซท วีค วิธ อาเวอะ ดีซิชัน แธงค ยู ฟอ ยัว ไทม์" ซาร่าห์ เซย์ส
 
-David thanks her and leaves. He feels confident about the interview.
+เดวิด แธงคส์ เฮอร์ แอนด์ ลีฟวส์ ฮี ฟีลส์ คอนฟิเดนท์ อะเบาท ดิ อินเทอวิว
 
 ---
 

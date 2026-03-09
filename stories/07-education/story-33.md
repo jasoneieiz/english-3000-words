@@ -1,56 +1,56 @@
 # เรื่องที่ 33: Studying Abroad (เรียนต่อต่างประเทศ)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **Studying Abroad**
 
-Kanya dreams of studying abroad. She wants to study in Australia.
+กัญญา ดรีมส์ ออฟ สตัดดิ้ง อะบรอด ชี วอนทส์ ทู สตัดดิ อิน ออสเตรเลีย
 
-"I need to prepare many things," Kanya says.
+"ไอ นีด ทู พรีแพ แมนนี่ ธิงส์" กัญญา เซย์ส
 
-First, Kanya takes an IELTS test. She needs a good score for university admission.
+เฟิสท กัญญา เทคส์ แอน ไอเอลทส์ เทสท ชี นีดส์ อะ กูด สคอร์ ฟอ ยูนิเวอซิติ แอดมิชชั่น
 
-She studies every day for 3 months. She takes practice tests.
+ชี สตัดดีส์ เอฟวรี เดย์ ฟอ ธรี มันธส์ ชี เทคส์ แพรคติส เทสทส์
 
-Finally, she gets IELTS 7.0. "That's good enough!" she says.
+ไฟนอลลี ชี เกทส์ ไอเอลทส์ เซเว่น พอยท "แดทส์ กูด อีนัฟ!" ชี เซย์ส
 
-Next, Kanya applies to universities. She sends her transcripts and recommendation letters.
+เนคซท กัญญา อะพลายส์ ทู ยูนิเวอซิติส์ ชี เซนด์ส เฮอร์ ทรานสคริปส์ แอนด์ รีคอมเมนเดชั่น เลทเทอส์
 
-She gets accepted to the University of Melbourne. "I got in!" she says.
+ชี เกทส์ แอคเซพเทด ทู เดอะ ยูนิเวอซิติ ออฟ เมลเบิร์น "ไอ ก็อท อิน!" ชี เซย์ส
 
-Now she needs a student visa. She goes to the Australian embassy.
+นาว ชี นีดส์ อะ สทิวเดินท วีซ่า ชี โกส ทู ดิ ออสเตรเลียน เอมบาสซี
 
-The officer interviews her. "Why do you want to study in Australia?" he asks.
+ดิ ออฟฟิเซอะ อินเทอวิวส์ เฮอร์ "วาย ดู ยู วอนทส์ ทู สตัดดิ อิน ออสเตรเลีย?" ฮี อาสคส์
 
-"I want to improve my English and get a better education," Kanya says.
+"ไอ วอนทส์ ทู อิมพรูฟว มาย อิงลิช แอนด์ เก็ท อะ เบทเทอะ เอดูเคชั่น" กัญญา เซย์ส
 
-The visa is approved. Kanya is excited.
+เดอะ วีซ่า อิส อะพรูฟวด กัญญา อิส เอคไซทิด
 
-Before leaving, Kanya says goodbye to her family. They cry.
+บิฟอร์ ลีฟวิ่ง กัญญา เซย์ส กูดบาย ทู เฮอร์ แฟมิลิ เดย์ ไคร
 
-"I'll miss you so much," her mother says.
+"อายล์ มิสซฺ ยู โซ มัช" เฮอร์ มาเทอะ เซย์ส
 
-"I'll call you every week," Kanya says.
+"อายล์ คอล ยู เอฟวรี วีค" กัญญา เซย์ส
 
-Kanya flies to Melbourne. It's her first time on a plane.
+กัญญา ไฟล์ส ทู เมลเบิร์น อิทส์ เฮอร์ เฟิสท ไทม์ ออน อะ เพลน
 
-When she arrives, everything is new. The culture, the food, the people.
+เวน ชี อะไรฟวส์ เอฟวรีธิง อิส นิว เดอะ คัลเชอะ เดอะ ฟูด เดอะ พีเพิล
 
-"I feel homesick," Kanya says.
+"ไอ ฟีล โฮมซิค" กัญญา เซย์ส
 
-But she makes new friends at university. They're from many countries.
+บัท ชี เมคส์ นิว เฟรนด์ส์ แอท ยูนิเวอซิติ เดย์อาร์ ฟรอม แมนนี่ คันทรีส์
 
-"We study together. We help each other," Kanya says.
+"วี สตัดดิ ทูเกทเธอะ วี เฮลพ อีช อาเทอะ" กัญญา เซย์ส
 
-After 1 year, Kanya is confident. Her English is fluent.
+อาฟเทอะ วัน เยียร์ กัญญา อิส คอนฟิเดนท์ เฮอร์ อิงลิช อิส ฟลูเอินท
 
-"Studying abroad was the best decision. I grew as a person," Kanya says.
+"สตัดดิ้ง อะบรอด วอส เดอะ เบสท ดีซิชัน ไอ กรู แอส อะ เพอร์ซัน" กัญญา เซย์ส
 
-She graduates and returns to Thailand. She gets a great job.
+ชี แกรดดูเอทส์ แอนด์ รีเทิร์นส์ ทู ไทยแลนด์ ชี เกทส์ อะ เกรท จ็อบ
 
-"My international experience helped me a lot," Kanya says.
+"มาย อินเตอร์เนชันนอล เอ็กสพีเรียนซ เฮลพด์ มี อะ ลอท" กัญญา เซย์ส
 
 ---
 

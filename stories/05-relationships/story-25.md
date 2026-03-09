@@ -1,54 +1,54 @@
 # เรื่องที่ 25: True Friendship (มิตรภาพที่แท้จริง)
 
-## 📖 เรื่องสั้น (2 ภาษา)
+## 📖 เรื่องสั้น (3 ภาษา)
 
-### English Version
+### English Version (พร้อมคำอ่าน)
 
 **True Friendship**
 
-Emma and Lisa have been best friends since high school. They've been friends for 15 years.
+เอ็มม่า แอนด์ ลิซ่า แฮฟว บีน เบสท เฟรนด์ส์ ซินซ ไฮ สคูล เดย์ฟว บีน เฟรนด์ส์ ฟอ ฟิฟทีน เยียร์ส
 
-They've been through everything together. Breakups, job losses, family problems.
+เดย์ฟว บีน ธรู เอฟวรีธิง ทูเกทเธอะ เบรคอัพส์ จ็อบ ลอสเซส แฟมิลิ พร็อบเบลมส์
 
-"When I was depressed, Lisa was there for me," Emma says.
+"เวน ไอ วอส ดิเพรสสด ลิซ่า วอส แด ฟอ มี" เอ็มม่า เซย์ส
 
-"When I lost my job, Emma lent me money," Lisa says.
+"เวน ไอ ลอสท มาย จ็อบ เอ็มม่า เลนท์ มี มันนี่" ลิซ่า เซย์ส
 
-One day, Emma gets sick. She has to go to the hospital.
+วัน เดย์ เอ็มม่า เกทส์ ซิค ชี แฮส ทู โก ทู เดอะ ฮอสพิทอล
 
-Lisa visits her every day. She brings food and flowers.
+ลิซ่า วิซิทส์ เฮอร์ เอฟวรี เดย์ ชี บริงส์ ฟูด แอนด์ ฟลาวเวอส์
 
-"How are you feeling?" Lisa asks.
+"ฮาว อาร์ ยู ฟีลลิง?" ลิซ่า อาสคส์
 
-"Better, thanks to you," Emma says.
+"เบทเทอะ แธงคส์ ทู ยู" เอ็มม่า เซย์ส
 
-Lisa stays with Emma for hours. They talk and laugh.
+ลิซ่า สเตย์ส วิธ เอ็มม่า ฟอ อาเวอส์ เดย์ ทอค แอนด์ ลอฟ
 
-The doctor says Emma needs surgery. It's expensive.
+เดอะ ดอคเทอะ เซย์ส เอ็มม่า นีดส์ เซอเจอรี อิทส์ เอคสเพนซิฟว
 
-"Don't worry about money. I'll help you," Lisa says.
+"ดอนท วอรี่ อะเบาท มันนี่ อายล์ เฮลพ ยู" ลิซ่า เซย์ส
 
-Lisa organizes a fundraiser. She asks friends and family to donate.
+ลิซ่า ออร์แกไนซส์ อะ ฟันดเรเซอะ ชี อาสคส์ เฟรนด์ส์ แอนด์ แฟมิลิ ทู โดเนท
 
-They raise 500,000 baht for Emma's surgery.
+เดย์ เรส ไฟฟว์ฮันเดรดเธาซันด บาท ฟอ เอ็มม่าส์ เซอเจอรี
 
-"Thank you so much. You're the best friend ever," Emma says.
+"แธงค ยู โซ มัช ยัว เดอะ เบสท เฟรนด์ เอฟเวอะ" เอ็มม่า เซย์ส
 
-"That's what friends are for," Lisa says.
+"แดทส์ วอท เฟรนด์ส์ อาร์ ฟอ" ลิซ่า เซย์ส
 
-Emma's surgery is successful. She recovers quickly.
+เอ็มม่าส์ เซอเจอรี อิส ซัคเซสฟูล ชี รีคัฟเวอส์ ควิกคลี
 
-After 3 months, Emma is back to normal. She and Lisa celebrate.
+อาฟเทอะ ธรี มันธส์ เอ็มม่า อิส แบค ทู นอร์มอล ชี แอนด์ ลิซ่า เซลลิเบรท
 
-"I don't know what I'd do without you," Emma says.
+"ไอ ดอนท โน วอท ไอด ดู วิธเอาท์ ยู" เอ็มม่า เซย์ส
 
-"You'd be fine. But I'm glad I can help," Lisa says.
+"ยูด บี ไฟน บัท ไอม แกลด ไอ แคน เฮลพ" ลิซ่า เซย์ส
 
-They've been friends for 15 years, and they'll be friends forever.
+เดย์ฟว บีน เฟรนด์ส์ ฟอ ฟิฟทีน เยียร์ส แอนด์ เดย์ล์ บี เฟรนด์ส์ ฟอเอฟเวอะ
 
-"True friendship is rare. I'm lucky to have you," Emma says.
+"ทรู เฟรนด์ชิพ อิส แร ไอ'm ลัคคี่ ทู แฮฟว ยู" เอ็มม่า เซย์ส
 
-"Me too," Lisa says. They hug.
+"มี ทู" ลิซ่า เซย์ส เดย์ ฮัก
 
 ---
 
