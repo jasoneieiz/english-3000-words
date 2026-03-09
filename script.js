@@ -107,8 +107,16 @@ function parseMarkdown(markdown) {
     // Bold
     html = html.replace(/\*\*(.*)\*\*/gim, '<b>$1</b>');
     
-    // Line breaks
-    html = html.replace(/\n/gim, '<br>');
+    // Paragraphs - split by double line breaks
+    const paragraphs = html.split(/\n\n+/);
+    html = paragraphs.map(p => {
+        // If paragraph starts with English letter, wrap in English paragraph
+        if (/^[A-Z]/.test(p.trim())) {
+            return '<p class="english-text">' + p.replace(/\n/g, '<br>') + '</p>';
+        }
+        // If paragraph is Thai, wrap in Thai paragraph
+        return '<p class="thai-text">' + p.replace(/\n/g, '<br>') + '</p>';
+    }).join('');
     
     return html;
 }
