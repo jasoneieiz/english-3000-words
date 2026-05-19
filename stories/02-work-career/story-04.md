@@ -103,5 +103,21 @@ Today, they called. I got the job!
 
 ---
 
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- I prepared all night.
+- I am willing to learn.
+
+**2. Translate to English:**
+- ฉันประหม่ามาก
+- พวกเขาโทรเรียกฉันไปสัมภาษณ์
+
+**3. Write your answer:**
+- How do you prepare for a job interview?
+- What are your strengths?
+
+---
+
 **เรื่องที่ 4 จบ**
 **ต่อไป:** เรื่องที่ 5 - Shopping for Clothes

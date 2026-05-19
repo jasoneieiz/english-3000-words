@@ -101,7 +101,36 @@ She's happier now. She loves going to work every day.
 เธอมีความสุขมากขึ้นตอนนี้ เธอรักไปทำงานทุกวัน
 
 "ทำตามความหลงใหลของคุณ ชีวิตสั้นเกินไปที่จะทำสิ่งที่คุณเกลียด" นารีกล่าว
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| career change | คะเรีย เชนจ์ | การเปลี่ยนอาชีพ | She makes a career change. |
+| accountant | อะเคาน์แทนท์ | นักบัญชี | She works as an accountant. |
+| passion | แพชชั่น | ความหลงใหล | Follow your passion. |
+| bakery | เบเกอรี่ | ร้านเบเกอรี่ | She opens a bakery. |
+| risk | ริสค | ความเสี่ยง | Changing careers is a risk. |
+| customer | คัสตะเมอร์ | ลูกค้า | Customers like her cakes. |
+| business | บิซิเนส | ธุรกิจ | Her business grows. |
+| income | อินคัม | รายได้ | Her income increases. |
+| reward | รีวอร์ด | ผลตอบแทน | The risk gets a reward. |
+| professional | โพรเฟสชันแนล | มืออาชีพ | She grows professionally. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- She wants to follow her passion.
+- Her business grows slowly.
+
+**2. Translate to English:**
+- เธอเปิดร้านเบเกอรี่
+- การเปลี่ยนอาชีพมีความเสี่ยง
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 37 จบ**

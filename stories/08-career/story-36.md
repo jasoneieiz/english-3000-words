@@ -96,7 +96,36 @@ Somkid starts a scholarship fund for poor students.
 สมคิดเริ่มกองทุนทุนสำหรับนักเรียนยากจน
 
 "ผมอยากช่วยคนอื่นเหมือนผม การศึกษาคือกุญแจ" สมคิดกล่าว
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| scholarship | สคอลาร์ชิพ | ทุนการศึกษา | He applies for a scholarship. |
+| afford | อะฟอร์ด | มีเงินพอจ่าย | My family can't afford it. |
+| straight A | สเตรท เอ | ได้เกรด A ทุกวิชา | He gets straight A's. |
+| apply | อะพลาย | สมัคร | Somkid applies for many scholarships. |
+| essay | เอสเสย์ | เรียงความ | He writes essays. |
+| document | ดอคคิวเม้นท์ | เอกสาร | He submits documents. |
+| dormitory | ดอร์มิทอรี่ | หอพัก | He lives in a dormitory. |
+| graduate | แกรดดูเอท | จบการศึกษา | He graduates with honors. |
+| multinational | มัลติเนชันแนล | ข้ามชาติ | He works at a multinational company. |
+| poverty | พอฟเวอร์ตี | ความยากจน | He escaped poverty. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- He gets a full scholarship.
+- Education changed my life.
+
+**2. Translate to English:**
+- เขาอยู่หอพัก
+- เขาส่งเงินกลับบ้าน
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 36 จบ**

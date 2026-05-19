@@ -66,7 +66,36 @@ Her preparation paid off. She got her dream job.
 
 "Preparation is the key to interview success," Watana says.
 "พรีพาเรชั่น อิส เดอะ คีย์ ทู อินเทอร์วิว ซัคเซส" วัฒนา เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| prepare | พรีแพร์ | เตรียมตัว | She prepares well. |
+| position | โพซิชั่น | ตำแหน่ง | She finds a perfect position. |
+| research | รีเสิร์ช | ค้นคว้า | She researches the company. |
+| strength | สเตร็งธ์ | จุดแข็ง | What are your strengths? |
+| professional | โพรเฟสชันแนล | มืออาชีพ | She wears professional clothes. |
+| confident | คอนฟิเดินท์ | มั่นใจ | Watana is confident. |
+| achievement | อะชีฟเมนท์ | ความสำเร็จ | What is your greatest achievement? |
+| impressed | อิมเพรสท์ | ประทับใจ | The manager is impressed. |
+| opportunity | ออพพอร์ทูนิตี้ | โอกาส | She asks about growth opportunity. |
+| accept | แอคเซพท์ | ตอบรับ | I accept the offer. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Preparation is the key to interview success.
+- The company offers her the position.
+
+**2. Translate to English:**
+- เธอค้นคว้าบริษัท
+- ผู้จัดการประทับใจ
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 41 จบ**

@@ -70,4 +70,20 @@ At the checkout counter, I pay with my credit card. The total is 1,500 baht. I p
 
 ---
 
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- I need to buy food for the week.
+- I check the price and the expiration date.
+
+**2. Translate to English:**
+- ฉันไปซูเปอร์มาร์เก็ต
+- ฉันจ่ายด้วยบัตรเครดิต
+
+**3. Write your answer:**
+- What do you usually buy at the supermarket?
+- Do you compare prices before buying food?
+
+---
+
 **เรื่องที่ 2 จบ**

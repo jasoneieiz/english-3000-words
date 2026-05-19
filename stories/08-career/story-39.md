@@ -106,7 +106,36 @@ Hybrid work is the best of both worlds.
 "ทำงานจากบ้านมีประโยชน์ แต่ฉันก็คิดถึงความเป็นมนุษย์" สมชายกล่าว
 
 งานไฮบริดคือสิ่งที่ดีที่สุดของทั้งสองโลก
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| pandemic | แพนเดมิค | โรคระบาดใหญ่ | During the pandemic, people work from home. |
+| productive | โพรดัคทีฟ | มีประสิทธิภาพ | Will I be productive? |
+| home office | โฮม ออฟฟิศ | สำนักงานที่บ้าน | He sets up a home office. |
+| system | ซิสเท็ม | ระบบ | He connects to the company system. |
+| distracted | ดิสแทรคทิด | ถูกรบกวน | He gets distracted easily. |
+| schedule | สเคดจูล | ตารางเวลา | He creates a schedule. |
+| workspace | เวิร์คสเปซ | พื้นที่ทำงาน | He needs a dedicated workspace. |
+| commuting | คอมมิวทิง | การเดินทางไปทำงาน | He saves commuting time. |
+| hybrid | ไฮบริด | แบบผสม | The company allows hybrid work. |
+| connection | คอนเนคชั่น | ความสัมพันธ์/การเชื่อมต่อ | He misses human connection. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Somchai works from home.
+- Hybrid work is the best of both worlds.
+
+**2. Translate to English:**
+- เขาตั้งสำนักงานที่บ้าน
+- เขาประหยัดเวลาเดินทาง
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 39 จบ**

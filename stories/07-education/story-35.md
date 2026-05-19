@@ -106,7 +106,36 @@ Her hard work pays off. She gets A's in all subjects.
 ความพยายามของเธอได้รับผลตอบแทน เธอได้ A ทุกวิชา
 
 "ห้องสมุดคืออาวุธลับของฉัน" พลอยกล่าว
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| final exam | ไฟนอล เอ็กแซม | สอบปลายภาค | Final exams are coming. |
+| distraction | ดิสแทรคชั่น | สิ่งรบกวน | There are too many distractions. |
+| library | ไลบรารี่ | ห้องสมุด | Ploy goes to the university library. |
+| peaceful | พีซฟูล | สงบ | The library is quiet and peaceful. |
+| study room | สตัดดี้ รูม | ห้องอ่านหนังสือ | She finds a study room. |
+| review | รีวิว | ทบทวน | She has five subjects to review. |
+| flashcard | แฟลชการ์ด | บัตรคำศัพท์ | She makes flashcards. |
+| memorize | เมโมไรซ์ | จดจำ | Flashcards help me memorize better. |
+| quiz | ควิซ | ทดสอบสั้น ๆ | We quiz each other. |
+| pay off | เพย์ ออฟ | ให้ผลตอบแทน | Her hard work pays off. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Final exams are coming.
+- Breaks help me focus.
+
+**2. Translate to English:**
+- ห้องสมุดเงียบและสงบ
+- ความพยายามของเธอได้ผลตอบแทน
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 35 จบ**

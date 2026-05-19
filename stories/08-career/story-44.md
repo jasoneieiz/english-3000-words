@@ -57,7 +57,36 @@ Nok got a raise. She's happier at work.
 
 "Difficult people teach you patience and professionalism," Nok says.
 "ดิฟฟิคัลท์ พีเพิล ทีช ยู เพเชี่ยนส์ แอนด์ โปรเฟสชันนอลลิซึม" นก เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| difficult | ดิฟฟิคัลท์ | ยาก | Nok has a difficult boss. |
+| stress | สเตรส | ความเครียด | She is stressed every day. |
+| quit | ควิท | ลาออก | Nok thinks about quitting. |
+| observe | ออบเซิร์ฟ | สังเกต | She observes her boss. |
+| pattern | แพทเทิร์น | รูปแบบ | She notices patterns. |
+| approach | อะโพรช | วิธีรับมือ | She adjusts her approach. |
+| report | รีพอร์ท | รายงาน | She prepares detailed reports. |
+| pressure | เพรสเชอร์ | ความกดดัน | He has pressure from above. |
+| professionalism | โพรเฟสชันแนลลิซึม | ความเป็นมืออาชีพ | He notices her professionalism. |
+| boundary | บาวน์ดารี | ขอบเขต | Nok learns to set boundaries. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Nok has a difficult boss.
+- She learns to set boundaries.
+
+**2. Translate to English:**
+- เธอเตรียมรายงานอย่างละเอียด
+- ความสัมพันธ์ของพวกเขาดีขึ้น
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 44 จบ**

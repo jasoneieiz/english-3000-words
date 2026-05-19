@@ -60,7 +60,36 @@ Her new salary is 40% higher.
 
 She continues networking. It's an ongoing investment.
 ชี คอนทินิวส์ เน็ตเวิร์คกิ้ง อิทส์ แอน ออนโกอิง อินเวสท์เม้นท์
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| networking | เน็ตเวิร์คกิง | การสร้างเครือข่าย | Networking is important. |
+| professional | โพรเฟสชันแนล | มืออาชีพ | Ploy is a young professional. |
+| industry | อินดัสทรี | อุตสาหกรรม | She attends industry events. |
+| business card | บิซิเนส การ์ด | นามบัตร | She brings business cards. |
+| contact | คอนแทคท์ | ผู้ติดต่อ | She follows up with new contacts. |
+| association | อะโซซิเอชั่น | สมาคม | She joins professional associations. |
+| conference | คอนเฟอเรนซ์ | การประชุมใหญ่ | She attends conferences. |
+| connection | คอนเนคชั่น | คนรู้จัก/การเชื่อมต่อ | She has many LinkedIn connections. |
+| refer | รีเฟอร์ | แนะนำต่อ | A contact refers her to a job. |
+| ongoing | ออนโกอิง | ต่อเนื่อง | Networking is an ongoing investment. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Ploy attends industry events.
+- Networking opened doors for me.
+
+**2. Translate to English:**
+- เธอติดตามผู้ติดต่อใหม่
+- เธอได้เงินเดือนสูงขึ้น
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 47 จบ**

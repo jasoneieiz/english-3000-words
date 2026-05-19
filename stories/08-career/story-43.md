@@ -60,7 +60,36 @@ She's now responsible for a team of 10 people.
 
 "I'll be a good leader. I'll help my team grow," Suda says.
 "อายล์ บี อะ กูด ลีดเดอร์ ไอล เฮลพ์ มาย ทีม โกรว์" สุดา เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| promotion | โพรโมชั่น | การเลื่อนตำแหน่ง | Suda wants a promotion. |
+| career | คะเรีย | อาชีพ | She wants to grow in her career. |
+| volunteer | วอลันเทียร์ | อาสาทำ | She volunteers for extra projects. |
+| training | เทรนนิง | การฝึกอบรม | She takes training courses. |
+| leadership | ลีดเดอร์ชิพ | ภาวะผู้นำ | She learns leadership. |
+| management | แมนเนจเมนท์ | การจัดการ | She learns management. |
+| achievement | อะชีฟเมนท์ | ความสำเร็จ | She presents her achievements. |
+| director | ไดเรคเตอร์ | ผู้อำนวยการ | She presents to the directors. |
+| salary | ซาลารี่ | เงินเดือน | Her salary increases. |
+| responsible | รีสพอนซิเบิล | รับผิดชอบ | She is responsible for a team. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Suda applies for the manager position.
+- Hard work leads to promotion.
+
+**2. Translate to English:**
+- เงินเดือนของเธอเพิ่มขึ้น
+- เธอรับผิดชอบทีมสิบคน
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 43 จบ**

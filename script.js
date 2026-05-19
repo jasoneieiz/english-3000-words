@@ -1,326 +1,314 @@
-// Navigation
+const state = {
+    storySeries: 'all',
+    vocabLevel: 'all',
+    query: '',
+    vocabVisible: 100,
+    theme: 'light'
+};
+
+const THEME_KEY = 'english3000-theme';
+
+function escapeHtml(value) {
+    return String(value || '').replace(/[&<>"']/g, (char) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+    }[char]));
+}
+
+function normalize(value) {
+    return String(value || '').toLowerCase().trim();
+}
+
+function matchesQuery(item, fields) {
+    const query = normalize(state.query);
+    if (!query) return true;
+    return fields.some((field) => normalize(item[field]).includes(query));
+}
+
 function showSection(sectionId) {
-    document.querySelectorAll('.section').forEach(section => {
-        section.classList.remove('active');
-    });
+    document.querySelectorAll('.section').forEach((section) => section.classList.remove('active'));
     document.getElementById(sectionId).classList.add('active');
-    document.querySelectorAll('.nav-btn').forEach(btn => {
-        btn.classList.remove('active');
-        if (btn.dataset.section === sectionId) {
-            btn.classList.add('active');
-        }
+    document.querySelectorAll('.nav-btn').forEach((btn) => {
+        btn.classList.toggle('active', btn.dataset.section === sectionId);
     });
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// Render stories
-function renderStories(storiesToRender) {
-    const grid = document.getElementById('stories-grid');
-    if (!grid) return;
-    
-    grid.innerHTML = '';
-    
-    storiesToRender.forEach(story => {
-        const card = document.createElement('div');
-        card.className = 'story-card';
-        card.innerHTML = `
-            <span class="series-tag">${story.seriesTh}</span>
-            <h3>${story.id}. ${story.title}</h3>
-            <p>${story.titleTh}</p>
-        `;
-        card.addEventListener('click', () => openStory(story));
-        grid.appendChild(card);
+function getPreferredTheme() {
+    const savedTheme = localStorage.getItem(THEME_KEY);
+    if (savedTheme === 'dark' || savedTheme === 'light') return savedTheme;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function applyTheme(theme) {
+    state.theme = theme;
+    document.documentElement.dataset.theme = theme;
+    localStorage.setItem(THEME_KEY, theme);
+
+    const toggle = document.getElementById('theme-toggle');
+    if (!toggle) return;
+
+    const isDark = theme === 'dark';
+    toggle.setAttribute('aria-label', isDark ? 'เปิดโหมดสว่าง' : 'เปิดโหมดมืด');
+    toggle.title = isDark ? 'Light mode' : 'Dark mode';
+    toggle.querySelector('.theme-icon').textContent = isDark ? '☀️' : '🌙';
+    toggle.querySelector('.theme-label').textContent = isDark ? 'Light' : 'Dark';
+}
+
+function toggleTheme() {
+    applyTheme(state.theme === 'dark' ? 'light' : 'dark');
+}
+
+function updateStats() {
+    const phraseCount = Object.values(phrases).reduce((sum, category) => sum + category.items.length, 0);
+    const stats = [
+        ['stories-count', stories.length],
+        ['vocab-count', vocabulary.length.toLocaleString('en-US')],
+        ['phrases-count', phraseCount]
+    ];
+
+    stats.forEach(([id, value]) => {
+        const element = document.getElementById(id);
+        if (element) element.textContent = value;
     });
 }
 
-// Filter stories
-function filterStories(series) {
-    if (series === 'all') {
-        renderStories(stories);
-    } else {
-        const filtered = stories.filter(s => s.series === series);
-        renderStories(filtered);
-    }
+function getFilteredStories() {
+    return stories.filter((story) => {
+        const seriesMatch = state.storySeries === 'all' || story.series === state.storySeries;
+        return seriesMatch && matchesQuery(story, ['title', 'titleTh', 'seriesTh']);
+    });
 }
 
-// Open story modal
-async function openStory(story) {
+function renderStories() {
+    const grid = document.getElementById('stories-grid');
+    const count = document.getElementById('stories-result-count');
+    if (!grid) return;
+
+    const filtered = getFilteredStories();
+    grid.innerHTML = filtered.map((story) => `
+        <button class="story-card" type="button" data-story-id="${story.id}">
+            <span class="series-tag">${escapeHtml(story.seriesTh)}</span>
+            <h3>${story.id}. ${escapeHtml(story.title)}</h3>
+            <p>${escapeHtml(story.titleTh)}</p>
+        </button>
+    `).join('');
+
+    if (count) count.textContent = `${filtered.length} เรื่อง`;
+
+    grid.querySelectorAll('.story-card').forEach((card) => {
+        card.addEventListener('click', () => {
+            const story = stories.find((item) => item.id === Number(card.dataset.storyId));
+            openStory(story);
+        });
+    });
+}
+
+function renderSeriesButtons() {
+    const selector = document.querySelector('.series-selector');
+    if (!selector) return;
+
+    const series = [...new Map(stories.map((story) => [story.series, story.seriesTh])).entries()];
+    selector.innerHTML = [
+        ['all', 'ทั้งหมด'],
+        ...series
+    ].map(([value, label]) => `
+        <button class="series-btn${state.storySeries === value ? ' active' : ''}" data-series="${escapeHtml(value)}" type="button">${escapeHtml(label)}</button>
+    `).join('');
+
+    selector.querySelectorAll('.series-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+            selector.querySelectorAll('.series-btn').forEach((item) => item.classList.remove('active'));
+            btn.classList.add('active');
+            state.storySeries = btn.dataset.series;
+            renderStories();
+        });
+    });
+}
+
+function getFilteredVocabulary() {
+    return vocabulary.filter((vocab) => {
+        const levelMatch = state.vocabLevel === 'all' || vocab.level === Number(state.vocabLevel);
+        return levelMatch && matchesQuery(vocab, ['word', 'pronunciation', 'meaning', 'example']);
+    });
+}
+
+function renderVocabulary() {
+    const list = document.getElementById('vocabulary-list');
+    const count = document.getElementById('vocab-result-count');
+    const more = document.getElementById('load-more-vocab');
+    if (!list) return;
+
+    const filtered = getFilteredVocabulary();
+    const displayVocab = filtered.slice(0, state.vocabVisible);
+
+    list.innerHTML = displayVocab.map((vocab) => `
+        <article class="vocab-item">
+            <div class="word">
+                <span>${escapeHtml(vocab.word)}</span>
+                <span class="level-pill">Level ${vocab.level}</span>
+            </div>
+            <div class="pronunciation">${escapeHtml(vocab.pronunciation)}</div>
+            <div class="meaning">${escapeHtml(vocab.meaning)}</div>
+            <div class="example">ตัวอย่าง: ${escapeHtml(vocab.example)}</div>
+        </article>
+    `).join('');
+
+    if (count) count.textContent = `แสดง ${displayVocab.length} จาก ${filtered.length.toLocaleString('en-US')} คำ`;
+    if (more) more.hidden = displayVocab.length >= filtered.length;
+}
+
+function renderPhrases() {
+    const container = document.getElementById('phrases-content');
+    const count = document.getElementById('phrases-result-count');
+    if (!container) return;
+
+    const query = normalize(state.query);
+    let total = 0;
+
+    container.innerHTML = Object.values(phrases).map((category) => {
+        const items = category.items.filter((item) => {
+            if (!query) return true;
+            return ['en', 'pronunciation', 'th'].some((field) => normalize(item[field]).includes(query));
+        });
+        if (!items.length) return '';
+        total += items.length;
+        return `
+            <section class="phrase-category">
+                <h3>${escapeHtml(category.title)}</h3>
+                <table class="phrase-table">
+                    <thead>
+                        <tr>
+                            <th>English</th>
+                            <th>คำอ่าน</th>
+                            <th>ไทย</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${items.map((item) => `
+                            <tr>
+                                <td><strong>${escapeHtml(item.en)}</strong></td>
+                                <td>${escapeHtml(item.pronunciation)}</td>
+                                <td>${escapeHtml(item.th)}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            </section>
+        `;
+    }).join('');
+
+    if (count) count.textContent = `${total} รายการ`;
+}
+
+function parseInline(text) {
+    return escapeHtml(text).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+}
+
+function flushTable(result, rows) {
+    if (!rows.length) return;
+    const cleanRows = rows.map((line) => line.split('|').slice(1, -1).map((cell) => parseInline(cell.trim())));
+    const header = cleanRows[0] || [];
+    const body = cleanRows.slice(2);
+    result.push('<table><thead><tr>');
+    header.forEach((cell) => result.push(`<th>${cell}</th>`));
+    result.push('</tr></thead><tbody>');
+    body.forEach((row) => {
+        result.push('<tr>');
+        row.forEach((cell) => result.push(`<td>${cell}</td>`));
+        result.push('</tr>');
+    });
+    result.push('</tbody></table>');
+}
+
+function parseMarkdown(markdown) {
+    const result = [];
+    let tableRows = [];
+
+    markdown.split(/\r?\n/).forEach((rawLine) => {
+        const line = rawLine.trim();
+        if (line.startsWith('|')) {
+            tableRows.push(line);
+            return;
+        }
+
+        flushTable(result, tableRows);
+        tableRows = [];
+
+        if (!line || line === '---') return;
+        if (line.startsWith('# ')) result.push(`<h1>${parseInline(line.slice(2))}</h1>`);
+        else if (line.startsWith('## ')) result.push(`<h2>${parseInline(line.slice(3))}</h2>`);
+        else if (line.startsWith('### ')) result.push(`<h3>${parseInline(line.slice(4))}</h3>`);
+        else if (line.startsWith('- ')) result.push(`<li>${parseInline(line.slice(2))}</li>`);
+        else if (/^[\u0E00-\u0E7F]/.test(line)) result.push(`<p class="thai-text">${parseInline(line)}</p>`);
+        else result.push(`<p>${parseInline(line)}</p>`);
+    });
+
+    flushTable(result, tableRows);
+    return result.join('\n').replace(/(<li>.*?<\/li>\n?)+/gs, (items) => `<ul>${items}</ul>`);
+}
+
+function openStory(story) {
     const modal = document.getElementById('story-modal');
     const modalBody = document.getElementById('modal-body');
-    
-    modalBody.innerHTML = '<div class="loading">กำลังโหลด...</div>';
+    if (!story || !modal || !modalBody) return;
+
+    modalBody.innerHTML = `
+        <div class="story-content">
+            ${parseMarkdown(story.content)}
+        </div>
+    `;
     modal.style.display = 'block';
-    
-    try {
-        const folder = getStoryFolder(story.series);
-        const filename = `story-${String(story.id).padStart(2, '0')}.md`;
-        const url = `stories/${folder}/${filename}`;
-        
-        const response = await fetch(url);
-        if (!response.ok) throw new Error('File not found');
-        
-        const markdown = await response.text();
-        const html = parseMarkdown(markdown);
-        
-        modalBody.innerHTML = `
-            <div class="story-content">
-                <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
-                ${html}
-            </div>
-        `;
-    } catch (error) {
-        console.error('Error loading story:', error, 'URL:', url);
-        modalBody.innerHTML = `
-            <div class="story-content">
-                <h2>${story.id}. ${story.title} (${story.titleTh})</h2>
-                <p style="color: red;">Error: File not found</p>
-                <p>URL: ${url}</p>
-                <p>Error: ${error.message}</p>
-            </div>
-        `;
-    }
 }
 
-// Get story folder by series
-function getStoryFolder(series) {
-    const folders = {
-        'daily-life': '01-daily-life',
-        'work': '02-work-career',
-        'travel': '03-travel',
-        'food': '04-food',
-        'relationships': '05-relationships',
-        'health': '06-health',
-        'education': '07-education',
-        'career': '08-career'
-    };
-    return folders[series] || '01-daily-life';
-}
-
-// Markdown parser - shows English + Thai pronunciation + Thai translation + Vocabulary + Phrases + Exercise
-function parseMarkdown(markdown) {
-    const lines = markdown.split(/\n/);
-    let result = [];
-    let i = 0;
-    let showThaiTranslation = false;
-    
-    while (i < lines.length) {
-        const line = lines[i];
-        const trimmed = line.trim();
-        
-        // Check if we're entering Thai version section
-        if (trimmed.includes('เวอร์ชันภาษาไทย')) {
-            showThaiTranslation = true;
-            result.push('<h3>เวอร์ชันภาษาไทย</h3>');
-            i++;
-            continue;
-        }
-        
-        // Check if we're entering Vocabulary section
-        if (trimmed.includes('คำศัพท์สำคัญ')) {
-            showThaiTranslation = false;
-            result.push('<h2>📚 คำศัพท์สำคัญ (Vocabulary)</h2>');
-            i++;
-            continue;
-        }
-        
-        // Check if we're entering Phrases section
-        if (trimmed.includes('วลีน่ารู้')) {
-            showThaiTranslation = false;
-            result.push('<h2>💬 วลีน่ารู้ (Useful Phrases)</h2>');
-            i++;
-            continue;
-        }
-        
-        // Check if we're entering Exercise section
-        if (trimmed.includes('แบบฝึกหัด')) {
-            showThaiTranslation = false;
-            result.push('<h2>✏️ แบบฝึกหัด (Exercise)</h2>');
-            i++;
-            continue;
-        }
-        
-        // Process headers
-        if (trimmed.startsWith('### ') && !trimmed.includes('English Version')) {
-            result.push('<h3>' + trimmed.replace('### ', '') + '</h3>');
-            i++;
-            continue;
-        }
-        
-        if (trimmed.startsWith('## ') && !trimmed.includes('เรื่องสั้น')) {
-            result.push('<h2>' + trimmed.replace('## ', '') + '</h2>');
-            i++;
-            continue;
-        }
-        
-        // Skip empty lines
-        if (!trimmed) {
-            i++;
-            continue;
-        }
-        
-        // If line starts with English letter, it's English text
-        if (/^[A-Z"]/.test(trimmed)) {
-            let englishText = trimmed;
-            let thaiPronunciation = '';
-            
-            // Check if next line is Thai pronunciation
-            if (i + 1 < lines.length && /^[\u0E00-\u0E7F]/.test(lines[i + 1].trim())) {
-                thaiPronunciation = lines[i + 1].trim();
-                i++; // Skip the Thai pronunciation line
-            }
-            
-            // Create display with English + pronunciation
-            result.push('<div class="sentence-pair">');
-            result.push('<p class="english-text">' + englishText + '</p>');
-            if (thaiPronunciation) {
-                result.push('<p class="thai-pronunciation">' + thaiPronunciation + '</p>');
-            }
-            result.push('</div>');
-        }
-        // If we're in Thai translation section and line starts with Thai character
-        else if (showThaiTranslation && /^[\u0E00-\u0E7F]/.test(trimmed)) {
-            result.push('<p class="thai-translation">' + trimmed + '</p>');
-        }
-        // Vocabulary, Phrases, Exercise content
-        else if (!showThaiTranslation && trimmed.startsWith('|')) {
-            // Keep table format
-            result.push(line);
-        }
-        // Other content (bold text, lists, etc.)
-        else {
-            result.push(line);
-        }
-        
-        i++;
-    }
-    
-    return result.join('\n');
-}
-
-// Close modal
 function closeModal() {
     document.getElementById('story-modal').style.display = 'none';
 }
 
-// Render vocabulary
-function renderVocabulary(vocabToRender) {
-    const list = document.getElementById('vocabulary-list');
-    if (!list) return;
-    
-    list.innerHTML = '';
-    
-    const displayVocab = vocabToRender.slice(0, 200);
-    
-    displayVocab.forEach(vocab => {
-        const item = document.createElement('div');
-        item.className = 'vocab-item';
-        item.innerHTML = `
-            <div class="word">${vocab.word} <span class="pronunciation">${vocab.pronunciation}</span></div>
-            <div class="meaning">${vocab.meaning}</div>
-            <div class="example">ตัวอย่าง: ${vocab.example}</div>
-        `;
-        list.appendChild(item);
-    });
-}
-
-// Filter vocabulary
-function filterVocabulary(level) {
-    if (level === 'all') {
-        renderVocabulary(vocabulary);
-    } else {
-        const filtered = vocabulary.filter(v => v.level === parseInt(level));
-        renderVocabulary(filtered);
-    }
-}
-
-// Render phrases
-function renderPhrases() {
-    const container = document.getElementById('phrases-content');
-    if (!container) return;
-    
-    container.innerHTML = '';
-    
-    for (const key in phrases) {
-        const category = phrases[key];
-        const section = document.createElement('div');
-        section.className = 'phrase-category';
-        
-        let tableHtml = `
-            <h3>${category.title}</h3>
-            <table class="phrase-table">
-                <thead>
-                    <tr>
-                        <th>English</th>
-                        <th>คำอ่าน</th>
-                        <th>ไทย</th>
-                    </tr>
-                </thead>
-                <tbody>
-        `;
-        
-        category.items.forEach(item => {
-            tableHtml += `
-                <tr>
-                    <td><strong>${item.en}</strong></td>
-                    <td>${item.pronunciation}</td>
-                    <td>${item.th}</td>
-                </tr>
-            `;
-        });
-        
-        tableHtml += '</tbody></table>';
-        section.innerHTML = tableHtml;
-        container.appendChild(section);
-    }
-}
-
-// Initialize
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('Page loaded, stories:', stories ? stories.length : 'not loaded');
-    
-    // Navigation buttons
-    document.querySelectorAll('.nav-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            showSection(this.dataset.section);
-        });
-    });
-    
-    // Series filter buttons
-    document.querySelectorAll('.series-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            document.querySelectorAll('.series-btn').forEach(b => b.classList.remove('active'));
-            this.classList.add('active');
-            filterStories(this.dataset.series);
-        });
-    });
-    
-    // Level filter buttons
-    document.querySelectorAll('.level-btn').forEach(btn => {
-        btn.addEventListener('click', function() {
-            document.querySelectorAll('.level-btn').forEach(b => b.classList.remove('active'));
-            this.classList.add('active');
-            filterVocabulary(this.dataset.level);
-        });
-    });
-    
-    // Render stories
-    if (typeof stories !== 'undefined' && stories.length > 0) {
-        renderStories(stories);
-    } else {
-        console.error('Stories not loaded!');
-    }
-    
-    // Render vocabulary and phrases
-    renderVocabulary(vocabulary);
+function renderAll() {
+    renderStories();
+    renderVocabulary();
     renderPhrases();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    applyTheme(getPreferredTheme());
+    updateStats();
+    renderSeriesButtons();
+    renderAll();
+
+    document.querySelectorAll('.nav-btn').forEach((btn) => {
+        btn.addEventListener('click', () => showSection(btn.dataset.section));
+    });
+
+    document.querySelectorAll('.level-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.level-btn').forEach((item) => item.classList.remove('active'));
+            btn.classList.add('active');
+            state.vocabLevel = btn.dataset.level;
+            state.vocabVisible = 100;
+            renderVocabulary();
+        });
+    });
+
+    document.getElementById('site-search')?.addEventListener('input', (event) => {
+        state.query = event.target.value;
+        state.vocabVisible = 100;
+        renderAll();
+    });
+
+    document.getElementById('load-more-vocab')?.addEventListener('click', () => {
+        state.vocabVisible += 100;
+        renderVocabulary();
+    });
+
+    document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
 });
 
-// Close modal when clicking outside
-window.addEventListener('click', function(e) {
+window.addEventListener('click', (event) => {
     const modal = document.getElementById('story-modal');
-    if (e.target === modal) {
-        closeModal();
-    }
+    if (event.target === modal) closeModal();
 });
-
-console.log('Script loaded');

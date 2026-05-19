@@ -57,7 +57,36 @@ After 6 months, Chai's family is happy again.
 
 Balance is the key to happiness.
 บาลานซ์ อิส เดอะ คีย์ ทู แฮปปี้เนส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| work-life balance | เวิร์ค-ไลฟ์ แบาลานซ์ | สมดุลงานและชีวิต | Chai needs better work-life balance. |
+| personal life | เพอร์ซะนัล ไลฟ์ | ชีวิตส่วนตัว | He has no personal life. |
+| realize | เรียลไลซ์ | ตระหนัก | Chai realizes he has a problem. |
+| boundary | บาวน์ดารี | ขอบเขต | He sets boundaries. |
+| email | อีเมล | อีเมล | No work emails after 8 PM. |
+| weekend | วีคเอนด์ | วันหยุดสุดสัปดาห์ | Weekends are for family. |
+| productivity | โพรดักทิฟวิตี้ | ประสิทธิภาพการทำงาน | His productivity improves. |
+| focused | โฟคัสท์ | มีสมาธิ | He is more focused. |
+| rest | เรสท์ | การพักผ่อน | Rest makes you productive. |
+| balance | แบาลานซ์ | ความสมดุล | Balance is the key. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Chai works twelve hours a day.
+- Rest makes you more productive.
+
+**2. Translate to English:**
+- เขาคิดถึงครอบครัว
+- วันหยุดสุดสัปดาห์เป็นเวลาของครอบครัว
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 45 จบ**

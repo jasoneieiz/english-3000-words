@@ -136,7 +136,20 @@ Online learning taught her independence and self-discipline.
 | powerful | เพาเวอร์ฟูล | มีพลัง |
 | tool | ทูล | เครื่องมือ |
 | education | เอดดูเคชั่น | การศึกษา |
+---
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- I can learn at my own pace.
+- Technology can be a powerful tool for education.
+
+**2. Translate to English:**
+- ฉันต้องมีวินัยมากขึ้น
+- อินเทอร์เน็ตช้าบางครั้ง
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
 
 ---
-
 **เรื่องที่ 34 จบ**

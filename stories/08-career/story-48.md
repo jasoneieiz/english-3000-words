@@ -57,7 +57,36 @@ She earns 3 times her old salary.
 
 "A side hustle can become your main hustle," Manee says.
 "อะ ไซด์ ฮัสเซิล แคน บิคัม ยัว เมน ฮัสเซิล" มานี เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| side hustle | ไซด์ ฮัสเซิล | งานเสริม | She starts a side hustle. |
+| extra income | เอ็กซ์ตร้า อินคัม | รายได้เสริม | She wants extra income. |
+| graphic design | กราฟิก ดีไซน์ | การออกแบบกราฟิก | She is good at graphic design. |
+| portfolio | พอร์ตโฟลิโอ | แฟ้มผลงาน | She creates a portfolio website. |
+| client | ไคลเอนท์ | ลูกค้า | Her first client is a friend. |
+| charge | ชาร์จ | คิดราคา | She charges 5,000 baht. |
+| referral | รีเฟอร์รัล | การบอกต่อ | She gets clients through referrals. |
+| raise prices | เรส ไพรซิส | ขึ้นราคา | She raises her prices. |
+| cautious | คอเชิส | ระมัดระวัง | She is cautious. |
+| full-time | ฟูลไทม์ | เต็มเวลา | She goes full-time. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Manee starts a side hustle.
+- Her side income equals her salary.
+
+**2. Translate to English:**
+- เธอสร้างเว็บไซต์ผลงาน
+- เธอทำงานออกแบบเต็มเวลา
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 48 จบ**

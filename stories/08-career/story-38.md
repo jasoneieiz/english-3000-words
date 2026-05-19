@@ -106,7 +106,36 @@ He saves money from his salary. He wants to buy a car.
 เขาเก็บเงินจากเงินเดือนของเขา เขาอยากซื้อรถ
 
 "ทำงานหนัก เก็บเงิน วางแผนสำหรับอนาคต" กริทกล่าว
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| graduate | แกรดดูเอท | เรียนจบ | Krit just graduated. |
+| resume | เรซูเม่ | ประวัติย่อ | He sent 50 resumes. |
+| interview | อินเทอร์วิว | สัมภาษณ์ | Krit goes to interviews. |
+| position | โพซิชั่น | ตำแหน่งงาน | We offer you the position. |
+| colleague | คอลลีก | เพื่อนร่วมงาน | His colleagues welcome him. |
+| task | ทาสค | งานที่ต้องทำ | He has many tasks to learn. |
+| guidance | ไกแดนซ์ | คำแนะนำ | His boss gives him guidance. |
+| bonus | โบนัส | เงินพิเศษ | Krit gets his first bonus. |
+| valuable | แวลยูเอเบิล | มีคุณค่า | He is a valuable team member. |
+| salary | ซาลารี่ | เงินเดือน | He saves money from his salary. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Krit is looking for his first job.
+- He gets his first bonus.
+
+**2. Translate to English:**
+- เขาส่งเรซูเม่ 50 ฉบับ
+- เขาเป็นสมาชิกทีมที่มีคุณค่า
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 38 จบ**

@@ -57,7 +57,36 @@ Tum mentors other entrepreneurs. He shares his lessons.
 
 "Failure is not the end. It's a stepping stone to success," Tum says.
 "เฟลเยอร์ อิส น็อท ดิ เอนด์ อิทส์ อะ สเตพพิ้ง สโตน ทู ซัคเซส" ตุ้ม เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| failure | เฟลเยอร์ | ความล้มเหลว | Failure is a lesson. |
+| business | บิซิเนส | ธุรกิจ | Tum started a business. |
+| devastated | เดวะสเตทิด | เสียใจมาก | He is devastated. |
+| encourage | เอนเคอเรจ | ให้กำลังใจ | His friend encourages him. |
+| analyze | แอนะไลซ์ | วิเคราะห์ | Tum analyzes what went wrong. |
+| market | มาร์เคท | ตลาด | He did not research the market. |
+| validate | แวลิเดท | ตรวจสอบความเป็นไปได้ | He validates the idea first. |
+| profitable | พรอฟิทะเบิล | มีกำไร | The business is profitable. |
+| mentor | เมนทอร์ | ให้คำปรึกษา | Tum mentors entrepreneurs. |
+| stepping stone | สเตปปิง สโตน | ก้าวสำคัญ | Failure is a stepping stone. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Tum learns from failure.
+- The new business becomes profitable.
+
+**2. Translate to English:**
+- เขาวิเคราะห์สิ่งที่ผิดพลาด
+- ความล้มเหลวไม่ใช่จุดจบ
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 49 จบ**

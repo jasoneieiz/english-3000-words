@@ -101,8 +101,37 @@ She advises others: "Start small. Learn from mistakes. Never give up."
 เธอแนะนำคนอื่น: "เริ่มเล็ก เรียนรู้จากข้อผิดพลาด อย่าอมแพ้"
 
 "การเป็นผู้ประกอบการยาก แต่มันคุ้มค่า" พิมกล่าว
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| business | บิซิเนส | ธุรกิจ | She starts a business. |
+| entrepreneur | ออนเทรพรีเนอร์ | ผู้ประกอบการ | An entrepreneur starts a company. |
+| product | โพรดัคท์ | สินค้า | She sells her products. |
+| customer | คัสตะเมอร์ | ลูกค้า | Customers buy her products. |
+| market | มาร์เคท | ตลาด | She researches the market. |
+| invest | อินเวสท์ | ลงทุน | She invests her savings. |
+| profit | พรอฟิท | กำไร | The business becomes profitable. |
+| brand | แบรนด์ | ตราสินค้า | She builds her brand. |
+| mistake | มิสเทค | ข้อผิดพลาด | She learns from mistakes. |
+| owner | โอว์เนอร์ | เจ้าของ | She becomes a business owner. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Pim starts a small business.
+- She learns from her mistakes.
+
+**2. Translate to English:**
+- เธอลงทุนเงินออม
+- ธุรกิจเริ่มมีกำไร
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 40 จบ**
 **ครึ่งทางแล้ว! 50 เรื่อง!**

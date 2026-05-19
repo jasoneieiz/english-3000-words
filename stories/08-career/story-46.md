@@ -60,7 +60,36 @@ He travels to 10 countries in the first year.
 
 "Retirement planning gave me peace of mind," Somkit says.
 "รีไทร์เม้นท์ แพลนนิ่ง เกฟว มี พีซ ออฟ ไมนด์" สมคิด เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| retirement | รีไทร์เมนท์ | การเกษียณ | He thinks about retirement. |
+| expense | เอ็กซ์เพนส์ | ค่าใช้จ่าย | He calculates his expenses. |
+| advisor | แอดไวเซอร์ | ที่ปรึกษา | He talks to a financial advisor. |
+| save | เซฟ | ออมเงิน | He saves 30% of his salary. |
+| invest | อินเวสท์ | ลงทุน | He invests in stocks. |
+| stock | สต็อค | หุ้น | He invests in stocks. |
+| mutual fund | มิวชวล ฟันด์ | กองทุนรวม | He invests in mutual funds. |
+| diversify | ไดเวอร์ซิฟาย | กระจายการลงทุน | He diversifies investments. |
+| debt | เดท | หนี้ | No debt in retirement. |
+| financially free | ไฟแนนเชียลลี่ ฟรี | อิสระทางการเงิน | He is financially free. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Somkit wants to retire at sixty.
+- He diversifies his investments.
+
+**2. Translate to English:**
+- เขาออมเงินสามสิบเปอร์เซ็นต์
+- เขาไม่มีหนี้ตอนเกษียณ
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 46 จบ**

@@ -85,5 +85,21 @@ At 5:00 PM, I finish work. I'm tired but happy. I think I'm going to like this j
 
 ---
 
+## ✏️ แบบฝึกหัด (Exercise)
+
+**1. Translate to Thai:**
+- Today is my first day at a new job.
+- Everyone is very friendly.
+
+**2. Translate to English:**
+- ฉันอยากสร้างความประทับใจที่ดี
+- ฉันเริ่มทำงานโปรเจกต์แรก
+
+**3. Write your answer:**
+- What should you do on your first day at work?
+- How can colleagues help a new employee?
+
+---
+
 **เรื่องที่ 3 จบ**
 **ต่อไป:** เรื่องที่ 4 - Job Interview

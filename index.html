@@ -12,23 +12,32 @@
 </head>
 <body>
     <header>
-        <div class="container">
-            <h1>📚 เก่งศัพท์ 3,000 คำ</h1>
-            <p class="subtitle">หนังสือเรียนภาษาอังกฤษ 2 ภาษา (อังกฤษ-ไทย)</p>
+        <div class="container header-inner">
+            <div>
+                <p class="eyebrow">English Thai Reader</p>
+                <h1>📚 เก่งศัพท์ 3,000 คำ</h1>
+                <p class="subtitle">หนังสือเรียนภาษาอังกฤษ 2 ภาษา (อังกฤษ-ไทย)</p>
+            </div>
             <div class="stats">
-                <span>✅ 3,000 คำศัพท์</span>
-                <span>✅ 50 เรื่องสั้น</span>
-                <span>✅ 150+ วลี/สำนวน</span>
+                <span><strong id="vocab-count">0</strong> คำศัพท์</span>
+                <span><strong id="stories-count">0</strong> เรื่องสั้น</span>
+                <span><strong id="phrases-count">0</strong> วลี/สำนวน</span>
             </div>
         </div>
     </header>
 
     <nav class="main-nav">
         <div class="container">
-            <button class="nav-btn active" data-section="home">🏠 หน้าแรก</button>
-            <button class="nav-btn" data-section="stories">📖 เรื่องสั้น</button>
-            <button class="nav-btn" data-section="vocabulary">📚 คำศัพท์</button>
-            <button class="nav-btn" data-section="phrases">💬 วลี/สำนวน</button>
+            <div class="nav-tabs">
+                <button class="nav-btn active" data-section="home">🏠 หน้าแรก</button>
+                <button class="nav-btn" data-section="stories">📖 เรื่องสั้น</button>
+                <button class="nav-btn" data-section="vocabulary">📚 คำศัพท์</button>
+                <button class="nav-btn" data-section="phrases">💬 วลี/สำนวน</button>
+            </div>
+            <button class="theme-toggle" id="theme-toggle" type="button" aria-label="เปิดโหมดมืด" title="Dark mode">
+                <span class="theme-icon">🌙</span>
+                <span class="theme-label">Dark</span>
+            </button>
         </div>
     </nav>
 
@@ -37,12 +46,16 @@
         <section id="home" class="section active">
             <div class="welcome-card">
                 <h2>ยินดีต้อนรับสู่หนังสือ "เก่งศัพท์ 3,000 คำ"</h2>
-                <p>หนังสือเรียนภาษาอังกฤษที่รวบรวมศัพท์ Oxford 3,000 คำ พร้อมเรื่องสั้น 2 ภาษา</p>
+                <p>หนังสือเรียนภาษาอังกฤษที่รวบรวมคำศัพท์ เรื่องสั้น 2 ภาษา และวลีที่ใช้บ่อย</p>
+                <div class="search-panel">
+                    <label for="site-search">ค้นหา</label>
+                    <input id="site-search" type="search" placeholder="พิมพ์คำศัพท์ ความหมาย ชื่อเรื่อง หรือวลี">
+                </div>
                 
                 <div class="features">
                     <div class="feature">
-                        <h3>📖 เรื่องสั้น 50 เรื่อง</h3>
-                        <p>เรื่องสั้น 2 ภาษา (อังกฤษ-ไทย) 8 ซีรีส์:</p>
+                        <h3>📖 เรื่องสั้น 150 เรื่อง</h3>
+                        <p>เรื่องสั้น 2 ภาษา (อังกฤษ-ไทย) หลายหมวด:</p>
                         <ul>
                             <li>ชีวิตประจำวัน (4 เรื่อง)</li>
                             <li>การทำงาน (3 เรื่อง)</li>
@@ -56,17 +69,17 @@
                     </div>
                     
                     <div class="feature">
-                        <h3>📚 คำศัพท์ 3,000 คำ</h3>
+                        <h3>📚 คำศัพท์ครบจากไฟล์ข้อมูล</h3>
                         <p>แบ่งตามระดับ CEFR:</p>
                         <ul>
                             <li>Level 1 (A1-A2): 500 คำ</li>
                             <li>Level 2 (B1-B2): 1,000 คำ</li>
-                            <li>Level 3 (C1-C2): 1,500 คำ</li>
+                            <li>Level 3 (C1-C2): 750 คำ</li>
                         </ul>
                     </div>
                     
                     <div class="feature">
-                        <h3>💬 วลีและสำนวน 150+</h3>
+                        <h3>💬 วลีและสำนวน</h3>
                         <p>วลีและสำนวนที่ใช้บ่อย:</p>
                         <ul>
                             <li>วลีทักทาย ขอบคุณ ขอโทษ</li>
@@ -86,18 +99,11 @@
 
         <!-- เรื่องสั้น -->
         <section id="stories" class="section">
-            <h2>📖 เรื่องสั้น 50 เรื่อง</h2>
+            <h2>📖 เรื่องสั้น</h2>
+            <p class="result-count" id="stories-result-count">0 เรื่อง</p>
             
             <div class="series-selector">
                 <button class="series-btn active" data-series="all">ทั้งหมด</button>
-                <button class="series-btn" data-series="daily-life">ชีวิตประจำวัน</button>
-                <button class="series-btn" data-series="work">การทำงาน</button>
-                <button class="series-btn" data-series="travel">ท่องเที่ยว</button>
-                <button class="series-btn" data-series="food">อาหาร</button>
-                <button class="series-btn" data-series="relationships">ความสัมพันธ์</button>
-                <button class="series-btn" data-series="health">สุขภาพ</button>
-                <button class="series-btn" data-series="education">การศึกษา</button>
-                <button class="series-btn" data-series="career">อาชีพ</button>
             </div>
 
             <div class="stories-grid" id="stories-grid">
@@ -107,7 +113,8 @@
 
         <!-- คำศัพท์ -->
         <section id="vocabulary" class="section">
-            <h2>📚 คำศัพท์ 3,000 คำ</h2>
+            <h2>📚 คำศัพท์</h2>
+            <p class="result-count" id="vocab-result-count">0 คำ</p>
             
             <div class="level-selector">
                 <button class="level-btn active" data-level="all">ทั้งหมด</button>
@@ -119,11 +126,15 @@
             <div class="vocabulary-list" id="vocabulary-list">
                 <!-- จะถูกเติมด้วย JavaScript -->
             </div>
+            <div class="load-more-wrap">
+                <button class="btn-secondary" id="load-more-vocab" type="button">โหลดคำศัพท์เพิ่ม</button>
+            </div>
         </section>
 
         <!-- วลี/สำนวน -->
         <section id="phrases" class="section">
-            <h2>💬 วลีและสำนวน 150+</h2>
+            <h2>💬 วลีและสำนวน</h2>
+            <p class="result-count" id="phrases-result-count">0 รายการ</p>
             
             <div class="phrases-content" id="phrases-content">
                 <!-- จะถูกเติมด้วย JavaScript -->
@@ -142,17 +153,11 @@
     <footer>
         <div class="container">
             <p>📚 เก่งศัพท์ 3,000 คำ | สร้างโดย Jinnie 🐷</p>
-            <p>เสร็จสมบูรณ์ 100% | 2026-03-09</p>
+            <p>อัปเดตจากข้อมูลใน repo | 2026-05-19</p>
         </div>
     </footer>
 
     <script src="data.js"></script>
     <script src="script.js"></script>
-    <script>
-    // Close modal function
-    function closeModal() {
-        document.getElementById('story-modal').style.display = 'none';
-    }
-    </script>
 </body>
 </html>

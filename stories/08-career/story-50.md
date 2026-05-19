@@ -60,8 +60,37 @@ His advice to young people: "Work hard. Never give up. Believe in yourself."
 
 "Your background doesn't define your future. Your actions do," Somchai says.
 "ยัว แบคกราวนด์ ดาสซึนท ดีไฟน์ ยัว ฟิวเจอร์ ยัว แอคชั่นส์ ดู" สมชาย เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| success | ซัคเซส | ความสำเร็จ | This is a success story. |
+| village | วิลเลจ | หมู่บ้าน | He grew up in a poor village. |
+| scholarship | สคอลาร์ชิพ | ทุนการศึกษา | He got a scholarship. |
+| honors | ออนเนอร์ส | เกียรตินิยม | He graduated with honors. |
+| invest | อินเวสท์ | ลงทุน | He invested wisely. |
+| company | คัมพะนี | บริษัท | He started his own company. |
+| profitable | พรอฟิทะเบิล | มีกำไร | His company became profitable. |
+| public | พับลิค | เข้าตลาดหลักทรัพย์/สาธารณะ | The company went public. |
+| millionaire | มิลเลียนแนร์ | เศรษฐีเงินล้าน | He became a millionaire. |
+| contribute | คอนทริบิวท์ | มีส่วนช่วย | He contributes to society. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Somchai started with nothing.
+- Education is the key.
+
+**2. Translate to English:**
+- เขาเริ่มบริษัทของตัวเอง
+- ความสำเร็จคือการสร้างความแตกต่าง
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 50 จบ**
 **ครบ 50 เรื่องแล้ว!** 🎉

@@ -60,7 +60,36 @@ They go for dinner together. They're proud of their work.
 
 "Teamwork is the ability to work together toward a common goal," Somchai says.
 "ทีมเวิร์ค อิส ดิ อะบิลิตี้ ทู เวิร์ค ทูเกทเทอร์ ทูเวิร์ด อะ คอมมอน โกล" สมชาย เซย์ส
+---
+## 📚 คำศัพท์สำคัญ (Vocabulary)
+
+| Word | คำอ่าน | ความหมาย | ตัวอย่าง |
+|------|--------|----------|----------|
+| teamwork | ทีมเวิร์ค | การทำงานเป็นทีม | Teamwork is essential. |
+| project | โพรเจคท์ | โครงการ | The company has a big project. |
+| leader | ลีดเดอร์ | หัวหน้า | Somchai is the team leader. |
+| assign | อะไซน์ | มอบหมาย | He assigns tasks. |
+| strength | สเตร็งธ์ | จุดแข็ง | Use your strengths. |
+| coordinate | โคออร์ดิเนท | ประสานงาน | He coordinates everything. |
+| issue | อิชชู | ปัญหา | They discuss the issues. |
+| communicate | คอมมิวนิเคท | สื่อสาร | They communicate better. |
+| client | ไคลเอนท์ | ลูกค้า | The client is happy. |
+| celebrate | เซเลเบรท | ฉลอง | The team celebrates. |
 
 ---
+## ✏️ แบบฝึกหัด (Exercise)
 
+**1. Translate to Thai:**
+- Teamwork is essential for this project.
+- The project is completed on time.
+
+**2. Translate to English:**
+- สมชายมอบหมายงาน
+- ทีมต้องสื่อสารให้ดีขึ้น
+
+**3. Write your answer:**
+- What did you learn from this story?
+- Which word from this story is useful for you?
+
+---
 **เรื่องที่ 42 จบ**
