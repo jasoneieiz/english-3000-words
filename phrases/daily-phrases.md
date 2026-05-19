@@ -51,38 +51,38 @@
 
 ### สำนวนพื้นฐาน
 
-| Idiom | ความหมาย | ตัวอย่าง |
-|-------|----------|----------|
-| Break a leg! | โชคดี | **Break a leg** on your test! |
-| Piece of cake | ง่ายมาก | It's a **piece of cake**. |
-| Under the weather | ไม่สบาย | I feel **under the weather**. |
-| Cost an arm and a leg | แพงมาก | It **costs an arm and a leg**. |
-| Hit the books | เรียนหนัก | I need to **hit the books**. |
-| Let the cat out of the bag | บอกความลับ | Don't **let the cat out of the bag**. |
-| Once in a blue moon | นานๆ ครั้ง | I eat out **once in a blue moon**. |
-| See eye to eye | เห็นด้วย | We **see eye to eye** on this. |
-| Time flies | เวลาผ่านไปเร็ว | **Time flies** when you're having fun. |
-| Better late than never | มาช้ายังดีกว่าไม่มา | **Better late than never**. |
+| English | คำอ่าน | ไทย |
+|---------|--------|-----|
+| Break a leg! | เบรค อะ เลก | โชคดี |
+| Piece of cake | พีซ ออฟ เค้ก | ง่ายมาก |
+| Under the weather | อันเดอร์ เดอะ เวเธอร์ | ไม่สบาย |
+| Cost an arm and a leg | คอสท์ แอน อาร์ม แอนด์ อะ เลก | แพงมาก |
+| Hit the books | ฮิท เดอะ บุคส์ | เรียนหนัก |
+| Let the cat out of the bag | เลท เดอะ แคท เอาท์ ออฟ เดอะ แบก | บอกความลับ |
+| Once in a blue moon | วันซ์ อิน อะ บลู มูน | นานๆ ครั้ง |
+| See eye to eye | ซี อาย ทู อาย | เห็นด้วย |
+| Time flies | ไทม ฟลายส์ | เวลาผ่านไปเร็ว |
+| Better late than never | เบทเทอร์ เลท แดน เนเวอร์ | มาช้ายังดีกว่าไม่มา |
 
 ### สำนวนเกี่ยวกับเวลา
 
-| Idiom | ความหมาย |
-|-------|----------|
-| In the nick of time | ทันเวลาพอดี |
-| At the last minute | นาทีสุดท้าย |
-| Sooner or later | ไม่ช้าก็เร็ว |
-| From time to time | บางครั้งบางคราว |
-| All the time | ตลอดเวลา |
+| English | คำอ่าน | ไทย |
+|---------|--------|-----|
+| In the nick of time | อิน เดอะ นิค ออฟ ไทม | ทันเวลาพอดี |
+| At the last minute | แอท เดอะ ลาสท์ มินิท | นาทีสุดท้าย |
+| Sooner or later | ซูนเนอร์ ออร์ เลทเทอร์ | ไม่ช้าก็เร็ว |
+| From time to time | ฟรอม ไทม ทู ไทม | บางครั้งบางคราว |
+| All the time | ออล เดอะ ไทม | ตลอดเวลา |
 
 ### สำนวนเกี่ยวกับอารมณ์
 
-| Idiom | ความหมาย |
-|-------|----------|
-| On cloud nine | มีความสุขมาก |
-| Feeling blue | รู้สึกเศร้า |
-| Over the moon | ดีใจมาก |
-| Down in the dumps | รู้สึกหดหู่ |
-| Tickled pink | ดีใจมาก |
+| English | คำอ่าน | ไทย |
+|---------|--------|-----|
+| On cloud nine | ออน คลาวด์ ไนน์ | มีความสุขมาก |
+| Feeling blue | ฟีลลิง บลู | รู้สึกเศร้า |
+| Over the moon | โอเวอร์ เดอะ มูน | ดีใจมาก |
+| Down in the dumps | ดาวน์ อิน เดอะ ดัมพส์ | รู้สึกหดหู่ |
+| Tickled pink | ทิคเคิลด์ พิงค์ | ดีใจมาก |
 
 ---
 
